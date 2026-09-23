@@ -40,7 +40,7 @@ Write two to four sentences, in this order:
 For a full treatment, see [Description & Portraits](../core/description-and-portraits.md).
 
 ### 2.2 Signature gestures (pick two or three, never more)
-A gesture is a **dialogue tag the reader learns**. After three uses, the gesture alone identifies the speaker.
+A gesture is **attribution the reader learns**. It goes in its own narration paragraph right before the character speaks, never in the same paragraph as the quote (see [Dialogue Mechanics](../dialogue/dialogue-mechanics.md), pure dialogue lines). After three uses, the gesture alone identifies who is about to speak.
 
 | Character | Gestures |
 |---|---|
@@ -81,7 +81,7 @@ Anime casts are color-coded, and the LN reader expects it. Give each heroine a *
 | Reika | "Seriously~", "Totally~" | "Kuze", "the loser" | Drawling mockery |
 
 ### 3.2 The two-voice test
-Cover the tags and read five lines aloud. If you can't tell who is speaking, one character's voice isn't done. For a deeper bank of lines per archetype, see [Character Voices](../dialogue/character-voices.md).
+Read five quoted lines aloud with the narration between them covered. If you can't tell who is speaking, one character's voice isn't done. For a deeper bank of lines per archetype, see [Character Voices](../dialogue/character-voices.md).
 
 ---
 
@@ -107,14 +107,16 @@ The contradiction is **the crack in the stereotype**. It is the single most impo
 
 ### 4.3 Sample reveal
 > The train was late. Rin kicked at a crack in the platform tiles.
-> "You're weird, you know," she said.
+> "You're weird, you know."
 > "You've mentioned."
-> "No, I mean... you're the first guy who didn't look at me like that. Like the other guys do." She kicked the tile again. "And girls don't really talk to me. At all. So."
+> "No, I mean... you're the first guy who didn't look at me like that. Like the other guys do."
+> She kicked the tile again.
+> "And girls don't really talk to me. At all. So."
 > "..."
 > So, what? Kuze waited for the rest.
 > It didn't come. She just stood there with her hands jammed in her blazer pockets, and her ears had gone red. She had said the most honest thing he'd ever heard her say, and she was waiting to be laughed at.
 > The girl who announced she was *plenty popular, thank you very much* didn't have a single friend who was a girl.
-> "...The train's here," Kuze said.
+> "...The train's here."
 
 ---
 

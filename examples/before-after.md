@@ -1,6 +1,6 @@
 # Before & After
 
-> **Purpose:** Seventeen flat, robotic, or machine-translated drafts rewritten into the light-novel voice, each with a diagnosis and an explanation, so you can see the transformation, not just the rules.
+> **Purpose:** Nineteen flat, robotic, or machine-translated drafts rewritten into the light-novel voice, each with a diagnosis and an explanation, so you can see the transformation, not just the rules.
 > **Load when:** Revising, when a user says "make this less robotic" or "make it sound like an LN", or when your own draft keeps coming out smooth but lifeless.
 > **Related:** [Anti-Robotic Prose](../revision/anti-robotic.md), [MTL vs. Natural](../revision/mtl-vs-natural.md), [Revision Checklist](../revision/revision-checklist.md), [Annotated Passages](annotated-passages.md), [Rhythm & Flow](../core/rhythm-and-flow.md), [Inner Monologue](../core/inner-monologue.md), [Dialogue Mechanics](../dialogue/dialogue-mechanics.md), [Character Voices](../dialogue/character-voices.md)
 
@@ -56,12 +56,12 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 
 **After:**
 > Amamiya said something. All four girls laughed.
-> Kuze replayed it. "I'd rather eat my textbook than do the English homework."
+> Kuze replayed it. *I'd rather eat my textbook than do the English homework.*
 > That was the joke.
 > That was the whole joke.
 > Rin had hit Amamiya's shoulder, laughing. Sayo had covered her mouth. Hina had laughed so hard she'd had to hold on to the desk.
 > If Kuze had said the same sentence, in the same tone, at the same volume, what would have happened?
-> He knew exactly what would have happened. Nothing. Someone might have said "huh?"
+> He knew exactly what would have happened. Nothing. Someone might have said *huh?*
 > The sediment settled a little deeper.
 > ...Petty. He knew it was petty. Knowing didn't help.
 
@@ -110,15 +110,18 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 > "Nothing."
 > "She's been glaring at the back of your head for two periods straight, man. That's not nothing."
 > "I told her to think about the meaning of her name."
-> Amamiya blinked. "...Huh?"
+> Amamiya blinked.
+> "...Huh?"
 > "It was a suggestion."
-> "I don't get it, but okay!" He clapped his hands together, the way he did right before deciding something on behalf of other people. "Then let's all go eat together after school! You and Rin can make up. Clean slate!"
+> "I don't get it, but okay!"
+> He clapped his hands together, the way he did right before deciding something on behalf of other people.
+> "Then let's all go eat together after school! You and Rin can make up. Clean slate!"
 > "I don't need--"
 > "Great, it's settled!"
 > Kuze looked at his clapped hands.
 > Settled. By whom?
 
-**Why it works:** Amamiya gets his tics ("Whoa, whoa", the clap). Kuze dodges the first question, answers the second minimally, and gets cut off on the third. The narration notices the clap as a *habit* with a meaning, then ends on the quoted-back question. See [Dialogue Mechanics](../dialogue/dialogue-mechanics.md).
+**Why it works:** Amamiya gets his tics ("Whoa, whoa", the clap). Kuze dodges the first question, answers the second minimally, and gets cut off on the third. Every line of dialogue stands alone, and the narration notices the clap as a *habit* with a meaning, then ends on the quoted-back question. See [Dialogue Mechanics](../dialogue/dialogue-mechanics.md).
 
 ---
 
@@ -135,10 +138,13 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 - No subtext, no humor, no silence
 
 **After:**
-> "Why'd I do that," Kuze said. It wasn't really a question.
+> "Why'd I do that."
+> It wasn't really a question.
 > "'Cause you're an idiot."
 > "..."
-> "An idiot who couldn't stand watching it anymore." Daichi cracked open his can. "You keep saying 'rational' like it's a magic spell. Like, if you say it enough times, you don't have to feel stuff."
+> "An idiot who couldn't stand watching it anymore."
+> Daichi cracked open his can.
+> "You keep saying *rational* like it's a magic spell. Like, if you say it enough times, you don't have to feel stuff."
 > "..."
 > "Newsflash, Mina. Doesn't work. Never worked. You cried at the end of the class hamster's funeral in fourth grade and then said it was 'allergies.'"
 > "It *was* allergies."
@@ -165,11 +171,13 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 **After:**
 > The family restaurant by the station was the cheap kind, with a drink bar and laminated menus and a waiter who looked like he'd rather be anywhere else, which made two of them.
 > "How many in your party?"
-> "Two!" Rin said.
-> "Three," Amamiya corrected, laughing. "We've got Kuze today, remember?"
+> "Two!"
+> Amamiya laughed.
+> "Three. We've got Kuze today, remember?"
 > *Today.*
 > They were seated at a four-person booth. Rin slid in first, Amamiya right beside her, and Kuze took the empty side alone, like a job interviewer.
-> Rin ordered a chocolate parfait, then, with her ears going pink, suggested Amamiya get the strawberry one "so we can share, or whatever."
+> Rin ordered a chocolate parfait. Then her ears went pink.
+> "Haruto, you get the strawberry one. So we can share. Or whatever."
 > Kuze ordered a hamburger steak and a black coffee.
 > A hamburger steak couldn't be shared. That was the point.
 
@@ -196,8 +204,9 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 > He opened the lid.
 > Rolled omelet, cut into neat, even slices. Octopus sausages with little legs, every single one of them. A small heart made of seaweed on the rice, which someone had obviously tried to scrape off with chopsticks and mostly failed.
 > Leftovers.
-> "...What?" Rin demanded.
-> "Nothing," said Kuze, and ate the heart first.
+> "...What?"
+> "Nothing."
+> He ate the heart first.
 
 **Why it works:** The evidence (neat slices, octopus legs, the half-scraped heart) *proves* she made it for him, and the reader gets the pleasure of deducing it. "Leftovers." quoted back is the only commentary. Eating the heart first is Kuze's unspoken reply. See [Dere Types](../cast/dere-types.md).
 
@@ -245,10 +254,15 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 **After:**
 > "So what?"
 > The class went quiet.
-> "She's selfish. She's rude. She looks down on people. Fine. So what?" Kuze stood up. His chair fell over behind him. *Clatter.* He didn't pick it up. "What gives you the right? Did she do something to you? Say it. Hoshino. Say it!"
+> "She's selfish. She's rude. She looks down on people. Fine. So what?"
+> Kuze stood up. His chair fell over behind him.
+> *Clatter.*
+> He didn't pick it up.
+> "What gives you the right? Did she do something to you? Say it. Hoshino. Say it!"
 > "I-I--"
 > "You can't, right? Because it's not about her. You just wanted someone to hate, and she was convenient!"
-> Somebody in the back said, "Kuze, dude, calm down--"
+> Somebody in the back.
+> "Kuze, dude, calm down--"
 > "Shut up! You were laughing too! Yesterday! I heard you!"
 
 **Why it works:** The anger lives in the dialogue: short, repetitive, accusatory ("Say it."), with one SFX and one physical action. The narration shrinks to almost nothing. Readers feel the eruption because the quiet character's lines suddenly get long and loud. See [Emotional Dialogue](../dialogue/emotional-dialogue.md).
@@ -297,7 +311,7 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 > ```
 > "..."
 > *I* got them to make up.
-> Not "they made up". Not "we had dinner".
+> Not *they made up*. Not *we had dinner*.
 > Kuze tapped the photo. Two parfaits, spoons crossed. And in the bottom corner, half out of frame: one hamburger steak.
 > He had not been asked.
 > He turned off his phone, turned it back on, and read the post again, which was, he was aware, the behavior of a very small person.
@@ -323,7 +337,9 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 > "Welcome back! Oh--it's just you, Kai-san."
 > Just you. The receptionist, an elf named Lirelle who remembered the name of every A-rank party's pet griffon, had never once remembered his without looking at the card first.
 > "Anything below C-rank today?"
-> "Hmm~ Goblins, eastern forest. Five silver." She slid the paper across without looking up. "It's been sitting there for a week. Nobody wanted it."
+> "Hmm~ Goblins, eastern forest. Five silver."
+> She slid the paper across without looking up.
+> "It's been sitting there for a week. Nobody wanted it."
 > "I'll take it."
 > "Of course you will."
 > He took it.
@@ -353,7 +369,8 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 > "Ow!"
 > "Ow--sorry, sorry!"
 > They were now very close, forehead to forehead, holding opposite ends of page fourteen.
-> "...Kirishima-kun," said Aoi-senpai, with the smile she used right before assigning overtime. "Your face is red."
+> Aoi-senpai smiled. It was the smile she used right before assigning overtime.
+> "...Kirishima-kun. Your face is red."
 > "It's the concussion."
 > "Mm-hm~"
 > She took page fourteen. She did not let him forget it for the rest of the fiscal year.
@@ -373,7 +390,7 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 - Register break: given names, "renewed hope", "emotional maturity"
 - The protagonist's personality silently changed
 - Conflict dissolved without cause
-- No tics, no honorifics, no spiral ([Revision Checklist §9](../revision/revision-checklist.md#9-continuation-specific-checks))
+- No tics, no honorifics, no spiral ([Revision Checklist §9](../revision/revision-checklist.md#11-continuation-specific-checks))
 
 **After:**
 > The next day--
@@ -381,7 +398,7 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 > Amamiya waved from across the classroom, as if yesterday had been a nice, normal day on which nothing had been posted to anybody's Chirp.
 > "...Morning."
 > Kuze sat down.
-> Amamiya went back to his girls. Hina laughed at something. Rin hit him. Sayo said "My." The world resumed its orbit.
+> Amamiya went back to his girls. Hina laughed at something. Rin hit him. Sayo said *My.* The world resumed its orbit.
 > Kuze took out his textbook and opened it to a page he'd already read, and read it again, and did not think about the photo.
 > He did not think about it in first period, or second period, or during lunch.
 > He was very busy not thinking about it.
@@ -438,8 +455,8 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 - No leak, no crack, so nothing for the POV to notice
 
 **After:**
-> "I don't have an opinion," Shizuku said.
-> She said it the way she said everything: flat, quiet, as if each word cost exactly one yen and she was on a budget.
+> "I don't have an opinion."
+> Shizuku said it the way she said everything: flat, quiet, as if each word cost exactly one yen and she was on a budget.
 > "About the festival? Or about Amamiya being cast as the lead?"
 > "Either."
 > "Okay."
@@ -447,11 +464,14 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 > Kuze went back to his.
 > Ten minutes later, he noticed she hadn't turned a page. Twenty minutes later, he noticed she was holding the book upside down.
 > He didn't say anything. There was a rule about that somewhere, probably.
-> "...It's a bad casting decision," Shizuku said at last, to the upside-down book.
+> Shizuku spoke at last, to the upside-down book.
+> "...It's a bad casting decision."
 > "Yeah."
 > "He can't act."
 > "No."
-> "..." She turned a page. Upside down. "Good."
+> "..."
+> She turned a page. Upside down.
+> "Good."
 
 **Why it works:** The kuudere's feelings leak through behavior the POV notices (the unturned page, the upside-down book) and one last word that betrays her ("Good."). Flat delivery is a *surface*, and the reader discovers what's under it along with the POV.
 
@@ -468,7 +488,7 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 - No tactics, no inner voice, no rhythm change
 
 **After:**
-> The chieftain was bigger than the quest paper had said. The quest paper had said "goblin chieftain". It had not said "the size of a vending machine".
+> The chieftain was bigger than the quest paper had said. The quest paper had said *goblin chieftain*. It had not said *the size of a vending machine*.
 > *Whoosh.*
 > The club missed Kai's head by a hand's width. He felt the wind of it in his hair.
 > Okay. Okay. Think.
@@ -485,7 +505,66 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 
 ---
 
-## Patterns across all seventeen
+## 18. Mixed dialogue lines (tags, split quotes, beats in the same paragraph)
+
+**Before:**
+> "Oh yeah," Hina paused, tapping her chin, "so like, this is the problem here."
+> Rin crossed her arms. "Whatever. It's not like I care."
+> "You care," Kuze said flatly, not looking up from his book. "You've asked three times."
+> "I-I have not!" she sputtered, her face turning red.
+
+**Diagnosis:**
+- Every paragraph mixes speech and narration, which breaks the pure-dialogue rule ([Dialogue Mechanics](../dialogue/dialogue-mechanics.md)). Test runs of this library produced 70-100 such paragraphs per 5,000 words when the rule wasn't explicit.
+- A split quote with a mid-line beat ("Hina paused, tapping her chin") chops the speech in half, so the line loses its rhythm
+- Adverb and thesaurus tags ("flatly", "sputtered") explain a tone the words already carry
+- The blush is stage direction, not something the POV notices
+
+**After:**
+> Hina tapped her chin.
+> "Oh, yeah. So, like, this is the problem."
+> "Whatever. It's not like I care."
+> Rin had her arms crossed. Of course she did.
+> Kuze didn't look up from his book.
+> "You care. You've asked three times."
+> "I-I have not!"
+> Red. All the way to the ears.
+
+**Why it works:** Each paragraph does one job. The speakers are clear without a single tag: Hina's "like", Rin's "It's not like", and Kuze's four flat words. When attribution is needed, an action paragraph sits *before* the line it attributes ("Hina tapped her chin."), so the reader sees who moves and then hears them. "Flatly" disappears because a four-word line is already flat. The blush becomes a POV fragment ("Red. All the way to the ears."), which is characterization instead of stage direction. The quoted speech now reads like speech-bubble panels, which is the translated-LN look.
+
+---
+
+## 19. Dash asides and long-sentence drift (length-pressure prose)
+
+**Context:** This is the failure a strong model produces when asked for 5,000+ words: the prose stays fluent but drifts into Western literary style, with dashes for asides, sentences of 40-60 words, and a few pet constructions repeated all chapter. The LN rhythm is lost even though nothing is technically wrong.
+
+**Before:**
+> He took the stairs two at a time—past the trophy case, past the bulletin board nobody read—because somewhere above him, in the home economics room, Hina was waiting, and there was no version of Kuze, not even the one that pretended not to care, that walked slowly toward that particular fact. Her grip on the counter loosened half an inch when she saw him—the specific half inch of someone who had been bracing for a no—and something in his chest did the thing it always did.
+
+**Diagnosis:**
+- Two aside dashes in narration ([Punctuation & Typography](../core/punctuation-and-typography.md), R2: dashes are for interruptions only)
+- Two sentences of 60+ and 40 words. The target is a narrative median around 7-10 and almost nothing past 25 ([Revision Checklist](../revision/revision-checklist.md))
+- Pet constructions from the banned tic list: "there was no version of X that", "the specific [noun] of someone who", "half an inch", and "something in his chest" ([Anti-Robotic](../revision/anti-robotic.md))
+- The POV's analytical voice has dissolved into lyric claims ("the thing it always did"), with no evidence and no question
+
+**After:**
+> He took the stairs two at a time.
+> Past the trophy case. Past the bulletin board nobody read.
+> Hina had texted *home ec room, now*. Three words. No emoji.
+> Hina always used emoji.
+> He walked faster.
+> The home economics room door was open. She was sitting on the counter, swinging her legs, and when she saw him, she stopped swinging.
+> "You came."
+> "You said now."
+> "I did say now."
+> She hopped down. She was smiling, but her fingers had left two pale marks where she'd been gripping the counter's edge.
+> Had she thought he wouldn't come?
+> ...Did he usually not come?
+
+**Why it works:** Each aside becomes its own beat ("Past the trophy case. Past the bulletin board nobody read."), which is exactly the short-beat texture the dash was hiding. The lyrical claim is replaced by *evidence* the POV can read (a text with no emoji from someone who always uses emoji), and the bracing detail survives once, concretely, as the pale marks on the counter. The analytical engine then turns the evidence into a hypothesis chain that ends by suspecting himself. Dialogue appears, the narrative median drops to about six words, and nothing runs past 25. To reach a length target, add beats like these, not longer sentences (see [Chapter & Section](../structure/chapter-and-section.md#81-reaching-length-the-right-way-r4)).
+
+---
+
+## Patterns across all nineteen
 
 | Robotic default | LN rewrite move | Seen in pairs |
 |---|---|---|
@@ -497,6 +576,8 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 | Grow the character on page | Deny growth; show it by accident | 10, 14 |
 | Ornate peak | Simple peak | 5, 9 |
 | Linger on bodies | Cut on the joke | 13 |
+| Tags and beats inside dialogue paragraphs | Pure dialogue lines; action on its own line before the speech | 4, 8, 18 |
+| Dash asides and long lyrical sentences | Break the aside into its own beat; replace claims with evidence | 19 |
 
 When you revise, identify which row your draft is in and apply that column's move. If the draft is in three rows at once, start with **"Label the emotion → show the evidence"**, because it fixes the most at once.
 

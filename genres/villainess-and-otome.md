@@ -30,7 +30,8 @@ The core device is a narrator with **two registers running at once**:
 
 The comedy is the **snap between them** within a single beat:
 
-> "Your Highness," Rosalind said, dipping into a perfect curtsy, her voice as smooth and cool as chilled silk. "What a pleasant surprise."
+> Rosalind dipped into a perfect curtsy, her voice as smooth and cool as chilled silk.
+> "Your Highness. What a pleasant surprise."
 > *NOT pleasant. Not a surprise. Why is he here? The fountain event is Route A, week three. It's week one! Did I trigger it by standing near water?! Is water a flag?!*
 
 **Formatting:** Interior panic often uses *italics* in this genre, unlike the base voice's unitalicized free indirect thought, because the contrast between the two layers needs a visual marker. Choose one convention per book and log it in the [Story Bible](../templates/story-bible.md). Keep calmer interior thought unitalicized, as in the base voice, and reserve italics for the loud inner screams.
@@ -201,10 +202,12 @@ Flag arcs build toward the condemnation ball, whose outcome depends on accumulat
 ### 7.3 Chapter shape
 Base voice structure: numbered sections that end on tilts. Villainess chapters often **end on a misunderstanding cut-away**, a short scene from another character's POV showing how they (mis)read the narrator's action.
 
-> Meanwhile, in the east wing, the Crown Prince stared at the rose Rosalind had "rejected."
-> "She said," he murmured to his aide, "that roses are *wasted* on her."
+> Meanwhile, in the east wing, the Crown Prince stared at the rose Rosalind had *rejected*.
+> He spoke to his aide without taking his eyes off it.
+> "She said that roses are *wasted* on her."
 > "Yes, Your Highness."
-> "How modest," said the Crown Prince, and put the rose in water.
+> "How modest."
+> The Crown Prince put the rose in water.
 
 ---
 
@@ -232,14 +235,15 @@ Original cast for this file:
 > For *her*. For Rosalind. For *me*.
 > "Lady Rosalind?"
 > Rosalind lifted her chin. The movement was automatic, practiced, fourteen years of posture lessons deep in her spine. Her other hand opened her fan with a crisp *snap*.
-> "I'm perfectly well," she said, in a voice like chilled silk. "I was merely admiring the roses."
+> "I'm perfectly well. I was merely admiring the roses."
 > *I'm going to die. I'm going to die in a town square in a very nice dress.*
-> The girls exchanged glances. Of course they did. Rosalind Everleigh did not "admire" things. Rosalind Everleigh assessed them and found them wanting.
+> The girls exchanged glances. Of course they did. Rosalind Everleigh did not *admire* things. Rosalind Everleigh assessed them and found them wanting.
 > Wait.
 > She did the math. Fourteen. The game began at sixteen, on the first day of the Crown Academy, the day the heroine arrived. Two years. She had two years before the script started.
 > Two years to become someone the script didn't know what to do with.
 > Rosalind closed her fan.
-> "Your Grace," she said to the Duchess of Ferne. "These scones are exquisite. Might I trouble your cook for the recipe?"
+> She turned to the Duchess of Ferne.
+> "Your Grace. These scones are exquisite. Might I trouble your cook for the recipe?"
 > The silence around the table was absolute.
 > The pug sneezed.
 > Rosalind Everleigh had never in her life asked anyone for anything. She watched five noble daughters and five noble mothers file the fact away, each for her own reasons, and she felt the first doom flag of her new life tremble, just slightly, on its pole.
@@ -256,16 +260,18 @@ Original cast for this file:
 > *Do not look up. Do not look up. If you don't look up, it's not an event.*
 > She looked up.
 > Crown Prince Alistair stood over her, the sun behind him doing something unfair to his hair. He was holding her copy of *Advanced Botanical Alchemy*, which had landed in the fountain and was now, like her dignity, damp.
-> "Your Highness." She rose and curtsied, all in one motion, the way her tutor had drilled her until her knees ached. "Forgive me. How clumsy."
-> "Clumsy," he repeated.
+> "Your Highness."
+> She rose and curtsied, all in one motion, the way her tutor had drilled her until her knees ached.
+> "Forgive me. How clumsy."
+> "Clumsy."
 > He held out the book. She took it. Their fingers did not touch. She made very sure of that.
-> In the game, Alistair was ice. Polite to everyone, warm to no one, until Marie thawed him over three routes and a tragic backstory involving his mother. He called Rosalind "Lady Everleigh" for the entire game in a voice like a closing door.
+> In the game, Alistair was ice. Polite to everyone, warm to no one, until Marie thawed him over three routes and a tragic backstory involving his mother. He called Rosalind *Lady Everleigh* for the entire game in a voice like a closing door.
 > He was looking at her now as though she were a puzzle he'd found in a drawer.
-> "You study alchemy," he said.
+> "You study alchemy."
 > "A little."
 > "Botanical alchemy. It's an unusual choice for a duke's daughter."
 > *Because in Bad End Two I die of fever in a border town and I am going to learn every medicine in this world if it kills me. Which is the point. That it doesn't.*
-> "I find plants restful," Rosalind said. "They don't talk."
+> "I find plants restful. They don't talk."
 > Alistair's mouth moved.
 > It took her a second to identify the expression, because it had never once appeared in the game's sprite set.
 > He was trying not to laugh.
@@ -274,7 +280,8 @@ Original cast for this file:
 > Wait wait wait.
 > That wasn't a Route A reaction. That wasn't a reaction from *any* route. She'd cleared them all, twice, in a pharmacy break room. Alistair did not laugh. Alistair did not have a laugh sprite.
 > Was she wrong about the game? Was the world already diverging? Or was she wrong about *him*, and had always been, and the game had simply never bothered to show him being a person?
-> "Lady Rosalind," the Crown Prince said, testing the name like a new step on a staircase. "I look forward to seeing more of your alchemy."
+> The Crown Prince tested the name like a new step on a staircase.
+> "Lady Rosalind. I look forward to seeing more of your alchemy."
 > He left.
 > Rosalind stood by the fountain holding a wet book, and felt a doom flag, somewhere, very quietly, snap its rope.
 
@@ -285,13 +292,20 @@ Original cast for this file:
 > "Milady."
 > Cedric set the tea down at her elbow. Chamomile, which meant he'd decided she was upset. He was always right about that, and it was infuriating.
 > "I'm not upset."
-> "Of course not, milady." He poured. "May I speak freely?"
+> "Of course not, milady."
+> He poured.
+> "May I speak freely?"
 > "You always do."
-> "Then." He straightened, the silver pot still in his gloved hand. "For two years you have avoided His Highness, befriended the scullery staff, learned to brew fever tinctures, and saved the Marquess's son from drowning in a lake you were never supposed to be near. You have done all of this, as far as I can tell, because you believe something terrible will happen to you."
+> "Then."
+> He straightened, the silver pot still in his gloved hand.
+> "For two years you have avoided His Highness, befriended the scullery staff, learned to brew fever tinctures, and saved the Marquess's son from drowning in a lake you were never supposed to be near. You have done all of this, as far as I can tell, because you believe something terrible will happen to you."
 > "..."
-> "I don't know what you think is coming. I won't ask." A pause. "But I have served this house since before you were born, milady, and I would like to observe that the girl who did all those things is not someone this household would ever send to the gallows."
+> "I don't know what you think is coming. I won't ask."
+> A pause.
+> "But I have served this house since before you were born, milady, and I would like to observe that the girl who did all those things is not someone this household would ever send to the gallows."
 > "..."
-> "Whatever script you think you're in," Cedric said quietly, "you stopped following it some time ago."
+> Cedric said it quietly.
+> "Whatever script you think you're in, you stopped following it some time ago."
 > Rosalind stared at the tea.
 > The chamomile steamed. Her reflection in it was small and gold and trembling a little, and she realized, distantly, that the trembling was her hands.
 > Two years of flags. Two years of lists and routes and bad ends. Two years of treating every person in this world as an event she had to trigger or avoid.

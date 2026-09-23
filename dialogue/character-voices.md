@@ -12,7 +12,9 @@ This file is about **speech itself**: word choice, sentence shape, interjections
 
 Take any group-chatter burst from your draft. Strip every name and action beat. Shuffle the lines. Can you put the names back?
 
-If you can't, your characters don't have voices yet. They have *positions*. In a light novel, where 4-6 people often talk at once with no tags ([Dialogue Mechanics §4](dialogue-mechanics.md#4-group-chatter)), passing the shuffle test isn't optional. It's how the reader follows the scene.
+If you can't, your characters don't have voices yet. They have *positions*. In a light novel, where 4-6 people often talk at once with no tags ([Dialogue Mechanics §5](dialogue-mechanics.md#5-group-chatter)), passing the shuffle test isn't optional. It's how the reader follows the scene.
+
+It matters even more because this library bans speech tags entirely. Every paragraph with a quote contains *only* the quote ([Dialogue Mechanics §2](dialogue-mechanics.md#2-the-pure-dialogue-line-hard-rule)). With no "Rin snapped" to lean on, the words themselves have to carry the speaker's identity. An action paragraph can help, but it can't rescue a line that sounds like anyone.
 
 A voice is built from **five dials**:
 
@@ -227,7 +229,7 @@ For deeper psychology and arcs, see [Dere Types](../cast/dere-types.md) and [Cha
 - Lines: "I see." / "Understood." / "...That's fine." / "You're bleeding. Left hand." / "I don't dislike it."
 
 **Dandere** (shy, quiet)
-- Markers: trailing ellipses, stutters, apologies, questions phrased as statements, and voice volume noted in beats ("barely above a whisper"). Opens up in long, fast sentences about a passion (books, birds).
+- Markers: trailing ellipses, stutters, apologies, questions phrased as statements, and voice volume noted in its own narration line ("It came out smaller than the air conditioner."). Opens up in long, fast sentences about a passion (books, birds).
 - Lines: "U-Um... sorry..." / "I-It's fine, really..." / "...Is this seat... taken?" / (about her passion) "Oh, that's a first edition, the cover art's different because the publisher changed, and--sorry. Sorry. I talk too much."
 
 **Yandere** (loving to the point of danger)
@@ -320,41 +322,67 @@ The dials transfer; the vocabulary changes.
 
 ## 8. Worked exercise: one situation, eight voices
 
-The same trigger, the POV walking in late with a bruised cheek, answered by each of the default cast. Use this as a calibration drill: if you can't write a line like each of these for your own cast, the voices aren't done.
+The same trigger, the POV walking in late with a bruised cheek, answered by each of the default cast. Use this as a calibration drill: if you can't write a line like each of these for your own cast, the voices aren't done. (The bold speaker labels are drill formatting only. In story prose, each quote stands alone and the voice does the labeling.)
 
-> **Amamiya:** "Whoa, whoa, Kuze!? What happened to your face? You okay? Did someone-- hey, you can tell me, right?"
+> **Amamiya:**
+>
+> "Whoa, whoa, Kuze!? What happened to your face? You okay? Did someone-- hey, you can tell me, right?"
 
 Concern, "whoa, whoa", and the pressuring "right?". It's reasonable, public, and slightly performative, since he says it loud enough for the girls to hear how caring he is.
 
-> **Rin:** "Hah!? Who did that? ...Not that I care. I'm just asking. Tell me who."
+> **Rin:**
+>
+> "Hah!? Who did that? ...Not that I care. I'm just asking. Tell me who."
 
 Anger first, denial second, and the demand hiding the worry. The line contradicts itself, and that's the tsundere voice.
 
-> **Sayo:** "My. A new accessory, Kuze-kun? It doesn't suit you. Sit still; I have a bandage."
+> **Sayo:**
+>
+> "My. A new accessory, Kuze-kun? It doesn't suit you. Sit still; I have a bandage."
 
 Cool teasing, the formal suffix, and practical kindness delivered as an insult. The bandage matters more than the words.
 
-> **Hina:** "Kuze-kun!? Oh my gosh, oh my gosh, does it hurt? Wait, don't answer, obviously it hurts! Let's go to the nurse! Let's go, let's go!"
+> **Hina:**
+>
+> "Kuze-kun!? Oh my gosh, oh my gosh, does it hurt? Wait, don't answer, obviously it hurts! Let's go to the nurse! Let's go, let's go!"
 
 Repetition, run-on energy, and physical urgency. She answers her own question.
 
-> **Momo:** "Fueee, Kuze-kun, your face~ Scary~" (then, quietly, when no one's looking) "...Who'd you pick a fight with?"
+> **Momo:**
+>
+> "Fueee, Kuze-kun, your face~ Scary~"
+>
+> She waited until nobody was looking.
+>
+> "...Who'd you pick a fight with?"
 
 The public register, then the flat private one. The second line is the real character.
 
-> **Daichi:** "Mina. Tell me you at least won."
+> **Daichi:**
+>
+> "Mina. Tell me you at least won."
 
 A joke, but pointed. He already knows it's serious; the joke is his way of giving Kuze room.
 
-> **Reika:** "Ehh~ Kuze-kun got beat up? Seriously~ Kinda deserved, right~?"
+> **Reika:**
+>
+> "Ehh~ Kuze-kun got beat up? Seriously~ Kinda deserved, right~?"
 
 Mockery addressed to the room, not to him, with the tilde as a weapon.
 
-> **Ogata-sensei:** "Kuze. Nurse's office. Now." (then, when he's at the door) "...And come tell me who, later."
+> **Ogata-sensei:**
+>
+> "Kuze. Nurse's office. Now."
+>
+> She caught him at the door.
+>
+> "...And come tell me who, later."
 
 Casual authority, and one sentence of real care, placed where only he hears it.
 
-> **Kuze himself:** "Door."
+> **Kuze himself:**
+>
+> "Door."
 
 Asked what happened, he says the door hit him. One word, which is obviously a lie, and everyone lets it stand. That silence says more about his relationships than any of the eight replies.
 

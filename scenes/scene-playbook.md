@@ -47,7 +47,7 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > Hina already had her bag on her shoulder. The apology was a formality, and they both knew it.
 > "Go."
 > "You're a lifesaver! I owe you one, okay? Seriously!"
-> She was gone before the "okay" finished echoing.
+> She was gone before the *okay* finished echoing.
 > Kuze picked up the eraser. The board was still full of the math teacher's cramped equations, row after row of them, the way the man wrote when he'd lost track of time.
 > I owe you one.
 > He'd heard that phrase from her three times since April. He'd never once heard it paid back. Not that he'd asked. Asking would make it a debt, and debts made people avoid you.
@@ -67,11 +67,13 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 **POV angle:** the heroine's popularity seen *from beside her*. He clocks how the onlookers look at her and how she looks back.
 **Pitfalls:** don't turn her harshness into instant softness. The crack is small.
 **Snippet:**
-> "Ugh. Boys are disgusting." Tachibana dumped the bag into the bin without looking at the three first-years whispering by the fence. "They think I can't hear them."
+> Tachibana dumped the bag into the bin without looking at the three first-years whispering by the fence.
+> "Ugh. Boys are disgusting. They think I can't hear them."
 > "You can hear them."
 > "Obviously."
 > "Then they're not whispering for their own sake."
-> She stopped. "...What's that supposed to mean?"
+> She stopped.
+> "...What's that supposed to mean?"
 > Kuze shrugged and turned back toward the building. He didn't really know what he meant. It had sounded truer out loud than it had in his head, which was usually a bad sign.
 > Behind him, footsteps, then a hard slap between his shoulder blades.
 > "Don't say weird stuff and walk off!"
@@ -93,7 +95,8 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > "Same to you."
 > "I'll be counting on you when I fall asleep in classical literature, Kuze-kun. You'll wake me before the teacher notices."
 > "I won't."
-> "You will." She smiled with half her mouth. "You're the type who can't stand a thing left undone."
+> She smiled with half her mouth.
+> "You will. You're the type who can't stand a thing left undone."
 > He opened his mouth to deny it and found nothing there.
 > Three rows away, Amamiya was looking at them. When Kuze met his eyes, he laughed and turned back to Hina, too quickly.
 
@@ -113,16 +116,17 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 **Snippet:**
 > Creak.
 > Kuze didn't turn around. Only one other person had ever figured out that the latch didn't catch if you lifted the door while turning the knob.
-> "You again," Tachibana said.
+> "You again."
+> Tachibana. Of course.
 > "It's my spot."
 > "It's a roof. Nobody owns a roof."
 > She sat on the far side of the ventilation duct, exactly as far from him as the duct allowed, and unwrapped a bento that was ninety percent rice.
-> They ate. The wind flipped the corner of her napkin over and over.
-> "...Your tamagoyaki looks good," she said, to the sky.
+> They ate. The wind flipped the corner of her napkin over and over. She was looking at the sky, not at him.
+> "...Your tamagoyaki looks good."
 > "It's sweet. You'd hate it."
 > "How would you know what I'd hate?"
 > He held the box out without a word. She took one, chewed, and scowled like it had insulted her family.
-> "...It's good," she muttered. "Don't look at me."
+> "...It's good. Don't look at me."
 
 ### Recipe 5: The errand for a teacher
 **Setup:** A teacher (Ogata-sensei) catches the POV in the staff room and hands him something to deliver: a CD, a handout, a key. The delivery drags him into a space he doesn't belong in.
@@ -138,10 +142,13 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 **POV angle:** he's a courier through other people's worlds. The errand is an excuse to observe.
 **Snippet:**
 > "Kuze! Perfect timing, my favorite go-home clubber."
-> "I'm not—"
+> "I'm not--"
 > "Take this to the Literature and Broadcast Club, would you? It's Matsuri's script. She forgot it on my desk again. Teehee."
-> "Ogata-sensei," said the vice principal from two desks over, not looking up.
-> "Sorry, sorry~" Ogata-sensei stuck out her tongue and pushed a folder into Kuze's hands. "You're a good kid. Don't get lost."
+> Two desks over, the vice principal didn't look up.
+> "Ogata-sensei."
+> "Sorry, sorry~"
+> Ogata-sensei stuck out her tongue and pushed a folder into Kuze's hands.
+> "You're a good kid. Don't get lost."
 > It was four floors and a building away. He'd planned to be on the 4:12 train.
 > He went anyway. He always went. That was the trouble with being the kind of person teachers thought of as convenient.
 
@@ -210,9 +217,12 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 **POV angle:** he decodes the lead's *real* reason for inviting him. He's a chaperone, an alibi.
 **Pitfalls:** don't let him voice the theory. It stays inside him.
 **Snippet:**
-> "Carbonara and the napolitan," Amamiya said. "And we'll split two parfaits, right, Rin?"
-> "D-Don't just decide that!" Tachibana's ears had gone red. "...Strawberry. I want strawberry."
-> Amamiya looked across the table. "Kuze?"
+> "Carbonara and the napolitan. And we'll split two parfaits, right, Rin?"
+> "D-Don't just decide that!"
+> Tachibana's ears had gone red.
+> "...Strawberry. I want strawberry."
+> Amamiya looked across the table.
+> "Kuze?"
 > "Hamburg steak. Rice. Black coffee."
 > Nothing on that list could be passed across a table. He'd chosen it for exactly that reason. If he'd ordered pasta, one of them might have felt obliged to offer him a bite, and then everyone would have had to pretend it wasn't awkward.
 > It was simple. He was the reason this was a group meal instead of a date, and the least he could do was stay out of the frame.
@@ -233,7 +243,8 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > "Which part?"
 > "The part where it's math."
 > Hina slumped onto the table so hard her ponytail bounced. The drink bar melon soda fizzed beside her open workbook.
-> Kuze turned the page toward himself and drew a line under the question. "Forget the formula. Tell me what it's asking in normal words."
+> Kuze turned the page toward himself and drew a line under the question.
+> "Forget the formula. Tell me what it's asking in normal words."
 > "...How fast the train is?"
 > "Right. So what do we know?"
 > She blinked at him. Then she sat up, slowly, and started to read the question again, properly this time, her lips moving.
@@ -255,7 +266,9 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > "You didn't sing."
 > Kujou stood by the soft-serve machine, holding an empty cup like a prop.
 > "I'm not the singing type."
-> "I know. I wanted to hear what you'd pick." She set her cup under the nozzle. "People choose songs the way they choose words. Carelessly, and then they're stuck with them."
+> "I know. I wanted to hear what you'd pick."
+> She set her cup under the nozzle.
+> "People choose songs the way they choose words. Carelessly, and then they're stuck with them."
 > "What did you pick?"
 > "Something with a lot of high notes. So no one would listen to the lyrics."
 
@@ -272,13 +285,18 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 **POV angle:** uniforms are masks. Out of uniform, people are strangers wearing a familiar face.
 **Snippet:**
 > The girl at the register wore a green convenience store apron and an expression of pure horror.
-> "...Welcome," Tachibana said, through her teeth.
-> Kuze set down a can of coffee and a rice ball.
-> "One hundred and ninety-eight yen." Beep. Beep. "You didn't see anything."
+> Tachibana.
+> "...Welcome."
+> It came out through her teeth. Kuze set down a can of coffee and a rice ball.
+> "One hundred and ninety-eight yen."
+> Beep. Beep.
+> "You didn't see anything."
 > "I'm buying a rice ball."
-> "You didn't see anything," she repeated, pushing the receipt at him. "Also, the tuna mayo's better. That one's gross."
-> He took the receipt. "Noted."
-> At the door, he heard her mutter something that might have been "thank you for your patronage" and might have been a threat.
+> She pushed the receipt at him.
+> "You didn't see anything. Also, the tuna mayo's better. That one's gross."
+> He took the receipt.
+> "Noted."
+> At the door, he heard her mutter something that might have been *thank you for your patronage* and might have been a threat.
 
 ---
 
@@ -297,10 +315,13 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 
 **POV angle:** democracy as theater. He counts who looked around before raising their hand.
 **Snippet:**
-> "Okay, so, maid café: nineteen votes. Haunted house: eleven. Indie film..." The class rep squinted at the board. "One."
+> "Okay, so, maid café: nineteen votes. Haunted house: eleven. Indie film..."
+> The class rep squinted at the board.
+> "One."
 > Nobody turned around. They didn't need to. Everybody knew exactly whose hand had gone up.
-> "So we'll do the maid café," said Hoshino from the middle of the room, not asking.
-> "Well, the vote is—"
+> From the middle of the room, Hoshino didn't bother to ask.
+> "So we'll do the maid café."
+> "Well, the vote is--"
 > "Nineteen, right? Majority rules~"
 > The class rep looked at the board, at Hoshino, and at the chalk in her own hand. Then she drew a circle around *maid café* and put the chalk down very gently, as if it might break.
 
@@ -320,7 +341,9 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > "You've got paint on your face."
 > "Where?"
 > Hina pointed at her own cheek. Kuze wiped his and made it worse.
-> "Other side. No, the *other*—ugh, come here." She reached over with her sleeve and scrubbed at his jaw like she was cleaning a window. "There. Now you look like a person."
+> "Other side. No, the *other*--ugh, come here."
+> She reached over with her sleeve and scrubbed at his jaw like she was cleaning a window.
+> "There. Now you look like a person."
 > "What did I look like before?"
 > "A sad raccoon."
 > Outside, the sky over the sports ground had gone orange, then purple. Somewhere downstairs the brass band was rehearsing the same four bars for the twentieth time.
@@ -340,11 +363,12 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 **POV angle:** a crowd scene through a loner's eyes. Everyone is performing happiness; he watches the seams.
 **Snippet:**
 > The haunted house was three classrooms of black trash bags and a first-year in a sheet.
-> "It's not scary," Tachibana said, holding his sleeve so hard the seam creaked.
+> Tachibana was holding his sleeve so hard the seam creaked.
+> "It's not scary."
 > "You're holding my sleeve."
 > "It's dark. It's a navigation aid."
 > Something wet and cold brushed his neck, a konjac jelly on a fishing line. Tachibana made a sound he would remember for the rest of his life.
-> "That was you," she said immediately. "That noise. That was you."
+> "That was you. That noise. That was you."
 > "Sure."
 > "*Say* it was you."
 > "It was me."
@@ -387,7 +411,8 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 
 **POV angle:** public embarrassment plus private overanalysis.
 **Snippet:**
-> "And the card says..." The announcer's voice crackled over the speakers. "'Someone you owe a favor to'! Can we confirm that with the runner? ...Confirmed!"
+> The announcer's voice crackled over the speakers.
+> "And the card says... 'Someone you owe a favor to'! Can we confirm that with the runner? ...Confirmed!"
 > Scattered applause. A few whistles. Tachibana let go of his wrist like it was hot.
 > "Don't read into it."
 > "I'm not."
@@ -410,11 +435,16 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > "Kuze. You awake?"
 > Gon's voice, from the next futon over. The others had finally gone quiet.
 > "No."
-> "Verily, a lie." A rustle. "You didn't answer before. When they asked."
+> "Verily, a lie."
+> A rustle.
+> "You didn't answer before. When they asked."
 > "Because I don't have an answer."
-> "Hmm." A long pause. Somewhere down the hall, a teacher's slippers passed and faded. "Kuze-dono. Not having an answer and not wanting to say it are different things."
+> "Hmm."
+> A long pause. Somewhere down the hall, a teacher's slippers passed and faded.
+> "Kuze-dono. Not having an answer and not wanting to say it are different things."
 > "..."
-> "Good night," Gon said, and was snoring inside a minute. Kuze lay awake and stared at the grain of the ceiling boards until it started to look like a map.
+> "Good night."
+> Gon was snoring inside a minute. Kuze lay awake and stared at the grain of the ceiling boards until it started to look like a map.
 
 ### Recipe 18: Posted exam rankings
 **Setup:** Exam results, top 50 posted on the hallway board.
@@ -431,11 +461,12 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > 4th: Kujou Sayo.
 > 7th: Kuze Minato.
 > 31st: Matsuri Hina.
-> "Thirty-first!" Hina grabbed his arm with both hands and shook it. "Kuze! Thirty-first! I was a hundred and something last time!"
+> Hina grabbed his arm with both hands and shook it.
+> "Thirty-first! Kuze! Thirty-first! I was a hundred and something last time!"
 > "One hundred and twelve."
 > "Why do you *remember* that?"
 > Because you told me. Twice. And then you cried a little at the drink bar and pretended it was the wasabi from the fried chicken, which didn't have wasabi.
-> "No reason," he said.
+> "No reason."
 
 ---
 
@@ -458,12 +489,14 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > "It's four hundred meters to the station."
 > "I'm fast."
 > "You'll be fast and wet."
-> Tachibana glared at the rain like it had personally betrayed her. Then she ducked under his umbrella with a sound like "tch" and stood exactly one centimeter away from him, like she'd measured it.
+> Tachibana glared at the rain like it had personally betrayed her. Then she ducked under his umbrella with a sound like *tch* and stood exactly one centimeter away from him, like she'd measured it.
 > They walked. The rain drummed on the nylon.
 > At the ticket gate she turned, finally, and saw his left side.
 > "...You're soaked."
 > "It's raining."
-> "Only on *one* side." She stared at the sleeve. Then at him. Then, very fast, at the floor. "...Idiot."
+> "Only on *one* side."
+> She stared at the sleeve. Then at him. Then, very fast, at the floor.
+> "...Idiot."
 
 ### Recipe 20: The staff-room aftermath
 **Setup:** After a big incident (a fight, bullying exposed, a public outburst), the people involved are called to the staff room.
@@ -478,13 +511,16 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 
 **POV angle:** institutional justice vs. real justice. He knows the apology is a performance, and he knows it's also the best anyone can get.
 **Snippet:**
-> "I'm sorry," Hoshino said to the carpet, bowing exactly as far as a person bows when a teacher is watching.
-> "Tachibana?" said Ogata-sensei.
+> Hoshino bowed to the carpet, exactly as far as a person bows when a teacher is watching.
+> "I'm sorry."
+> "Tachibana?"
 > "...I accept."
 > And that was it. Two sentences, a signature on a form, and the thing that had eaten the last two weeks was officially over.
-> When the others filed out, Ogata-sensei tapped the desk in front of Kuze. "Not you. Sit."
+> When the others filed out, Ogata-sensei tapped the desk in front of Kuze.
+> "Not you. Sit."
 > He sat.
-> She didn't say anything for a while. Then she said, not in her teehee voice at all: "That was a stupid, stupid thing you did, Kuze."
+> She didn't say anything for a while. When she did, it wasn't in her teehee voice at all.
+> "That was a stupid, stupid thing you did, Kuze."
 > "I know."
 > "And I'm proud of you. Don't tell anyone I said that. I'll deny it."
 
@@ -509,9 +545,10 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > "..."
 > He went anyway.
 > The girl standing by the storage shed was a first-year he'd never spoken to. Her ribbon was red. Her hands were shaking.
-> "Um— Kuze-senpai. I— You helped me. In April. With the— at the station, when my pass didn't work. You probably don't remember."
+> "Um-- Kuze-senpai. I-- You helped me. In April. With the-- at the station, when my pass didn't work. You probably don't remember."
 > He didn't.
-> "I— I like you." It came out all at once, too loud. A crow took off from the gym roof.
+> "I-- I like you."
+> It came out all at once, too loud. A crow took off from the gym roof.
 
 ### Recipe 22: The reconciliation walk
 **Setup:** After a falling-out, two people end up walking the same way home. Neither apologizes first.
@@ -525,11 +562,16 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 
 **POV angle:** the gap between words and meaning. Neither says "sorry," but both *mean* it.
 **Snippet:**
-> "The thing I said," Tachibana started. Stopped. Started again. "In the classroom. About you being a coward."
+> "The thing I said..."
+> Tachibana stopped. Started again.
+> "In the classroom. About you being a coward."
 > "You were right."
-> "I *know* I was right. That's not the point." She kicked a pebble. It skittered into a gutter. "The point is I shouldn't have said it in front of everyone."
+> "I *know* I was right. That's not the point."
+> She kicked a pebble. It skittered into a gutter.
+> "The point is I shouldn't have said it in front of everyone."
 > "..."
-> "So." She didn't look at him. "That part. I take back that part."
+> She didn't look at him.
+> "So. That part. I take back that part."
 > "Only that part?"
 > "Don't push it."
 > They walked. Somewhere between the crosswalk and the station, the distance between their shoulders went from a meter to about half of one.
@@ -581,9 +623,13 @@ The recipes are grouped: **daily-life scenes** (§2), **outings** (§3), **event
 > "Yo, Mina. Catch."
 > A can arced through the air. Kuze caught it, and immediately dropped it.
 > "Hot!"
-> "It's hot coffee. It's November. What did you expect?" Enomoto laughed, loud and uncomplicated, and sat down beside him in the dirt without asking. "Now it's sandy. Congrats."
+> "It's hot coffee. It's November. What did you expect?"
+> Enomoto laughed, loud and uncomplicated, and sat down beside him in the dirt without asking.
+> "Now it's sandy. Congrats."
 > "How did you find me?"
-> "Please. You always come here when things suck." He cracked his own can. "You act like you want to be alone. You never actually want to be alone. It's kind of your whole problem."
+> "Please. You always come here when things suck."
+> He cracked his own can.
+> "You act like you want to be alone. You never actually want to be alone. It's kind of your whole problem."
 
 ---
 

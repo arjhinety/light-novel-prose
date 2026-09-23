@@ -12,6 +12,8 @@
 - **Start with the archetype, then break it.** Pick the base type from [Dere Types](../cast/dere-types.md) or [Character Tropes](../cast/character-tropes.md), then fill in the *Contradiction* and *Secret* fields. Those two fields are what turn a type into a person.
 - **Write sample lines before you write scenes.** If you can't produce five lines only this character would say, the voice isn't ready. See [Character Voices](../dialogue/character-voices.md).
 - **Keep the portrait to what the POV would notice.** The narrator is a teenager in close third. Describe what *they* see, in the order they'd see it (see [Description & Portraits](../core/description-and-portraits.md)).
+- **Canon characters (fan fiction) get the CANON block filled first.** Every field in it carries a confidence mark: [sure], [likely], or [unsure]. [Unsure] items stay out of the prose. The rest of the sheet must agree with the CANON block, never override it, and never borrow default-cast traits. See [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md).
+- **Sample lines are written as pure dialogue**: the quote alone, no tag, no beat. If the line only works with "she said sarcastically" after it, the voice isn't in the words yet. See [Dialogue Mechanics](../dialogue/dialogue-mechanics.md).
 - **Update the "State at chapter N" block** whenever the character changes. Arcs drift out of sync when nobody writes down where a character currently stands.
 
 ## 2. Blank template
@@ -24,6 +26,17 @@ Reading / nickname(s):
 Year / class / club / job:
 Role in story:         (heroine / rival / confidant / antagonist / mentor / comic relief)
 Base type:             (e.g. tsundere, ojou, genki; see dere-types / character-tropes)
+
+— CANON (fan fiction only; skip for original characters) —
+Source & point in timeline:
+Canon name / how narration names them:   [ ]
+Canon appearance:      [ ] (only confident items; leave the rest blank)
+Canon personality core: [ ]
+Canon speech style:    [ ] (described, not quoted from the source)
+Canon address forms:   [ ]
+Canon running gags:    [ ]
+OOC red lines:         (what this character would never do in canon)
+Invented for this story (label as non-canon):
 
 — LOOK —
 Hair:                  (color, length, one quirk)
@@ -114,11 +127,11 @@ Calls the POV:         "you" -> "Kuze" (Arc 1 end), and signs notes "-R".
 POV calls her:         "Tachibana" (speech) / "Rin" (once, in the climax)
 Topics:                Kendo, fairness, food, and not owing anyone.
 Five sample lines:
-  1. "You're late." "It's eight-fourteen." "You're late for *me*."
+  1. "You're late. Eight-fourteen is late for *me*."
   2. "It's not like I made it for you. It's leftovers. Just leftovers."
   3. "Bring *two* spoons. So I can see the difference. It's efficient!"
   4. "The guys look at me like I'm a poster. It's gross."
-  5. "There better not *be* a next time." (said into his blazer)
+  5. "...There better not *be* a next time."
 Line she would NEVER say:
   "Kuze-kun, I made this for you with all my heart~"
 
@@ -131,7 +144,7 @@ Need:                  Someone who sees her, not the poster and not the kendo re
 Fear:                  Being looked at and not seen. Crying in front of someone who hurt her.
 Secret:                No girl friends. Her mother is in Osaka until summer, and she eats dinner alone.
 Wound:                 In middle school, a senpai hit her after the call in practice while everyone watched.
-                       Haruto walked onto the floor in his socks and said "That wasn't a point."
+                       Haruto walked onto the floor in his socks and told the referee *that wasn't a point*.
 
 — RELATIONSHIPS —
 -> Kuze:               Blackmail partner -> taste tester -> the one person who understands her fastest. Arc 1 ends unnamed but real.

@@ -60,7 +60,9 @@ Written as a conversation, not a lecture. The house voice's snap-back banter (se
 >
 > "Then--"
 >
-> "The east-wing stairs go right past the broadcast room." Kuze held up his phone, the photo of the parfait, the timestamp. "And you posted this while you were supposedly scrubbing them. With both hands."
+> "The east-wing stairs go right past the broadcast room."
+> Kuze held up his phone: the photo of the parfait, the timestamp.
+> "And you posted this while you were supposedly scrubbing them. With both hands."
 >
 > "..."
 >
@@ -95,7 +97,8 @@ The source material's most effective long-game device is a character who **appea
 >
 > Then she drew a single, very thin line from it to Tachibana's name, and did not label it.
 >
-> "Hmm," she said to nobody, and smiled.
+> "Hmm."
+> She said it to nobody, and smiled.
 
 That is 140 words. It raises four questions and answers none, and it ends on a smile. See [Series Planning](../structure/series-planning.md) for scheduling these seeds across arcs.
 
@@ -115,7 +118,8 @@ Close-third LN narration is **naturally unreliable** because it's filtered throu
 ### 5.2 Technique
 - **Let the narrator be confident in the prose.** Don't hedge with "perhaps he was wrong." The certainty is the trap.
 - **Leave fingerprints of the truth** in other characters' dialogue that the narrator dismisses:
-  > "Kuze, you really don't notice anything, do you," Tachibana said, and hit his shoulder much harder than necessary.
+  > "Kuze, you really don't notice anything, do you."
+  > Tachibana hit his shoulder much harder than necessary.
   > He decided she was talking about Amamiya.
 - **Deploy a POV cut-away** that shows the same event from another angle. It's the cleanest way to reveal unreliability without breaking the anchor's voice. See [Narration & POV](../core/narration-and-pov.md).
 - **Never cheat the narrator's senses.** He can misread what he sees, but the prose shouldn't lie about what he sees.
@@ -228,7 +232,7 @@ Stalkers, obsessive admirers, the class that turns on someone: these are closer 
 
 > The broadcast room key hung on the third hook from the left in the staff room, under a laminated sign that said PLEASE SIGN OUT KEYS written in Ogata-sensei's very round handwriting.
 >
-> Nobody signed out keys. Everybody knew that. The sign-out sheet on the clipboard beneath the hook was mostly doodles, a crossword somebody had given up on, and one entry from last April in which a student had signed their name as "Batman."
+> Nobody signed out keys. Everybody knew that. The sign-out sheet on the clipboard beneath the hook was mostly doodles, a crossword somebody had given up on, and one entry from last April in which a student had signed their name as *Batman*.
 >
 > Kuze wasn't here for the key, anyway. He was returning the class journal, which was a class-duty chore and therefore his, and he was only looking at the hooks because Ogata-sensei was on the phone and he didn't want to look like he was listening.
 >

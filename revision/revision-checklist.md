@@ -16,7 +16,63 @@
 
 ---
 
-## 2. The seven-pass protocol
+## 2. The measurable voice gates (hard pass/fail)
+
+Taste can be argued with. These cannot. **A draft that fails any gate is not delivered**, whatever its rubric score. They exist because test runs of this library showed strong models passing their own taste checks while drifting far off the voice: a narrative median of 15 words, 27% long sentences, 30% dialogue, 47 dash asides, and 69-100 paragraphs mixing speech with narration, all in "finished" chapters.
+
+| Gate | Pass condition | Why |
+|---|---|---|
+| **G1 Dialogue share** | 40-55% of the chapter's words are inside quotation marks. Only a chapter the plan explicitly marks "introspective" may go to 35%, **never lower**. | Half the voice is talk. Below 40% the chapter turns into Western narration. |
+| **G2 Narrative median** | The median narrative sentence is **≤10 words** (the source sits near 7) | Short beats are the rhythm |
+| **G3 Long sentences** | **≤5%** of narrative sentences are 25+ words | One long exhale per scene, not per paragraph |
+| **G4 Pure dialogue lines** | **0** paragraphs that mix a quote with narration, and **0** speech tags ([Dialogue Mechanics §2](../dialogue/dialogue-mechanics.md#2-the-pure-dialogue-line-hard-rule)) | The house layout; the user's explicit rule |
+| **G5 Dashes** | **0** dash asides in narration. Dashes appear only on cut-off speech or a thought that breaks off ([Anti-Robotic §3.13](anti-robotic.md#313-the-em-dash-cascade)) | Dash asides are the clearest Western-literary tell |
+| **G6 Tics** | No sentence construction or 5-word phrase repeated 3+ times (except deliberate leitmotifs, chants, and callbacks), and every [model tic](anti-robotic.md#25-model-specific-tics-found-in-test-runs) under its cap | Repeated constructions become a visible fingerprint |
+| **G7 Length** | At or above the requested word count, reached through beats (§3 below) | Short chapters break the request; padded ones break the voice |
+
+### 2.1 Measuring with the script (if you can run code)
+
+If your environment can execute Python, run the optional, dependency-free script on the draft:
+
+```
+python tools/voice_metrics.py path/to/chapter.md
+python tools/voice_metrics.py path/to/chapter.md --json
+```
+
+It reports words, dialogue ratio, narrative median, the percentage of sentences at 25+ words, mixed dialogue paragraphs, narration dashes, silent `"..."` lines, numbered sections, and repeated 5-gram tics, each with PASS/FAIL against the gates above. See [`tools/voice_metrics.py`](../tools/voice_metrics.py). The script is a measuring tape, not a judge: a draft can pass every gate and still be flat. The rubric (§5) handles that.
+
+### 2.2 Measuring by hand (if you can't)
+
+Estimate from **three random 300-word windows** (one from the first third of the chapter, one from the middle, one from the last third). This takes a few minutes and is accurate enough to catch drift.
+
+1. **G1 Dialogue share.** In each window, count the words inside quotation marks and divide by 300. Average the three. If any single window is under 25% and it isn't a solo scene, look there first.
+2. **G2 and G3 Sentences.** In each window, list the word count of every *narrative* sentence (skip quotes). Sort the list and take the middle value: that's the median. Count how many are 25+ words. If more than 1 in 20 is, G3 fails.
+3. **G4 Mixed paragraphs.** Don't sample for this one. Scan **every** paragraph that contains a quotation mark. If there's a single word outside the quote marks, it fails. Split it.
+4. **G5 Dashes.** Scan every narration paragraph for `--` or `—`. Each one must be a thought breaking off. Anything else gets rewritten.
+5. **G6 Tics.** Search the draft for the [§2.5 model tics](anti-robotic.md#25-model-specific-tics-found-in-test-runs) and for your own favorite constructions (*the way*, *something in*, *for once*, *the specific*). Count them.
+6. **G7 Length.** Count words, or estimate: lines × average words per line.
+
+Write the numbers down. "It feels about half dialogue" is how the test chapters landed at 30%.
+
+## 3. The length procedure
+
+When a draft is short of its target, **add beats and scenes, never longer sentences.** Test runs showed the failure clearly: one model padded to 6,000 words by inflating sentences (median 15, 27% long), and another stopped at 3,800 words of a 5,000-word request.
+
+1. **Plan the section count from the target before drafting.** At 600-1,200 words per section: 2,500 words is 3-4 sections, 5,000 words is 6-8, and 8,000 words is 9-12.
+2. **If you're short after drafting**, add a whole beat, in this order of preference:
+   - **A new arrival** who changes the room's energy (another character walks in mid-scene)
+   - **A second escalation** of the chapter's situation (the plan goes wrong again, in a new way)
+   - **A quiet two-person moment** between the chaos and the payoff (the rooftop, the stairwell, the walk to the station)
+   - **A cut-away section** from another character's POV, short and ominous or teasing ([Narration & POV](../core/narration-and-pov.md))
+   - **A callback scene** that returns an earlier object or line with a new charge
+   - **A chatter burst** where the chapter has been all two-person dialogue
+3. **Each added beat must pass the gates on its own.** New material inherits the same dialogue share and sentence profile.
+4. **Never pad by:** restating a feeling already shown, adding a second simile to a sentence, extending the analytical spiral past its verdict, describing scenery, or summarizing an exchange instead of playing it.
+5. **Re-measure G1-G3** after adding. Padding usually shows up as G1 dropping and G2 rising.
+
+---
+
+## 4. The seven-pass protocol
 
 ### Pass 0: Cold read (as a reader)
 
@@ -36,7 +92,7 @@ If you can't answer any of the three, stop. The problem is structural. Go back t
 | Section endings | Every section's last line is a tilt: reveal, arrival, reframe, silence, or verdict ([Hooks](../structure/hooks-and-cliffhangers.md)) |
 | Chapter hook | The final line creates a question the next chapter must answer |
 | Scene skips | Time jumps inside a section are marked ("After school--", "The next day--") |
-| Length | Within the requested band (default 2,500-4,500 words per chapter) |
+| Length | At or above the requested length (default 2,500-4,500 words per chapter), reached through beats per the length procedure (§3), not padding |
 
 **Don't over-correct:** Not every section needs a cliffhanger. A quiet verdict ("Hypocrite.") counts as a tilt.
 
@@ -45,9 +101,9 @@ If you can't answer any of the three, stop. The problem is structural. Go back t
 | Check | Pass condition |
 |---|---|
 | POV anchor | Each section stays inside one head. Cut-aways are marked by a section break. |
-| Surname narration | The POV is called by surname in narration ([Narration & POV](../core/narration-and-pov.md)) |
+| Naming in narration | The POV is called by surname in original stories ([Narration & POV](../core/narration-and-pov.md)); in fan fiction, the source series' convention is followed ([Fan Fiction & Canon](../adaptation/fanfic-and-canon.md)) |
 | Free indirect thought | At least three moments per section where narration slides into the POV's own present-tense question |
-| Analytical engine | At least one full spiral per chapter: notice, quote back, hypotheses, self-suspicion, verdict ([Inner Monologue](../core/inner-monologue.md)) |
+| Analytical engine | At least one full spiral per chapter: notice, quote back, hypotheses, self-suspicion, verdict ([Inner Monologue](../core/inner-monologue.md)), aimed where the POV's temperament points ([POV Temperaments](../core/pov-temperaments.md)) |
 | Leitmotif | The POV's private image (e.g., "the sediment") appears at least once, and not more than three times in a calm chapter |
 | Warmth | At least one moment where the cynicism cracks, such as noticing a kindness or feeling guilty |
 | Genre dials | Comedy ratio, description density, and POV habits match the genre file |
@@ -58,11 +114,11 @@ If you can't answer any of the three, stop. The problem is structural. Go back t
 
 | Check | Pass condition |
 |---|---|
-| Ratio | Dialogue is roughly 40-55% of words (lower in a solo-introspection chapter; that's fine if intentional) |
+| Ratio | Gate G1: 40-55% of words (35% floor only for a chapter planned as introspective) |
 | Voice test | Reading only the dialogue, each speaker is identifiable |
-| Tags | "said/asked" or action tags only; no thesaurus tags |
+| Pure lines | Gate G4: every quote alone in its paragraph; zero speech tags, "said" included; actions in their own paragraphs |
 | Dodge | At least one question per scene goes unanswered, deflected, or met with `"..."` |
-| Stacking | Group scenes include at least one untagged burst of 4+ lines |
+| Stacking | Group scenes include at least one unattributed burst of 4+ lines |
 | POV's speech | The POV speaks less than he thinks; his lines are shorter than his monologue |
 | Emotional scenes | High-emotion dialogue gets *shorter*, not longer ([Emotional Dialogue](../dialogue/emotional-dialogue.md)) |
 
@@ -71,7 +127,7 @@ If you can't answer any of the three, stop. The problem is structural. Go back t
 Do this pass **by counting**.
 
 1. Pick three random narration paragraphs. Count words per sentence.
-2. Target band: the median is 6-10 words, more than half are under 10, at least one sentence per paragraph cluster is 20-30 words (the long exhale), and almost none exceed 35.
+2. Target band (gates G2 and G3): the median is 6-10 words, more than half are under 10, roughly one long exhale of 20-30 words per scene, and no more than 5% of narrative sentences at 25+ words.
 3. Flag any run of **four or more sentences within two words of each other in length**. Break the run with a one-liner or merge into a long exhale.
 4. Flag any paragraph over six sentences in a non-climax scene. Split it at the turn.
 5. Check that each one-line paragraph is *landing* something (a sound, a verdict, a realization, a silence). One-liners that land nothing get merged ([MTL vs. Natural §3.1](mtl-vs-natural.md#31-clause-splitting-choppiness)).
@@ -105,7 +161,7 @@ Run the full detection protocol in [Anti-Robotic Prose §6](anti-robotic.md#6-de
 | Check | Pass condition |
 |---|---|
 | `"..."` | Used as a full line of silence, and not more than ~5 times per chapter unless in a monologue-and-silence duet |
-| `--` | Only for interruption or dramatic cut-off |
+| `--` / `—` | Gate G5: only on cut-off speech or a thought that breaks off; one glyph per story; zero dash asides in narration |
 | `~` | Only in dialogue, only for characters with a drawl |
 | Stutters | Only under fluster, with the first letter repeated: "W-What" |
 | `?!` | Dialogue only |
@@ -116,16 +172,16 @@ See [Punctuation & Typography](../core/punctuation-and-typography.md).
 
 ---
 
-## 3. The scoring rubric
+## 5. The scoring rubric
 
-Score the draft 0-5 on each axis after Pass 7. **Deliver only when the total is ≥ 40/50 and no axis is below 3.**
+Score the draft 0-5 on each axis after Pass 7. **Deliver only when every gate in §2 passes, the total is ≥ 40/50, and no axis is below 3.** A failed gate caps the related axis at 2 (G1 or G4 caps Dialogue, G2 or G3 caps Rhythm, G5 or G6 caps Non-robotic texture).
 
 | # | Axis | 0-1 (failing) | 3 (acceptable) | 5 (excellent) |
 |---|---|---|---|---|
 | 1 | **Voice** | Generic narrator; could be any book | Recognizably LN; some flat stretches | Unmistakably this POV; every paragraph sounds like him |
 | 2 | **Inner monologue** | Absent or abstract ("he felt conflicted") | Present; some concrete analysis | Petty, specific, self-suspicious spirals that make the reader suspect with him |
 | 3 | **Rhythm & flow** | Monotone lengths or MTL choppiness | Varied but mechanical | Short beats land, long exhales carry; reads aloud smoothly |
-| 4 | **Dialogue** | Q&A exchanges; voices indistinguishable | Distinct voices; some over-tagging | Speakers recognizable untagged; dodges, stammers, banter snap |
+| 4 | **Dialogue** | Q&A exchanges; voices indistinguishable; tags and beats inside quote paragraphs | Distinct voices; pure lines; a few flat exchanges | Speakers recognizable from the words alone; dodges, stammers, banter snap |
 | 5 | **Non-robotic texture** | Multiple banned phrases; explained subtext | Clean of tells but a little bland | Clean, and actively human: trivia, pettiness, failed jokes, callbacks |
 | 6 | **Characterization** | Archetype labels only | Archetypes with some specificity | Each character has a crack in the image; public vs. private face shows |
 | 7 | **Structure** | No sections or tilts; summarized endings | Sections present; some endings flat | Every section tilts; the chapter hook compels |
@@ -141,13 +197,14 @@ Score the draft 0-5 on each axis after Pass 7. **Deliver only when the total is 
 
 ---
 
-## 4. The self-critique loop
+## 6. The self-critique loop
 
 ```
 draft
+  └─> Gates G1-G7 (§2) ── any fail ──> fix that gate first, re-measure
   └─> Passes 0-7
         └─> score (10 axes, with quoted evidence)
-              ├─ total ≥ 40 and every axis ≥ 3  ──> deliver
+              ├─ gates pass, total ≥ 40, every axis ≥ 3  ──> deliver
               └─ otherwise
                     └─> choose the TWO lowest axes
                           └─> targeted rewrite of the sections that caused them
@@ -163,9 +220,9 @@ draft
 
 ---
 
-## 5. The two-minute quick audit
+## 7. The two-minute quick audit
 
-When there's no time for the full protocol (a short scene, a chat reply, a quick continuation), do these six checks:
+When there's no time for the full protocol (a short scene, a chat reply, a quick continuation), do these eight checks:
 
 1. **Last line of each section**: is it a tilt?
 2. **Search for** "couldn't help", "a mix of", "breath he didn't know", "something shifted", "hung in the air", "palpable", "testament". Delete all of them.
@@ -173,14 +230,19 @@ When there's no time for the full protocol (a short scene, a chat reply, a quick
 4. **One spiral present**: notice, question, doubt, verdict?
 5. **One silence line** `"..."` where someone is stunned or refusing?
 6. **Honorifics**: consistent with earlier text?
+7. **Pure lines**: any paragraph with a quote plus other words? Split it.
+8. **Dashes**: any `--` or `—` in narration that isn't a thought breaking off? Rewrite it.
 
 ---
 
-## 6. Common failure patterns and their targeted fixes
+## 8. Common failure patterns and their targeted fixes
 
 | Symptom | Likely cause | Targeted fix |
 |---|---|---|
-| "It reads like a summary of a chapter" | Too much narration, not enough scene | Convert reported events to dialogue with action tags; aim for ~50% dialogue |
+| "It reads like a summary of a chapter" | Too much narration, not enough scene | Convert reported events into live dialogue stacks with separate action paragraphs; aim for ~50% dialogue |
+| "It reads like Western literary fanfic" | Sentence inflation, dash asides, tagged dialogue (gates G2-G5) | See [MTL vs. Natural §7.1](mtl-vs-natural.md#71-the-four-symptoms-of-westernized-drift); split, de-dash, de-tag |
+| "It hit the word count but feels padded" | Length reached by inflation | Undo the inflation; add beats per the length procedure (§3) |
+| "Canon characters feel off" (fan fiction) | Default-cast traits or invented canon | Rebuild the canon sheet ([Fan Fiction & Canon](../adaptation/fanfic-and-canon.md)); remove anything uncertain |
 | "It's choppy" | Clause-splitting without rhythm plan | Merge routine actions into flowing sentences; keep short lines for emphasis only |
 | "It sounds like AI" | Tells from [Anti-Robotic](anti-robotic.md) plus abstraction | Lexicon sweep, then add four humanizing moves |
 | "The characters sound the same" | Collapsed voices | Re-assign tics from [Character Voices](../dialogue/character-voices.md); read dialogue-only |
@@ -192,12 +254,13 @@ When there's no time for the full protocol (a short scene, a chat reply, a quick
 
 ---
 
-## 7. Final pre-delivery checklist
+## 9. Final pre-delivery checklist
 
+- [ ] Gates G1-G7 measured and passing (§2): dialogue 40-55%, narrative median ≤10, ≤5% long sentences, 0 mixed paragraphs, 0 dash asides, tics under caps, length met
 - [ ] Pass 0: situation, turn, and hook identifiable
 - [ ] Pass 1: sections numbered; every section tilts
 - [ ] Pass 2: POV anchored; at least one full spiral; leitmotif present
-- [ ] Pass 3: dialogue ~half; speakers identifiable; at least one dodge per scene
+- [ ] Pass 3: dialogue ~half; pure lines only; speakers identifiable; at least one dodge per scene
 - [ ] Pass 4: rhythm counted; no monotone runs; long exhales present
 - [ ] Pass 5: zero banned phrases in narration; humanizing moves present
 - [ ] Pass 6: names, honorifics, and timeline consistent
@@ -207,7 +270,7 @@ When there's no time for the full protocol (a short scene, a chat reply, a quick
 
 ---
 
-## 8. Worked scoring example
+## 10. Worked scoring example
 
 After its first pass, a 3,200-word draft of "Chapter 4: Do You Like Family Restaurants? 1" was scored:
 
@@ -234,7 +297,7 @@ After its first pass, a 3,200-word draft of "Chapter 4: Do You Like Family Resta
 
 **Rescore:** Inner monologue 5, Non-robotic 4, Rhythm 4 (the new spiral broke the monotone run), Structure 5. **Total 42.** Deliver.
 
-## 9. Continuation-specific checks
+## 11. Continuation-specific checks
 
 When continuing someone else's text (or your own from an earlier session), add these to Pass 6:
 
@@ -245,7 +308,7 @@ When continuing someone else's text (or your own from an earlier session), add t
 5. **Formatting continuity.** Match their section numeral style, chapter-title pattern, SFX style, and post format exactly.
 6. **No retcons.** If you're unsure of a fact (whose seat is where, which club), keep it vague rather than invent a contradiction.
 
-## 10. Revising user-supplied drafts
+## 12. Revising user-supplied drafts
 
 When the user asks you to revise *their* prose:
 1. **Identify their voice first.** Keep their leitmotifs, jokes, and names. Your job is to make their book better, not to make it yours.
@@ -254,12 +317,13 @@ When the user asks you to revise *their* prose:
 4. **Deliver the revised prose**, then, only if useful, the most important changes in five bullets or fewer.
 5. **Match their target.** If they want "more LN-like", push texture (Pass 2, Pass 3). If they want "less robotic", push Pass 5 and the humanizing moves. If they want "smoother", push Pass 4.
 
-## 11. Pass-by-pass time budget
+## 13. Pass-by-pass time budget
 
 For a 3,500-word chapter, spend attention roughly like this:
 
 | Pass | Share of revision effort | Why |
 |---|---|---|
+| Gates (§2) | before any pass | Measuring first stops you polishing a draft that has drifted |
 | 0-1 Structure | 15% | Cheap to check, expensive to get wrong |
 | 2 Voice/POV | 25% | The voice is the product |
 | 3 Dialogue | 15% | Half the words |
@@ -267,7 +331,7 @@ For a 3,500-word chapter, spend attention roughly like this:
 | 5 Anti-robotic | 20% | Where "human" is won or lost |
 | 6-7 Consistency and polish | 10% | Mechanical, but readers notice errors |
 
-## 12. Glossary of terms used in this file
+## 14. Glossary of terms used in this file
 
 - **Tilt:** a section's final beat that changes how the reader reads what came before (a reveal, arrival, reframe, silence, or verdict). See [Hooks & Cliffhangers](../structure/hooks-and-cliffhangers.md).
 - **Spiral:** the analytical monologue sequence of notice, quote back, hypotheses, self-suspicion, verdict. See [Inner Monologue](../core/inner-monologue.md).
@@ -277,6 +341,6 @@ For a 3,500-word chapter, spend attention roughly like this:
 - **Crack in the image:** the contrast that complicates a character's reputation. See [Description & Portraits](../core/description-and-portraits.md).
 - **Genre dials:** the voice adjustments each genre file specifies (comedy ratio, description density, POV habits). See [Genre Index](../genres/genre-index.md).
 
-## 13. Budget rule
+## 15. Budget rule
 
-If you're short on budget, never skip Passes 2 and 5. A structurally imperfect chapter in a living voice beats a perfectly structured one that sounds like a machine.
+If you're short on budget, never skip the gates (§2) or Passes 2 and 5. A structurally imperfect chapter in a living voice beats a perfectly structured one that sounds like a machine, and a chapter that fails the gates isn't in the voice at all.

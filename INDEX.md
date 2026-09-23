@@ -51,11 +51,19 @@
 | [core/tone-and-comedy.md](core/tone-and-comedy.md) | Cynical-not-cruel, deadpan, underreaction, meta rom-com awareness, earnest peaks, running gags |
 | [core/diction-and-japanese-terms.md](core/diction-and-japanese-terms.md) | Register rules and a large glossary: keep, translate, or avoid |
 | [core/punctuation-and-typography.md](core/punctuation-and-typography.md) | `"..."`, `--`, `~`, stutters, `?!`, unison quotes, section numerals, post formatting |
+| [core/pov-temperaments.md](core/pov-temperaments.md) | Re-aiming the analytical engine: cynical loner, sincere harem lead, genki, anxious, schemer |
+
+### adaptation/ and tools/
+| File | What it covers |
+|---|---|
+| [adaptation/fanfic-and-canon.md](adaptation/fanfic-and-canon.md) | Writing in existing series: canon sheets, confidence marking, naming, tone matching, OC labeling |
+| [tools/voice_metrics.py](tools/voice_metrics.py) | Optional stdlib-only script that measures a draft against the voice gates |
+| [tools/README.md](tools/README.md) | How any agent with code execution runs the metrics tool |
 
 ### dialogue/
 | File | What it covers |
 |---|---|
-| [dialogue/dialogue-mechanics.md](dialogue/dialogue-mechanics.md) | Stacking, action tags, group chatter, silent replies, interruptions, banter |
+| [dialogue/dialogue-mechanics.md](dialogue/dialogue-mechanics.md) | Pure dialogue lines (the hard rule), stacking, attribution without tags, group chatter, silent replies, interruptions, banter |
 | [dialogue/honorifics-and-address.md](dialogue/honorifics-and-address.md) | The honorific system, name escalation as plot, the consistency ledger |
 | [dialogue/character-voices.md](dialogue/character-voices.md) | Speech patterns per archetype, tic design, sample lines |
 | [dialogue/emotional-dialogue.md](dialogue/emotional-dialogue.md) | Outbursts, confessions, breakdowns, the monologue-and-silence duet, chants |
@@ -119,6 +127,9 @@
 
 **"Write me chapter 1 of a new LN."**
 SKILL, then templates/story-bible, then core/style-bible, then the genre file, then cast/character-design, then structure/chapter-and-section, then templates/chapter-plan. Draft, then revise with revision/revision-checklist.
+
+**"Write fan fiction of [existing series]."**
+SKILL, then adaptation/fanfic-and-canon (fill the canon sheets first), then core/pov-temperaments (match the series' POV), then the genre file, then core/style-bible. Draft, then run tools/voice_metrics.py or the hand gates.
 
 **"Continue this in the same style."**
 Read the user's text, then core/style-bible, then dialogue/honorifics-and-address (build the ledger from their text), then core/rhythm-and-flow. Draft, then revise with revision/anti-robotic.

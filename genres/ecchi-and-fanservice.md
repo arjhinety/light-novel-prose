@@ -54,8 +54,10 @@ Structure:
 > ---
 >
 > Ten minutes later, Kuze was kneeling in the corridor in the formal seiza position, facing the wall, with the distinct shape of a hand glowing on his left cheek.
-> "It was unlocked," he said to the wall.
-> "IT HAS A SIGN," said the door.
+> He addressed the wall.
+> "It was unlocked."
+> The door answered.
+> "IT HAS A SIGN."
 
 With high-school characters, this is exactly as far as it goes. The accident is instant, the "camera" never enters, and the joke is the corridor. With adult characters (§8), the freeze may hold one suggestive line from the narrator's panicked point of view before the cut.
 
@@ -69,7 +71,8 @@ The lead's brain runs a formal decision process at absurd speed.
 > The witness was holding a tray of tea.
 > The witness was his mother.
 > "..."
-> "I'll come back," his mother said, and closed the door very gently, which was so much worse than screaming.
+> "I'll come back."
+> His mother closed the door very gently, which was so much worse than screaming.
 
 Use numbered or labeled thoughts ("Option one... Option two...") sparingly, once per scene. The joke is the mismatch between clinical reasoning and chaos.
 
@@ -206,30 +209,38 @@ Restraint is the genre's craft, not a limitation on it.
 >
 > The bamboo partition between the boys' bath and the girls' bath was, Kuze estimated, three centimeters thick.
 > He had estimated it because Gon had been describing, for eleven minutes, the historical ninja techniques for crossing such partitions.
-> "Verily, a trained shinobi could scale it in—"
-> "Nobody's scaling anything," Enomoto said, floating on his back like a large, contented otter. "Mina, tell him."
-> "Nobody's scaling anything," Kuze said.
+> "Verily, a trained shinobi could scale it in--"
+> Enomoto floated on his back like a large, contented otter.
+> "Nobody's scaling anything. Mina, tell him."
+> "Nobody's scaling anything."
 > "You two lack ambition."
-> "We have ambition," Kuze said. "It's just aimed at not being expelled."
-> On the other side of the wall, a splash. Laughter. Then Hina's voice, bright and carrying the way it always did: "Okay okay okay! Question time! Everyone has to answer honestly! Yup!"
+> "We have ambition. It's just aimed at not being expelled."
+> On the other side of the wall, a splash. Laughter. Then Hina's voice, bright and carrying the way it always did.
+> "Okay okay okay! Question time! Everyone has to answer honestly! Yup!"
 > The boys' bath went very quiet.
 > Kuze was aware that he should not be listening. He was also aware that there was nowhere else to go, that standing up and leaving would be noticed, and that noticing was, in this bath, a political act.
 > He sank a little lower in the water.
-> "Who in our class," Hina announced, "is secretly the nicest?"
-> "Amamiya-kun, obviously~" That was Momo, instantly.
-> "My. Obviously," said Kujou, in a voice that meant *obviously not what you mean*.
+> "Who in our class is secretly the nicest?"
+> "Amamiya-kun, obviously~"
+> That was Momo, instantly.
+> "My. Obviously."
+> Kujou said it in a voice that meant *obviously not what you mean*.
 > A pause. Water lapping. Then, quieter, a voice Kuze didn't expect.
 > "...Kuze."
 > Tachibana.
 > "Huh?! Rin-chan?!"
-> "He's not *nice*. Don't get it wrong. He's rude and he does math on drinks." A splash, as if someone had hit the water. "But when my bag strap broke in the rain he gave me his and walked home with his stuff in a convenience-store bag and he didn't *say* anything about it. He just... didn't. So."
+> "He's not *nice*. Don't get it wrong. He's rude and he does math on drinks."
+> A splash, as if someone had hit the water.
+> "But when my bag strap broke in the rain he gave me his and walked home with his stuff in a convenience-store bag and he didn't *say* anything about it. He just... didn't. So."
 > Silence on both sides of the wall.
 > Enomoto turned his head very slowly toward Kuze.
 > Kuze looked straight ahead at the steam and did not blink.
 > Then Gon, reaching for the soap with the grace of a falling wardrobe, knocked the entire bucket rack into the water.
 > *CLANG-CLANG-CLANG.*
-> On the other side, a shriek. "Who's there?!"
-> Gon, in a falsetto he must have been saving his whole life: "Nobody, verily."
+> On the other side, a shriek.
+> "Who's there?!"
+> Gon answered in a falsetto he must have been saving his whole life.
+> "Nobody, verily."
 >
 > ---
 >
@@ -240,23 +251,30 @@ Restraint is the genre's craft, not a limitation on it.
 ### 10.2 Sample: the onee-san tease (adult cast)
 
 > Chiaki Sawamura did not so much sit on the corner of Souta's desk as occupy it, the way a cat occupies a keyboard: completely, and as if it had always been hers.
-> "Kirishima-kun." She had a pencil in her hair and another in her mouth, and she took the second one out to point it at him. "You stayed till eleven again."
+> She had a pencil in her hair and another in her mouth, and she took the second one out to point it at him.
+> "Kirishima-kun. You stayed till eleven again."
 > "The build was broken."
-> "The build is always broken. That's what builds are for." She leaned in to look at his screen, and her sleeve brushed his shoulder, and Souta's brain, which had been handling a merge conflict with total competence, dropped every thread at once.
+> "The build is always broken. That's what builds are for."
+> She leaned in to look at his screen, and her sleeve brushed his shoulder, and Souta's brain, which had been handling a merge conflict with total competence, dropped every thread at once.
 > Analysis: she was close.
 > Further analysis: she knew she was close.
 > Conclusion: he was going to fix nothing for the next four minutes.
-> "Your ears," Chiaki said pleasantly, "are doing the thing."
+> Chiaki sounded pleasant about it.
+> "Your ears are doing the thing."
 > "They're not doing anything."
 > "They're very red, for ears that aren't doing anything."
 > "It's warm in here."
-> "It's nineteen degrees. I set it myself." She rested her chin on her hand and smiled, slow, the smile of someone who had found the one fun toy in a boring office. "Relax. I'm only teasing. You're just so easy, Kirishima-kun. It's like pressing an elevator button and watching all the lights come on."
+> "It's nineteen degrees. I set it myself."
+> She rested her chin on her hand and smiled, slow, like she'd found the one fun toy in a boring office.
+> "Relax. I'm only teasing. You're just so easy, Kirishima-kun. It's like pressing an elevator button and watching all the lights come on."
 > "I'm glad I'm a source of entertainment."
-> "You are. Truly. The only one on this floor." She said it lightly, and then, for half a second, it wasn't light at all. Her eyes went past him, to the dark window and the empty desks, and came back.
+> "You are. Truly. The only one on this floor."
+> She said it lightly, and then, for half a second, it wasn't light at all. Her eyes went past him, to the dark window and the empty desks, and came back.
 > Souta, who had spent his whole life reading the pauses in other people's sentences, read that one and didn't know what to do with it.
-> "...You stayed till eleven too," he said. "Your light was on."
+> "...You stayed till eleven too. Your light was on."
 > Chiaki blinked.
-> "I saw it from the station," he added, and then realized how that sounded, and wanted to die.
+> "I saw it from the station."
+> He heard how that sounded a second too late, and wanted to die.
 > "..."
 > "Not that I was looking. The office is on the way. The light is very visible. From the platform. As a light."
 > For the first time since he'd joined the company, Chiaki Sawamura had nothing to say. She stood up, straightened her blazer, and walked back to her desk without a single tease.
@@ -266,21 +284,26 @@ Restraint is the genre's craft, not a limitation on it.
 
 > "Hold still. There's something in your eye."
 > "It's fine. It'll come out."
-> "You've been blinking like a broken traffic light for five minutes." Hina planted both hands on his cheeks and tilted his face toward the window. "Look up. Up! Yup, there it is, an eyelash, it's a huge one, it's like a whole eyebrow—"
+> "You've been blinking like a broken traffic light for five minutes."
+> Hina planted both hands on his cheeks and tilted his face toward the window.
+> "Look up. Up! Yup, there it is, an eyelash, it's a huge one, it's like a whole eyebrow--"
 > "It's not a whole eyebrow."
 > "Stop talking, your face moves!"
 > Kuze stopped talking. Hina leaned in, squinting, tongue at the corner of her mouth in concentration, close enough that he could count the freckles on her nose he'd never noticed. Seven. No, eight.
 > This was a medical procedure, he told himself. This was first aid.
 > The classroom door slid open.
-> "Hey, Matsuri, Ogata-sensei wants the—"
+> "Hey, Matsuri, Ogata-sensei wants the--"
 > Enomoto stopped.
 > From the doorway, Kuze realized, the view was two people alone in an empty classroom after school, one holding the other's face in both hands, their noses nearly touching, in the golden late light that every romance manga used for exactly one purpose.
 > "..."
 > "..."
-> "Got it!" Hina held up the eyelash triumphantly, oblivious. "Look, Kuze-kun! It really was huge!"
-> Enomoto nodded slowly. "Yeah. Huge. Congrats, Mina."
+> Hina held up the eyelash triumphantly, oblivious.
+> "Got it! Look, Kuze-kun! It really was huge!"
+> Enomoto nodded slowly.
+> "Yeah. Huge. Congrats, Mina."
 > "It's an eyelash."
-> "Sure it is." He backed out, sliding the door shut with exaggerated care. Through the glass, Kuze watched him take out his phone.
+> "Sure it is."
+> He backed out, sliding the door shut with exaggerated care. Through the glass, Kuze watched him take out his phone.
 > By the next morning, the class group chat had a new sticker of two cartoon penguins touching beaks. Nobody would say who'd made it.
 
 ## 11. Ecchi and fanservice revision checklist

@@ -4,8 +4,8 @@ A provider-agnostic skill library for writing English fiction in the voice of a 
 
 It is built around one obsession: **flowing, human, non-robotic prose** that keeps the Japanese texture without machine-translation stiffness or generic-AI polish.
 
-- ~50 linked Markdown files, 150k+ words
-- No tool calls, no vendor APIs, no scripts. Any model that can read Markdown can use it.
+- ~55 linked Markdown files, 200k+ words, plus an optional metrics script
+- No tool calls or vendor APIs are required. Any model that can read Markdown can use it, and the one script (`tools/voice_metrics.py`) is optional.
 - `SKILL.md` is the router, `INDEX.md` is the map, and `PROMPT.md` is a single-file condensed version
 
 ## 1. Layout
@@ -22,6 +22,8 @@ light-novel-prose/
 ├── setting/          school life, social media & texts
 ├── scenes/           scene playbook, emotional climaxes
 ├── structure/        chapters & sections, arcs, series, hooks
+├── adaptation/       fan fiction & existing-series protocol
+├── tools/            optional voice_metrics.py (stdlib Python)
 ├── revision/         anti-robotic, MTL vs natural, revision checklist
 ├── examples/         annotated passages, before/after, 3 full sample chapters
 └── templates/        story bible, chapter plan, character sheet
@@ -49,6 +51,9 @@ Example requests:
 - "Rewrite this scene so it reads like a translated LN and not like AI."
 - "Isekai slow-life, kuudere elf heroine, comedic tone, 3,000 words."
 - "Give me a yandere childhood friend who's scary but sympathetic."
+- "A 5,000-word harem chapter of [existing series] fan fiction."
+
+**House rules to know:** dialogue lines are pure (a quoted line never shares its paragraph with narration), dashes are only for interruptions, and drafts are checked against measurable gates (dialogue 40-55%, short narrative sentences, and no repeated tics).
 
 ## 4. Provenance
 

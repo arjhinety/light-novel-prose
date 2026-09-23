@@ -38,7 +38,11 @@ Uses:
 Rules:
 1. **Always three periods, no spaces**: `"..."`. Not `". . ."`, not `"…"` mixed with `...` (pick one glyph and use it everywhere; this library uses three periods).
 2. **Attribution is usually unnecessary.** The reader knows whose turn it is. If you must attribute, do it with a gesture on the next line: "Kuze looked away."
-3. **The narration can follow a silent line to interpret it**, but the interpretation should be *the POV's guess*, not the author's: `"..." Was she angry? Or just tired?`
+3. **The narration can follow a silent line to interpret it**, in its own paragraph, and the interpretation should be *the POV's guess*, not the author's:
+
+   > "..."
+   >
+   > Was she angry? Or just tired?
 4. **The silence duet** (one character talks at length and the other answers `"..."` five or six times) is reserved for the confidant thesis speech or a confession. See [Emotional Dialogue](../dialogue/emotional-dialogue.md).
 5. **Narrative-line silence**: a narration paragraph consisting only of `...` is *not* used. Silence is always a character's line.
 
@@ -62,7 +66,15 @@ Use it rarely, and only in free indirect thought when the POV's thinking trails 
 
 ## 3. The dash
 
-This library uses `--` (a double hyphen) as the house dash, matching web-novel convention and staying typeable. If you are producing a typeset book, convert every `--` to an em dash (—) consistently. Never mix the two in one manuscript.
+This library writes `--` (a double hyphen) in its examples, matching web-novel convention and staying typeable. The em dash (`—`) is equally correct. **Pick one per story and never mix them.**
+
+**The dash rule (R2).** In story prose, a dash has exactly three jobs:
+
+1. **Speech cut off or interrupted** (§3.1, §3.2)
+2. **A thought that breaks off** in narration: `Why would Kujou, of all people--`
+3. **A structural stamp** that opens a scene or holds a breath: `The next day--` (§3.3)
+
+It is **never** used for narrative asides, appositives, or dramatic pauses in the middle of a narration sentence. That habit (`He had one rule--never volunteer--and he'd broken it.`) is a Western-literary tic, and it is one of the fastest ways a draft stops sounding like a translated LN. Test runs of this library found models producing 40-50 aside dashes per 5,000 words when this rule wasn't explicit. Target: **close to zero dashes in narration** outside the three jobs above. Replace an aside dash with a period, a comma, or a new one-line paragraph (§3.5).
 
 ### 3.1 Interruption
 
@@ -99,17 +111,30 @@ Rules:
 
 ### 3.4 Narration interrupted by dialogue
 
+**Wrong** (narration and speech share a paragraph, which breaks R1 as well):
+
 > He was about to say it-- "Everyone, next stop!" --when Momo's voice cut through.
 
-Avoid this. It's clumsy in English. Break it into lines instead:
+Never do this. Break it into separate paragraphs instead:
 
 > He was about to say it--
+>
 > "Everyone, next stop!"
+>
 > Momo's voice cut through before he could.
 
-### 3.5 Parenthetical dashes
+### 3.5 Parenthetical and aside dashes: not used
 
-Standard English use in narration ("The one thing he'd never considered--that she might actually be lonely--hit him all at once.") is fine but should be infrequent. The LN rhythm prefers a new sentence to a nested one.
+Standard Western use in narration (a pair of dashes around an aside, or a single dash before an appositive or punchline) is **not part of this voice** (R2). The LN rhythm prefers a new sentence, or a new paragraph, to a nested one.
+
+| Aside dash (don't) | LN fix (do) |
+|---|---|
+| The one thing he'd never considered--that she might actually be lonely--hit him all at once. | He'd never once considered it. That she might actually be lonely. It hit him all at once. |
+| Amamiya had one gift--timing. | Amamiya had one gift. Timing. |
+| She smiled--the careful kind, with scaffolding behind it. | She smiled. The careful kind, with scaffolding behind it. |
+| He took the stairs two at a time--past the poster, past the window--and didn't slow down. | He took the stairs two at a time. Past the poster. Past the window. He didn't slow down. |
+
+Notice that each fix *adds* rhythm: the aside becomes its own short beat, which is exactly the short-beat texture the voice runs on (see [Rhythm & Flow](rhythm-and-flow.md)). A dash hides a beat inside a sentence, and the LN voice wants it out in the open.
 
 ## 4. The tilde `~`
 
@@ -185,7 +210,7 @@ Rules:
 1. Reserve it for crowds, cliques, and pairs in comic sync.
 2. At climaxes, a chanting crowd in triple quotes, repeated and intercut with the POV's one-line thoughts, is a strong effect. See [Emotional Dialogue](../dialogue/emotional-dialogue.md).
 3. Never use it for a single speaker.
-4. If the target platform mangles triple quotes, fall back to `"Guess so," the boys chorused.` Do this consistently.
+4. If the target platform mangles triple quotes, fall back to a narration paragraph (`The boys answered together.`) followed by the line on its own (`"Guess so."`). Never glue the chorus tag onto the quote (R1). Do this consistently.
 
 ## 8. Emphasis
 
@@ -193,7 +218,7 @@ Rules:
 2. **Free indirect thought is NOT italicized.** This is the key difference from Western genre fiction. The POV's thoughts flow as plain text: `Why was he like this?` Italics only for direct, quoted thought when you need to separate it sharply, and even then prefer plain text. One permitted house option: italicize **first-person, present-tense** thoughts (*What exactly is so special about him?*) and leave third-person free indirect thought plain. If you choose it, apply it consistently for the whole story, as the [sample chapters](../examples/sample-chapter-01.md) do (see also [Narration & POV](narration-and-pov.md)).
 3. **No bold** in prose. (Bold is for the status windows and headers of game-system genres; see [Isekai & Reincarnation](../genres/isekai-and-reincarnation.md).)
 4. **ALL CAPS** only for a comic scream: `"CUUUUT!"` Once a chapter at most.
-5. **Quoted terms in narration** use straight double quotes: the "go-home club", his "rational" choice. Scare quotes carry the POV's irony.
+5. **Quoted terms, scare quotes, and quoted-back phrases in narration** use *italics* (or single quotes if italics can't render): the *go-home club*, his *rational* choice, *I got them to make up*. **Never double quotes**, because double quotes are reserved for live speech (R1, §9.1). Scare-quote italics still carry the POV's irony.
 
 ## 9. Quotation marks
 
@@ -209,7 +234,47 @@ Rules:
    > "You're late."
    > "Sorry, sorry."
 
-   **Exception:** rapid group-chatter bursts where individual speakers don't matter may share a paragraph *if* the narration signals it ("Voices overlapped: 'No way,' 'Seriously?', 'That's so her.'"). Use this rarely.
+   **No exception for group chatter.** Even when individual speakers don't matter, each line gets its own paragraph. If you want to signal overlap, put a narration paragraph first (`Voices overlapped.`) and then stack the lines.
+
+### 9.1 Pure dialogue lines (R1)
+
+**This is a hard rule.** A paragraph that contains spoken dialogue contains **only the quotation**:
+
+- no speech tags (`she said`, `he asked`, `Rin whispered`)
+- no action beats in the same paragraph (`Rin crossed her arms. "Whatever."`)
+- no split quotes (`"Oh yeah," she paused, "so like, this is the problem."`)
+- no narration before or after the quote in the same paragraph
+
+**Wrong:**
+
+```
+"Oh yeah," she paused, "so like, this is the problem."
+Rin crossed her arms. "Whatever."
+"Fine," Kuze said.
+```
+
+**Right:**
+
+```
+Rin crossed her arms.
+
+"Whatever."
+
+"...Fine."
+```
+
+How attribution works without tags:
+
+1. **Voice and tics.** Rin says *Tch* and calls him *you*, Hina says *Yup!*, and Kujou says *My.* A reader who knows the cast knows who's talking. This is why every character needs distinct tics ([Character Voices](../dialogue/character-voices.md)).
+2. **A narration paragraph just before.** The speaker acts, and then the line comes in its own paragraph. The reader assigns the line to the last person who moved.
+3. **A narration paragraph just after.** The line lands first, and the next paragraph shows who said it through a reaction or gesture.
+4. **Several sentences from one speaker go in one quote.** Don't break a speaker's continuous speech into separate quoted paragraphs unless there's a silence between them.
+
+Everything that isn't live speech stays out of double quotes: quoted-back phrases, scare quotes, and remembered words go in *italics* (§8, rule 5), and in-world text (phone text-to-speech, messages, posts, signs) uses its own block layout (§12). The result is a page where **every double quotation mark means someone is talking right now**, which is the visual rhythm of a translated LN: speech and narration alternate as separate bubbles and captions.
+
+Why the rule exists: it keeps dialogue reading like manga speech bubbles, it forces the writer to make voices distinct instead of leaning on tags, and it eliminates the most Western-looking line shape in English prose. Test runs showed models writing 70-100 mixed paragraphs per 5,000 words when this wasn't stated as a rule. The full treatment, with many examples, is in [Dialogue Mechanics](../dialogue/dialogue-mechanics.md).
+
+*Scope:* the rule governs story prose and example passages. Documentation prose (tables, bullets, analysis) may quote lines inline.
 
 ## 10. Section numerals and scene breaks
 
@@ -298,7 +363,11 @@ Grabbed food with Rin and Kuze today. Looked like they weren't getting along, so
 | Silence as narration | `He said nothing.` (every time) | `"..."` as a line |
 | Tilde spam | Every girl's every line ends in `~` | Only drawl characters, only drawled words |
 | Stutter spam | `"I-I-I d-don't k-know"` | One stutter, on the first word |
-| Western tags on everything | `"No," he said. "Why?" she asked.` | Gesture tags, untagged stacks |
+| Western tags on everything | `"No," he said. "Why?" she asked.` | Untagged stacks, with gestures in their own paragraphs (R1) |
+| Narration glued to a quote | `Rin crossed her arms. "Whatever."` | Two paragraphs: the gesture, then the line (R1) |
+| Split quote with beat | `"Oh," she paused, "so..."` | `"Oh... so..."` with the pause inside the speech (R1) |
+| Aside dashes in narration | `He had one rule--never volunteer--and broke it.` | `He had one rule. Never volunteer. He broke it.` (R2) |
+| Double-quoted scare terms | his "rational" choice | his *rational* choice |
 | Italicized thoughts | *Why is he like this?* he thought. | Plain free indirect: Why was he like this? |
 | Mixed dashes | `--` here, `—` there | Pick one |
 | Multiple speakers per paragraph | `"A." "B." "C."` | One per paragraph |
@@ -308,7 +377,7 @@ Grabbed food with Rin and Kuze today. Looked like they weren't getting along, so
 
 ## 15. Punctuation as rhythm: a before/after
 
-Flat punctuation:
+Flat punctuation (and an R1 violation):
 > "I wasn't waiting for you," Rin said, embarrassed. Kuze didn't reply. "I said I wasn't waiting," she repeated, hesitating. "Well, maybe for a little while. But not for you specifically."
 
 LN punctuation:
@@ -320,13 +389,15 @@ LN punctuation:
 > "There's no bus stop here."
 > "Shut up!"
 
-What changed: the stutter carries "embarrassed", the silent lines carry "didn't reply", the leading ellipsis carries "hesitating", the italics carry stress, and one speaker per line lets the rhythm breathe. No emotion word survived, and none was needed.
+What changed: the stutter carries "embarrassed", the silent lines carry "didn't reply", the leading ellipsis carries "hesitating", the italics carry stress, and one speaker per line, with no tags glued on, lets the rhythm breathe. No emotion word survived, and none was needed.
 
 ## 16. Checklist
 
 - [ ] Silent lines are written as `"..."`, about 3-5 per chapter.
 - [ ] Hesitation ellipses are inside speech, with leading `...` for reluctant replies.
-- [ ] `--` for interruptions and time stamps, consistently one dash style.
+- [ ] Dashes (`--` or `—`, one style per story) only for interruptions, broken-off thoughts, and scene stamps. Zero aside dashes in narration (R2).
+- [ ] Every paragraph with double quotes contains only the quotation: no tags, no beats, no split quotes (R1).
+- [ ] Quoted-back phrases and scare terms in narration are in italics, not double quotes.
 - [ ] Tildes only from drawl characters, and menacing in the bully's mouth.
 - [ ] Stutters only at genuine fluster, first word only.
 - [ ] `?!` in dialogue only, in one consistent order.

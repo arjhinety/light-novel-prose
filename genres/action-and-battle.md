@@ -24,7 +24,7 @@ The base voice (see [Style Bible](../core/style-bible.md)) survives intact. The 
 |---|---|---|
 | POV | Close third, one anchor | Same, but you may cut to a spectator or the opponent for one short section to raise stakes |
 | Sentence length | Median ~7 words | Median drops to ~5 during exchanges. The long exhale is reserved for the lull between exchanges |
-| Dialogue share | ~47% | ~25-35% during fights: taunts, attack names, and allies shouting. It rises again in the aftermath |
+| Dialogue share | ~47% | Dips to ~30% inside a fight section (taunts, attack names, allies shouting) and rises again in the setup and aftermath. The **chapter** still has to land inside the 40-55% gate ([Revision Checklist](../revision/revision-checklist.md)), so a fight chapter pays for its quiet exchanges with dialogue-heavy setup and aftermath sections |
 | Rhetorical questions | Social ("Was it jealousy?") | Tactical ("Why hasn't he used his right hand?") |
 | Description | Portraits, little scenery | **Terrain matters now.** Give 1-2 lines of usable space: the pillar, the wet floor, the railing |
 | Comedy ratio | Frequent deadpan | Low in the fight, high in the setup and the aftermath. A single deadpan line mid-fight is a power move |
@@ -137,7 +137,8 @@ Attack names go in dialogue, often with brackets or bold if the story uses a gam
 
 A Japanese name with an English gloss the first time only is a strong LN convention:
 
-> "*Kagerou*." Heat Haze. The move she'd been practicing every night behind the clubhouse, the one she'd sworn she didn't care about.
+> "*Kagerou*."
+> Heat Haze. The move she'd been practicing every night behind the clubhouse, the one she'd sworn she didn't care about.
 
 ### 5.3 Undercutting attack names
 Because the base voice is cynical, the POV narrator may find attack names embarrassing. That is a comedy asset:
@@ -198,9 +199,12 @@ The rival is half of every good battle arc.
 
 > "Oi. Go-home club."
 >
-> Kuze didn't turn around. "That's not my name."
+> Kuze didn't turn around.
+> "That's not my name."
 >
-> "It's what you are." Shiga dropped his bag at the edge of the court and rolled his neck until something cracked. "You took a point off me last week. Fluke."
+> "It's what you are."
+> Shiga dropped his bag at the edge of the court and rolled his neck until something cracked.
+> "You took a point off me last week. Fluke."
 >
 > "Probably."
 >
@@ -246,7 +250,8 @@ The rivalry is comedic on the surface and sharp underneath. The narrator's deadp
 
 > The nurse's office smelled like disinfectant and the tatami that nobody had replaced since the Showa era.
 >
-> "You idiot," Tachibana said, pressing an ice pack to his forearm with far more force than an ice pack required.
+> Tachibana pressed an ice pack to his forearm with far more force than an ice pack required.
+> "You idiot."
 >
 > "You hit me."
 >
@@ -295,7 +300,8 @@ The rivalry is comedic on the surface and sharp underneath. The narrator's deadp
 
 > The rooftop door slammed shut behind them. Somebody had propped it open with a folded Chirp printout, and now it was just a door again, and they were three against one.
 >
-> "So you're the one," the tallest said. Third-year. Rugby build. A tie loosened in a way that was probably meant to look cool. "The guy who told Ogata-sensei."
+> The tallest one stepped forward. Third-year. Rugby build. A tie loosened in a way that was probably meant to look cool.
+> "So you're the one. The guy who told Ogata-sensei."
 >
 > "I told her the vending machine was broken."
 >
@@ -315,7 +321,7 @@ The rivalry is comedic on the surface and sharp underneath. The narrator's deadp
 >
 > Then--
 >
-> "You know," he said, "there's a security camera on the water tank."
+> "You know, there's a security camera on the water tank."
 >
 > The grip loosened by a millimeter. Three heads turned.
 >
@@ -333,7 +339,8 @@ The rivalry is comedic on the surface and sharp underneath. The narrator's deadp
 
 ## 14. Sample passage: Magic duel (fantasy register)
 
-> "Terms," the proctor said. "First to leave the circle or yield. Lethal spells forfeit."
+> The proctor raised a hand.
+> "Terms. First to leave the circle or yield. Lethal spells forfeit."
 >
 > Across the chalk ring, Leonhart flicked his wrist and three motes of blue fire bloomed above his fingers. He didn't even look at them. The crowd in the academy stands made a sound like a held breath.
 >
@@ -351,7 +358,9 @@ The rivalry is comedic on the surface and sharp underneath. The narrator's deadp
 >
 > The second came faster. He didn't dodge that one so much as fall over.
 >
-> Laughter from the stands. Someone shouted, "Go home, go-home club!" and the laughter doubled.
+> Laughter from the stands.
+> "Go home, go-home club!"
+> The laughter doubled.
 >
 > ...Rude. Accurate, but rude.
 >
@@ -373,7 +382,8 @@ The rivalry is comedic on the surface and sharp underneath. The narrator's deadp
 >
 > Leonhart's crest was now lying in Kuze's hand, outside the chalk line.
 >
-> "...Leonhart Veil," the proctor said slowly, "has left the circle."
+> The proctor spoke slowly, as if checking each word.
+> "...Leonhart Veil has left the circle."
 >
 > The fireball fizzled out like a birthday candle.
 >
@@ -393,7 +403,8 @@ The rivalry is comedic on the surface and sharp underneath. The narrator's deadp
 >
 > One point. Two needed.
 >
-> In the stands, the kendo club's first-years were screaming her name. Amamiya was standing, fists clenched, shouting something that was probably "You got this, Rin!" and was definitely louder than necessary.
+> In the stands, the kendo club's first-years were screaming her name. Amamiya was standing, fists clenched, shouting something that was definitely louder than necessary.
+> "You got this, Rin!"
 >
 > Kuze watched her shoulders instead.
 >

@@ -162,7 +162,7 @@ Tapping the attachment is its own beat, and the photo is described **precisely a
 The Observer repeats the exact phrasing and dissects the grammar:
 
 > *I got them to make up.*
-> Not "they made up." Not "we all hung out." *I* got them to.
+> Not *they made up*. Not *we all hung out*. *I* got them to.
 > Nobody had asked him to. Kuze hadn't wanted to go. Rin hadn't wanted to go. And somewhere between the parfaits and this post, the evening had become a good deed with Amamiya's name on it.
 
 ### 4.5 The replies

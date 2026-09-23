@@ -15,7 +15,7 @@ Every genre file in this folder assumes the same foundation, described in the [S
 - Close third person anchored to one point-of-view character, usually named by surname ([Narration & POV](../core/narration-and-pov.md)).
 - An inner monologue that *reads people*: it notices small asymmetries, quotes words back, spins hypotheses, and suspects itself ([Inner Monologue](../core/inner-monologue.md)).
 - A short-beat rhythm with deliberate long exhales ([Rhythm & Flow](../core/rhythm-and-flow.md)).
-- Dialogue carrying roughly half the word count, stacked and lightly tagged ([Dialogue Mechanics](../dialogue/dialogue-mechanics.md)).
+- Dialogue carrying roughly half the word count, stacked as pure dialogue lines with no tags in the quote paragraph ([Dialogue Mechanics](../dialogue/dialogue-mechanics.md)).
 - Anime-visual portraits, honorifics, silent `"..."` beats, and sound-effect lines.
 
 A genre does not replace any of that. It changes *how much* of each ingredient you use, *what* the POV character's analytical mind is pointed at, and *which* scenes the chapters are built from. A fantasy battle is still narrated by someone who overthinks. A harem comedy still has a narrator who notices who got the last croquette. A tearjerker still breathes in short beats. It just breathes slower.
@@ -50,7 +50,7 @@ Think of each genre as a mixing-board preset. The eight dials:
 
 1. **Introspection density.** What share of narration is the POV character's analysis versus reported action. The home setting is high: whole paragraphs of "Was it...? Or was it...?"
 2. **Comedy ratio.** How often a scene resolves on a joke, an underreaction, or a tsukkomi.
-3. **Beat length.** The average sentence length and the frequency of one-line paragraphs. Action drives it down. Romance and melodrama let it drift up.
+3. **Beat length.** The average sentence length and the frequency of one-line paragraphs. Action drives it down. Romance and melodrama let it drift up, but only in *flow* (more connectives, longer exhales at quiet moments). Every genre still has to pass the measurable gates in [Revision Checklist](../revision/revision-checklist.md): narrative median at or below 10 words, and no more than 5% of narrative sentences at 25 words or more. A "4" on this dial means more exhales, not a different voice.
 4. **Description density.** How much space scenery and bodies get. The home setting is portrait-first and scenery-light. Fantasy raises scenery, and ecchi comedy is tightly *controlled* rather than raised.
 5. **Cast breadth.** How many named characters share a scene. A harem scene often holds five or more. Melodrama often holds two.
 6. **Meta awareness.** How often the narrator notices the genre he is standing in. This is highest in isekai and rom-com and nearly zero in horror.
@@ -129,7 +129,7 @@ Within any single chapter, one genre sets the dials. Blending happens *across* c
 
 When a chapter moves between genres (comedy into drama is the most common), use a numbered section break as the hinge. The last comedic section ends on a gag. The next section opens with a flat, quiet beat:
 
-> "Lame. Two points," Kuze said.
+> "Lame. Two points."
 > Enomoto clutched his chest as if shot, and Hina laughed so hard she had to sit on the flowerbed ledge.
 >
 > 4
@@ -195,32 +195,39 @@ The same premise (Kuze is asked to stay after class by a girl) tuned five ways s
 
 ### 10.1 School drama (baseline)
 
-> "Stay after class," Kujou said, without looking at him.
-> Not "could you" or "would you mind." Just an instruction, dropped on his desk like homework.
+> Kujou stopped at his desk without looking at him.
+> "Stay after class."
+> Not *could you* or *would you mind*. Just an instruction, dropped on his desk like homework.
 > Kuze watched her walk back to Amamiya's side, where her voice climbed half an octave.
 > Why me? Why today? Why say it where Hoshino could hear?
 > The sediment stirred.
 
 ### 10.2 Rom-com
 
-> "Stay after class," Kujou said.
+> Kujou stopped at his desk.
+> "Stay after class."
 > Twelve heads turned. Somewhere near the window, a boy dropped his melon bread.
-> "Is this a confession?" Gon whispered. "Verily, is this a confession?"
-> "It's cleaning duty," Kuze said. "We're on the same rota."
-> "That," Gon said gravely, "is exactly what a confession would say."
+> Gon leaned over, whispering.
+> "Is this a confession? Verily, is this a confession?"
+> "It's cleaning duty. We're on the same rota."
+> Gon nodded gravely.
+> "That is exactly what a confession would say."
 
 ### 10.3 Harem
 
-> "Stay after class," Kujou said.
+> Kujou stopped at his desk.
+> "Stay after class."
 > Tachibana's pencil snapped. Hina's smile froze at exactly the angle it had been at, which was somehow worse than a frown. Momo tilted her head, phone already halfway out of her pocket.
 > Amamiya looked from Kujou to Kuze and back.
 > "Whoa, whoa. Sayo, what's that about?"
-> "Class business," Kujou said, and patted Amamiya's hand in a way that was not class business at all.
+> "Class business."
+> Kujou patted Amamiya's hand in a way that was not class business at all.
 > Ah, Kuze thought. I'm the chess piece today.
 
 ### 10.4 Mystery / psychological
 
-> "Stay after class," Kujou said.
+> Kujou stopped at his desk.
+> "Stay after class."
 > She didn't lower her voice. That was the first thing he noticed. Someone who wanted a secret meeting would have whispered, so she wanted witnesses.
 > The second thing was her left hand, tapping twice on his desk. It was the same rhythm she'd tapped on Hoshino's desk last Thursday, the day before Hoshino stopped coming to school.
 > "..."
@@ -228,8 +235,9 @@ The same premise (Kuze is asked to stay after class by a girl) tuned five ways s
 
 ### 10.5 Romance / melodrama
 
-> "Stay after class," Kujou said.
-> Her voice was smaller than usual. It still came out as an order, but there was a gap in the middle of it where a "please" might have gone.
+> Kujou stopped at his desk.
+> "Stay after class."
+> Her voice was smaller than usual. It still came out as an order, but there was a gap in the middle of it where a *please* might have gone.
 > After the room emptied, she sat on the windowsill with the sunset behind her and did not say anything for a long time.
 > Kuze didn't either.
 > Outside, the baseball team was calling the last drill of the day, and the sound came up faint and far away, as if from another year.
@@ -277,3 +285,17 @@ None of these is mandatory. Vary them across chapters as [Chapter & Section](../
 - Anything with fanservice: [Ecchi & Fanservice](ecchi-and-fanservice.md). Read its safety section first, every time.
 - Planning an arc in any genre: [Arc Design](../structure/arc-design.md) and [Hooks & Cliffhangers](../structure/hooks-and-cliffhangers.md).
 - Scene building blocks that work across genres: [Scene Playbook](../scenes/scene-playbook.md).
+- A POV who isn't a cynical loner (a sincere harem lead, a genki narrator, a schemer): [POV Temperaments](../core/pov-temperaments.md).
+- Characters from an existing series: [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md), before anything else.
+
+## 14. Fan fiction and existing series
+
+A request set in an existing series ("a chapter of [series] with [canon characters]") is **not a new genre**. It is an existing genre (usually harem, rom-com, or school drama) with a canon contract on top. Pick the genre file as normal, then load [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md) and write a canon sheet for every canon character before drafting.
+
+Three rules matter most, because test runs broke all three:
+
+1. **The default cast is example material only.** Kuze, Rin, Sayo and the rest exist to illustrate techniques. Never give their traits (silver-ash hair, "lawful wife", the sediment) to canon characters.
+2. **Follow the source's conventions over this library's defaults.** If the series narrates with given names, narrate with given names, even though the base voice anchors on surnames. If its lead is sincere, use the sincere temperament.
+3. **When unsure, underspecify.** Leave out a hair color you aren't sure of rather than invent one, and never present an invented prop or character as canon.
+
+The LN mechanics (pure dialogue lines, short beats, numbered sections, silences, the re-aimed analytical engine) still apply on top of canon.

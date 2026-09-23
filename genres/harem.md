@@ -12,7 +12,7 @@ Before anything else, decide **whose eyes** the harem is seen through. It change
 
 ### 1.1 The inside harem (the lead is the POV)
 
-The classic form. The POV character is the one surrounded. Readers want wish fulfillment *and* a lead they can stand to ride along with. The analytical voice turns inward: "Why are they all like this around me? What did I do?" Obliviousness is the default, but in this voice it has to be *interesting* obliviousness. The narrator overthinks the wrong things.
+The classic form. The POV character is the one surrounded. Readers want wish fulfillment *and* a lead they can stand to ride along with. The analytical voice turns inward: "Why are they all like this around me? What did I do?" Obliviousness is the default, but in this voice it has to be *interesting* obliviousness. The narrator overthinks the wrong things. If the lead is *sincere* rather than oblivious (openly devoted, maybe to every heroine at once), see §4.4 and [POV Temperaments](../core/pov-temperaments.md).
 
 ### 1.2 The outside harem (the POV watches someone else's)
 
@@ -44,7 +44,7 @@ Every heroine needs a distinct combination across **six axes**. Use the table as
 |---|---|---|
 | **Dere type** | How does her affection show? | Rin: tsundere. Sayo: ojou with yandere undertones. Hina: deredere/genki. Momo: fake-airhead two-face. |
 | **Visual signature** | Could an illustrator draw her from three words? | Rin: silver-ash bob, canine grin, bamboo sword. Sayo: waist-length black hair, almond eyes. Hina: honey-brown ponytail, big eyes. |
-| **Speech tic** | Could you identify her from one line with the tag removed? | Rin: "I-It's not like...!" Sayo: "My." / "Indeed." Hina: "Yup!", nicknames. Momo: "Fueee~", "Umyu". |
+| **Speech tic** | Could you identify her from one quoted line alone? | Rin: "I-It's not like...!" Sayo: "My." / "Indeed." Hina: "Yup!", nicknames. Momo: "Fueee~", "Umyu". |
 | **What she wants from the lead** | Not "love", but *which* love? | Rin: to be seen as more than a sparring partner. Sayo: to own him. Hina: to be his first friend again. Momo: to be seen with him. |
 | **What she hides** | The private face | Rin: she's scared of her own temper. Sayo: she's running the whole board. Hina: she's lonely outside the group. Momo: she dislikes everyone. |
 | **Her relationship to the POV** | What does the outsider see in her? | Rin: a sparring partner in insults. Sayo: a threat and an ally. Hina: the one who breaks his walls. Momo: a warning. |
@@ -82,6 +82,49 @@ In the default setup, Amamiya is seen only from outside. The trick is to keep th
 - A lead with no personality and no virtues, loved because the plot needs it.
 - A lead who is a jerk and still adored with no narrative acknowledgment.
 - A lead whose obliviousness is physically impossible (he hears "I love you" and says "Huh? What?" through a brass band). Use a bell, a train, or a sneeze to interrupt, and change the method each time.
+
+### 4.4 When the POV is the harem lead
+
+Some harem stories are narrated by the lead himself, and the lead is **not** cynical. He is sincere, openly devoted, and sometimes loves every heroine at once and says so. Test runs of this library showed what happens when the writer only has the cynical-loner voice to work from. The model either keeps the suspicion (and the lead becomes a creep who distrusts girls who adore him), or it drops the whole engine and drifts into long-sentenced, Western, omniscient sincerity: 15-word median sentences, em-dash asides, and paragraphs of reflection. Both break the voice.
+
+The fix is to **keep the engine and re-aim it.** The full treatment is in [POV Temperaments](../core/pov-temperaments.md). For harem specifically:
+
+| Engine step | Cynical outsider (Kuze) | Sincere harem lead |
+|---|---|---|
+| Notice an asymmetry | Who got offered a drink, and who didn't | Which girl did something small that nobody else saw (the burnt cookies hidden under the pretty ones) |
+| Quote it back | *I got them to make up.* | *I redid the same row four times.* |
+| Hypothesis chain | Was it jealousy? Or control? | Was she nervous? Or did she think hers wasn't good enough? Or was it both? |
+| Self-suspicion | Or was that just my own envy? | Or was he just flattered, and calling it noticing? |
+| Verdict line | Hypocrite. | He was going to remember that face for a long time. |
+
+Rules for the sincere lead POV:
+
+1. **Sincerity lives in specifics, not adjectives.** "I love all of you" is a slogan. "You drew yourself smaller than everyone" is love. The lead's big speech is a list of *noticed things*, one per girl, and each one must be something the reader saw earlier in the chapter. Plant them all in the first half.
+2. **The declaration is dialogue, broken into short lines.** Don't write a 200-word speech paragraph. Write one line per girl, each followed by that girl's reaction on its own line (a silent `"..."`, a flush, a deflection, a tic). The rhythm stays LN even at peak sincerity.
+3. **Every girl reacts in her own tic.** The tsundere deflects loudly, the kuudere's "eyes did not do anything" (which, from her, is a paragraph), the dandere hides behind an object, and the genki girl goes completely still.
+4. **Equal love must look equal on the page.** Count the lines each girl gets in the climax. If one gets three and another gets one, the reader will feel the ranking the lead claims not to make.
+5. **The lead still has a flaw.** Sincerity without cost is flat. Give him one (he overcommits, he forgets himself, he can't say no), and let the chapter touch it.
+6. **Comedy comes from the girls escalating, not from the lead being dense.** The lead notices everything, and the chaos comes from five people who each want to be noticed *first*.
+
+> Four boxes on the table. Four girls pretending not to watch him open them.
+> Kaito picked up Yuzu's first, because Yuzu was glaring hardest.
+> "It's not special. It was on sale."
+> "The price tag's in your handwriting."
+> "..."
+> Yuzu's ears went red. She stared at the ceiling as if the ceiling had betrayed her.
+> Airi's was wrapped perfectly. Too perfectly. The corners had been folded, unfolded, and folded again; the paper was soft there, almost fuzzy.
+> How many times had she redone it? Three? Four?
+> Or had she been afraid that anything less than perfect would get put down first?
+> "Airi."
+> "Yes?"
+> "You can stop re-folding things for me."
+> "...I don't know what you mean~"
+> Her smile held. Her hands, in her lap, did not.
+> He was going to remember that for a long time.
+
+Notice what never happens: no dialogue shares a line with narration, the lead never describes his own feelings in abstract terms, and each noticing is concrete, checkable, and specific to one girl.
+
+**Writing an existing series' sincere lead** (fan fiction)? Build the canon sheet first with [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md). Canon leads have canon verbal habits and canon ways of loving, and those beat any generic template.
 
 ## 5. Group scenes
 
@@ -237,9 +280,12 @@ Harems must end, and every ending disappoints someone. Options:
 > Kuze counted. Four girls. Four offerings. Amamiya had taken a bite from each of them in the order they'd been held out, carefully, like a judge at a county fair who knew the contestants would check.
 > Was that consideration? Or was it arithmetic?
 > Or was Kuze just a boy standing in a doorway holding handouts nobody had asked for, doing arithmetic of his own?
-> "Oh, Kuze!" Amamiya noticed him. "You came all the way up here? Want a cookie?"
+> Amamiya noticed him.
+> "Oh, Kuze! You came all the way up here? Want a cookie?"
 > Four heads turned. Three smiles, one frown. Tachibana's.
-> "I'm fine." Kuze set the handouts on the nearest desk. "From Ogata-sensei."
+> "I'm fine."
+> Kuze set the handouts on the nearest desk.
+> "From Ogata-sensei."
 > "Thanks, man. Seriously, you're always helping out."
 > Always. He'd been up here twice.
 > Kuze turned to go. Behind him, the chatter resumed at once, closing over the space where he'd been like water over a dropped stone.
@@ -252,15 +298,18 @@ This sample uses a different, inside-harem cast: Kaito, the lead and POV, with Y
 
 > Three bentos sat on Kaito's desk.
 > He looked at them the way a bomb disposal technician looks at three identical wires.
-> "Eat mine first," Yuzu said. Arms folded, cheeks already pink. "Not because I want you to. Because it'll go bad."
-> "It's October," Airi said sweetly. "Nothing goes bad in October, Yuzu-chan."
+> Yuzu folded her arms, cheeks already pink.
+> "Eat mine first. Not because I want you to. Because it'll go bad."
+> Airi smiled sweetly.
+> "It's October. Nothing goes bad in October, Yuzu-chan."
 > "Things go bad in October!"
 > Nanami said nothing. She'd set hers down at the edge of the desk, a little apart from the others, the lid printed with a cartoon penguin that had faded from being washed too many times.
 > Kaito knew that penguin. It had been on her lunchbox in fourth grade.
-> "Kaito," Yuzu said dangerously. "Why are you staring at Nanami's?"
+> Yuzu's voice dropped dangerously.
+> "Kaito. Why are you staring at Nanami's?"
 > Why was he? It had nothing to do with the food. He was trying to remember when he'd last seen that lunchbox, and he was fairly sure it was the day her parents split up. She'd eaten lunch alone on the swings and he'd sat next to her and not said anything, because he was nine and didn't know what to say.
 > She'd kept it this whole time.
-> "...The penguin's cute," Kaito said.
+> "...The penguin's cute."
 > Yuzu's chopsticks snapped. Airi's smile didn't move at all, which was worse. And Nanami, who had not said a word, turned very slightly toward the window so no one could see her face.
 > It was the wrong thing to say, Kaito realized. He just couldn't work out which of the three people it was wrong for.
 
@@ -268,12 +317,15 @@ This sample uses a different, inside-harem cast: Kaito, the lead and POV, with Y
 
 > Four seats at the club table. Four girls, most days.
 > On Wednesday there were three.
-> "Where's Rin?" Amamiya asked, as if she might be under the table.
-> "Kendo, probably," Hina said. "Yup, probably kendo!"
-> "Kendo's off Wednesdays," Kujou said, without looking up from her book.
+> Amamiya looked around, as if she might be under the table.
+> "Where's Rin?"
+> "Kendo, probably. Yup, probably kendo!"
+> Kujou didn't look up from her book.
+> "Kendo's off Wednesdays."
 > "..."
 > A small silence settled on the table. Momo scrolled her phone. Hina's smile stayed exactly where it was.
-> "Well," Amamiya said, clapping his hands. "She'll show up! Rin's always late anyway, right? Let's get started."
+> Amamiya clapped his hands.
+> "Well, she'll show up! Rin's always late anyway, right? Let's get started."
 > And they did. Kuze, sent up again with another stack of handouts, watched them start without her. The chatter took two minutes to find its usual volume, and after three minutes the empty chair was just a chair.
 > That was the part he couldn't stop thinking about on the way home. Not that Tachibana was gone, since people skipped clubs. It was how fast the formation had closed over the gap, smooth and practiced, as if it had done this before.
 > As if it would do it again, for any of them.
@@ -315,7 +367,7 @@ In the outside-harem default, the outsider has his own romantic arc, and it must
 
 ## 15. Harem failure modes at a glance
 
-- **The heroine blur:** readers can't tell two girls apart without tags. Re-run the six-axis grid and cut or merge.
+- **The heroine blur:** readers can't tell two girls apart from their quoted lines alone. Re-run the six-axis grid and cut or merge.
 - **The trophy cabinet:** heroines exist only in relation to the lead and have no goals, friendships, or scenes without him. Give each one a scene where the lead isn't mentioned.
 - **The eternal status quo:** fifty chapters and nobody has confessed, left, or changed. Schedule an irreversible event every arc.
 - **The saint lead:** he's never wrong, so readers never worry about him. Let him fail someone.

@@ -12,7 +12,8 @@
 2. **Keep it short per field.** A bible that takes an hour to read won't get read. One line per field unless a field says otherwise. The details of any single character belong in their [Character Sheet](character-sheet.md).
 3. **Update after every chapter.** At minimum, update the *Address Ledger* (§2.5), *Running Jokes & Callbacks* (§2.7), and *Open Questions* (§2.9). These are the three fields that drift, and drift is what breaks immersion.
 4. **When continuing someone else's text, extract before you invent.** Read the existing chapters and fill the bible from what is actually on the page: names, suffixes in use, tics, and the leitmotif. Only then add new material. Never overwrite an established fact because you like your idea better.
-5. **If the user says "just write it",** fill the bible yourself with bold, specific choices, and list the 3-5 most important ones in a short note after the chapter (see the delivery rules in [SKILL.md](../SKILL.md)).
+5. **If the story uses an existing series (fan fiction, parody, crossover),** fill the *Canon Sheet* (§2.12) for every canon character **before** anything else, following [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md). The library's default cast is example material only. Never copy its traits (hair, tics, roles) onto canon characters.
+6. **If the user says "just write it",** fill the bible yourself with bold, specific choices, and list the 3-5 most important ones in a short note after the chapter (see the delivery rules in [SKILL.md](../SKILL.md)).
 
 Why each section exists:
 
@@ -46,6 +47,7 @@ Why each section exists:
 - **Name (family, given):** (narration uses: surname / given name)
 - **Year, class, club:**
 - **Defining flaw:**
+- **Temperament:** (cynical loner / sincere lead / genki / anxious / schemer / other; see [POV Temperaments](../core/pov-temperaments.md). This sets what the analytical engine aims at.)
 - **Mental habit / engine:** (what they *do* in their head, e.g. keeps a ledger, grades people, narrates like a nature documentary)
 - **Speech register:** (terse / rambling / formal / slangy; average line length)
 - **Sensory tells when stressed:**
@@ -115,7 +117,7 @@ Rate each 1-5 for this story (see [Tone & Comedy](../core/tone-and-comedy.md)):
 - Melodrama at peaks:
 - Fanservice (adult casts only; see [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md)):
 - Description density:
-- Dialogue share (target %):
+- Dialogue share (target %): (40-55%; 35% only for a chapter the plan marks as introspective)
 
 ### 2.11 Style notes specific to this book
 
@@ -123,6 +125,30 @@ Rate each 1-5 for this story (see [Tone & Comedy](../core/tone-and-comedy.md)):
 - Chapter title pattern:
 - Section numbering style:
 - Words or phrases banned for this book:
+- Dash glyph for this book: (`--` or `—`, one only; interruptions and broken-off thoughts only)
+- Dialogue lines are pure: yes (always; see [Dialogue Mechanics](../dialogue/dialogue-mechanics.md))
+
+### 2.12 Canon sheet (fan fiction / existing series only)
+
+Skip this for an original cast. For a story set in someone else's series, fill one block per canon character **before** planning, from knowledge you're confident of. Mark every item with a confidence level: **[sure]**, **[likely]**, or **[unsure]**. Anything [unsure] stays **out of the prose** (write around it) until confirmed. Full protocol: [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md).
+
+```
+SOURCE:                 (title; medium; which arc/volume this story sits after)
+SOURCE CONVENTIONS:     (POV and person; narration names characters by given name or surname?; honorific habits; tone)
+
+CHARACTER:              (name exactly as the source writes it)
+  Narration calls them: (as the source's narration does)
+  Appearance:           [sure/likely/unsure] (only what you're confident of)
+  Core trait:           [ ]
+  Speech style / tics:  [ ] (sentence length, verbal habits, signature phrases described, not quoted from the source)
+  Calls others:         [ ] (who they address how)
+  Called by others:     [ ]
+  Running gags:         [ ]
+  Relationships:        [ ]
+  Do NOT:               (traits that would be OOC; default-cast traits not to import)
+
+ORIGINAL ADDITIONS:     (any invented character, prop, or event, labeled as non-canon)
+```
 
 ---
 
@@ -240,3 +266,26 @@ Comedy 3 · Cynicism 4 · Melodrama at peaks 5 · Fanservice 0 · Description de
 - Titles: "Do You Like X? N".
 - Sections are numbered with bare digits. Chapters open with an unnumbered section.
 - Banned in this book: "a testament to", "little did he know", "a mix of emotions", "he couldn't help but" (max once per chapter).
+
+
+### 3.12 Canon sheet
+
+Not applicable: the default cast is original. For shape, here is one filled block for a character from an **invented** series (so no real canon is claimed):
+
+```
+SOURCE:                 "Seven Days of Sunflowers" (invented example); after the summer-camp arc
+SOURCE CONVENTIONS:     close third on the male lead; narration uses given names; honorifics kept; gag-heavy, sincere core
+
+CHARACTER:              Aoi Harukaze
+  Narration calls them: Aoi
+  Appearance:           [sure] short twin braids, always a band-aid on one knee. [unsure] eye color: leave out
+  Core trait:           [sure] competitive about everything, including losing
+  Speech style / tics:  [sure] short bursts, counts things aloud; [likely] ends boasts with "--probably"
+  Calls others:         [sure] lead by surname with no honorific; seniors "-senpai"
+  Called by others:     [sure] "Aoi" by the lead, "Harukaze-san" by teachers
+  Running gags:         [sure] challenges vending machines to duels
+  Relationships:        [likely] rivalry-friendship with the student council president
+  Do NOT:               make her shy; give her Rin's silver-ash bob or "Tch." (default-cast bleed)
+
+ORIGINAL ADDITIONS:     a new first-year club member, Kouta (OC, labeled non-canon in the author's note)
+```

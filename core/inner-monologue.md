@@ -14,6 +14,8 @@ Readers stay for that mind. It is funny, bitter, sharp, a little unfair, and con
 
 A model writing in this style fails most often by **reporting events without processing them**. The fix is almost never "add more plot". It is "let the POV character think about what just happened, in his own words, with his own biases."
 
+**Not every POV is a cynic.** This file describes the engine in its default setting: a suspicious loner aiming it at *motives*. The same five steps work for any temperament once they're re-aimed. A sincere harem lead notices *effort and hidden feelings* (the burnt cookies hidden at the bottom of the tin) and his verdict lines are declarations rather than accusations. A genki narrator notices *fun* and escalates. An anxious one notices *threat* and catastrophizes. A schemer notices *leverage*. The rhythm rules never change; only the target of attention and the flavor of the verdict do. Don't drop the engine when the POV is warm, because that is how drafts slide into generic omniscient narration. See [POV Temperaments](pov-temperaments.md).
+
 ## 2. The five-step engine
 
 Every analytical passage follows some version of this sequence. Not every step appears every time, but the full engine should run at least once per section.
@@ -26,7 +28,9 @@ Every analytical passage follows some version of this sequence. Not every step a
 
 ### 2.1 A full run of the engine
 
-> "Want me to grab drinks for you two?" Amamiya had asked, when Matsuri was still on class duty with him.
+> "Want me to grab drinks for you two?"
+>
+> Amamiya had asked it while Matsuri was still on class duty with Kuze.
 > Five minutes later, Matsuri left for the club room. Amamiya went with her. The offer did not stay behind.
 >
 > Kuze wiped down the last desk and turned it over in his head.
@@ -65,7 +69,7 @@ The POV character is a **detector of social asymmetry**. He notices when:
 **Rule:** the noticed detail must be **concrete and small**. Big obvious slights are for the climax. The everyday engine runs on crumbs.
 
 **Do:**
-> Amamiya said "Hina" and then, after a pause long enough to fit a question mark, "...and Kuze?"
+> Amamiya said *Hina*, and then, after a pause long enough to fit a question mark, *...and Kuze?*
 
 **Don't:**
 > Amamiya clearly didn't like Kuze and was being rude to him.
@@ -106,10 +110,10 @@ This is an essay. The same content as live thought:
 
 ## 5. Quoting back
 
-The POV character **re-reads other people's words** in narration, often in italics or quotation marks, and dissects them. This is one of the most distinctive and satisfying moves in the style.
+The POV character **re-reads other people's words** in narration, in italics, and dissects them. This is one of the most distinctive and satisfying moves in the style.
 
 > *Looks like Kuze and Rin weren't getting along, but I got them to make up.*
-> Not "they made up." Not "we cleared the air." *I got them to.*
+> Not *they made up.* Not *we cleared the air.* *I got them to.*
 > Every syllable of it sat wrong.
 
 Techniques:
@@ -118,7 +122,7 @@ Techniques:
 - **Repeat the phrase later** as it gains weight. A line from chapter 2 that echoes in chapter 9 is a gut punch.
 - **Quote himself back.** "*It's not my problem.* How many times had he said that now?"
 
-Formatting: use italics for quoted-back phrases if your output supports Markdown, or quotation marks inside narration otherwise. Stay consistent within a story. See [Punctuation & Typography](punctuation-and-typography.md).
+Formatting: quoted-back phrases always go in *italics*, never in double quotation marks. Double quotes are reserved for live speech (the pure-dialogue rule, R1), so a reader who sees `"` knows someone is talking right now. If your output medium can't render italics, use single quotes ('they made up'). Stay consistent within a story. See [Punctuation & Typography](punctuation-and-typography.md#91-pure-dialogue-lines-r1) and [Dialogue Mechanics](../dialogue/dialogue-mechanics.md).
 
 ## 6. Self-suspicion: the crucial turn
 
@@ -201,11 +205,24 @@ The monologue must **interleave** with action and dialogue, not sit in big block
 A good rhythm is 1-4 lines of thought, then dialogue or action, then 1-3 lines of thought. Long monologue blocks (8+ lines) are reserved for moments when the POV is alone: walking home, lying on the bed, staring at a phone.
 
 **Interleaved:**
-> "Two parfaits, a carbonara, and a Napolitan," Amamiya said, then glanced across the table. "And...?"
+> Amamiya read the order back to the waiter.
+>
+> "Two parfaits, a carbonara, and a Napolitan. And...?"
+>
+> His glance slid across the table, one beat late.
+>
 > "Coffee. Hamburger steak. Rice."
+>
 > Pasta for them, which could be shared, and a hamburger for him, which couldn't. He'd picked it on purpose. Better to be the guy who ordered wrong than the guy staring at someone else's fork.
-> "A hamburger? What are you, ten?" Tachibana smirked at him over the menu.
-> "Rin, come on," Amamiya said.
+>
+> Tachibana smirked at him over the menu.
+>
+> "A hamburger? What are you, ten?"
+>
+> Amamiya nudged her elbow.
+>
+> "Rin, come on."
+>
 > *Rin, come on.* Gentle. Protective. Not of Kuze, obviously.
 
 **Chunked (weaker):**
@@ -217,8 +234,10 @@ A good rhythm is 1-4 lines of thought, then dialogue or action, then 1-3 lines o
 The POV can think **between lines of the same conversation**, even mid-exchange. The reply often lands differently because of the thought before it:
 
 > "You don't want bad blood between classmates, right? Let's make up."
-> Right. The word hung there, heavy with everything it assumed. *Right*, because anyone who disagreed was obviously wrong.
-> "...Sure," Kuze said.
+>
+> *Right.* The word hung there, heavy with everything it assumed. *Right*, because anyone who disagreed was obviously wrong.
+>
+> "...Sure."
 
 ## 10. Escalation across an arc
 
@@ -319,9 +338,11 @@ The full five-step engine doesn't always need a paragraph. It scales.
 
 For quick moments mid-conversation, compress all five steps into a single beat or two:
 
-> "Kuze? Oh, morning." *Kuze, question mark.* Either Amamiya couldn't remember his name, or he wanted it to sound that way. Or Kuze was just being petty before 8 a.m.
+> "Kuze? Oh, morning."
+>
+> *Kuze, question mark.* Either Amamiya couldn't remember his name, or he wanted it to sound that way. Or Kuze was just being petty before 8 a.m.
 
-That is notice, quote, two hypotheses, and self-suspicion in three sentences. The verdict is implicit in the joke.
+That is notice, quote, two hypotheses, and self-suspicion in one line of dialogue and three sentences of narration. Note that the dialogue sits on its own line even here; compression never justifies gluing narration onto a quote. The verdict is implicit in the joke.
 
 ### 15.2 Standard pocket (60-150 words)
 
@@ -338,7 +359,7 @@ When the POV is alone (on the train, in bed, behind the storage shed), the engin
 5. **Hit the self-suspicion hard** ("Or was Kuze just building a case because he wanted there to be one?")
 6. **Deflect with a physical action** that ends the scene (turning off the light, putting in earphones with nothing playing)
 
-> The drink offer. The CD that had to pass through his hands. "*Today* we've got Kuze." The photo he hadn't known was being taken.
+> The drink offer. The CD that had to pass through his hands. *Today we've got Kuze.* The photo he hadn't known was being taken.
 > Each one alone meant nothing, and a reasonable person would have let each one go. Kuze was trying very hard to be a reasonable person.
 > But stacked together, they made a shape.
 > Amamiya was never alone with one girl. There was always a reason, an errand, a peace-making dinner, or a third person, and lately the third person had been Kuze. Because with Kuze at the table, it wasn't a date. It was a kindness. It was Amamiya being a good guy, bringing the class loner along.

@@ -35,8 +35,9 @@ The Japanese manzai pairing is the backbone of LN comedy:
 
 In this voice, **the cynical POV is almost always the tsukkomi**, and the correction often happens *in narration* rather than aloud. That creates two layers of joke: the spoken retort and the inner one.
 
-> "I have decided," Gon announced, "to become a man of the sea."
-> "You get carsick on escalators," Kuze said.
+> Gon announced it to the whole classroom.
+> "I have decided to become a man of the sea."
+> "You get carsick on escalators."
 > "The sea is not an escalator."
 > Correct, and irrelevant, Kuze thought.
 
@@ -50,7 +51,7 @@ In this voice, **the cynical POV is almost always the tsukkomi**, and the correc
 The flattest possible response to the biggest possible stimulus.
 
 > Hina leapt onto his desk, struck a pose, and declared that from today onward the two of them were rivals in love, destiny, and the school's snack-bread lottery.
-> "Okay," Kuze said.
+> "Okay."
 > "Just 'okay'?!"
 > "You're standing on my notebook."
 
@@ -66,7 +67,7 @@ The **escalation ladder** has three rungs and then a break:
 3. Absurdly big response.
 4. **The break:** a flat line, or a physical interruption (a bell, a teacher, someone falling).
 
-> "I-It's not like I made extra on purpose," Tachibana said.
+> "I-It's not like I made extra on purpose."
 > "Okay."
 > "I just miscounted the eggs!"
 > "Okay."
@@ -98,7 +99,8 @@ The romantic engine of rom-com. One character sends a signal and another reads i
 
 > She had bought two drinks and handed him one. Kuze turned the can over. Barley tea. The cheapest thing in the machine.
 > A calculated message, then. Not the milk tea she liked, not anything that could be mistaken for thought. The message was clear: this is a transaction. We are even for the notes.
-> "It was the only button that wasn't sold out," Tachibana muttered, face red to the ears.
+> Tachibana's face was red to the ears.
+> "It was the only button that wasn't sold out."
 > Also possible, Kuze conceded.
 
 The joke is the contrast between the narrator's intelligence and the simple truth. Reveal the truth through dialogue or a reaction face, and never through the narrator's own sudden insight. He should stay a little wrong.
@@ -166,10 +168,12 @@ Put the punchline in its own paragraph. The white space before it is the comedia
 > Enomoto said he'd prepared a special present for Kuze's birthday, which turned out to be a single boiled egg.
 
 **Timed:**
-> "I prepared something special," Enomoto said, and set it on Kuze's desk with both hands.
+> Enomoto set it on Kuze's desk with both hands.
+> "I prepared something special."
 > Kuze looked at it.
 > It was an egg.
-> "Boiled," Enomoto added, with pride.
+> "Boiled."
+> Enomoto said it with pride.
 
 ### 5.2 The silent reaction
 
@@ -188,7 +192,8 @@ Put the punchline in its own paragraph. The white space before it is the comedia
 Never follow a punchline with a sentence that explains it or describes the room laughing, unless the laughter itself is the next beat.
 
 **Explaining (bad):**
-> "It was an egg." Everyone laughed at the absurdity of giving someone a single egg as a birthday present.
+> "It was an egg."
+> Everyone laughed at the absurdity of giving someone a single egg as a birthday present.
 
 **Trusting the reader (good):**
 > It was an egg.
@@ -285,26 +290,30 @@ End sections on the punchline or the reaction to it, not on a summary. The [sect
 > "Here."
 > Kuze looked at it. Barley tea. Room temperature, which meant it came from the vending machine by the gym, the one whose refrigeration had died sometime last autumn and which nobody had reported because nobody wanted to be the person who reported a vending machine.
 > "What's this for?"
-> "For the notes. Yesterday. Obviously." She crossed her arms. "I don't like owing people."
+> "For the notes. Yesterday. Obviously."
+> She crossed her arms.
+> "I don't like owing people."
 > Kuze turned the can. Barley tea was the cheapest button, eighty yen. The milk tea she drank every day was a hundred and thirty.
 > Fifty yen. She had valued yesterday's notes at exactly fifty yen less than her own daily comfort.
 > A precise message. Almost admirable.
-> "Understood," Kuze said. "We're even."
+> "Understood. We're even."
 > "Huh? W-What's with that face? Why do you look like you just did math?"
 > "I did math."
 > "Don't do math on a drink!"
 > "It's a drink with a price tag."
-> "It's not about the price!" Tachibana slammed both hands on his desk, and the can wobbled. "The milk tea was sold out! That's all! That was the only button that was lit!"
+> Tachibana slammed both hands on his desk, and the can wobbled.
+> "It's not about the price! The milk tea was sold out! That's all! That was the only button that was lit!"
 > "..."
 > Kuze considered this. The machine by the gym had six buttons, and only one lit meant five sold out. The machine was restocked on Mondays. It was Thursday.
 > Also possible, then.
-> "Thanks," he said.
+> "Thanks."
 > Tachibana made a sound like a kettle and walked away very fast.
 > From three rows over, Enomoto gave him a slow thumbs-up. Kuze did not know what it meant, and suspected he did not want to.
 
 ### 10.2 Sample: the fake-date performance (misunderstanding engine, escalation)
 
-> "So we're agreed," Hina said, bouncing on her heels outside the station. "Until my cousin goes back to Osaka, you're my boyfriend. Totally fake. Super fake. Fake to the max, yup?"
+> Outside the station, Hina bounced on her heels.
+> "So we're agreed. Until my cousin goes back to Osaka, you're my boyfriend. Totally fake. Super fake. Fake to the max, yup?"
 > "Why me?"
 > "Because you're the only boy I know who wouldn't make it weird!"
 > Kuze accepted this as the insult it was.
@@ -312,17 +321,21 @@ End sections on the punchline or the reaction to it, not on a summary. The [sect
 > "So you're the boyfriend."
 > "Apparently."
 > Hina's elbow found his ribs.
-> "I mean, yes. I am. The boyfriend." He paused. "Hello."
+> "I mean, yes. I am. The boyfriend."
+> He paused.
+> "Hello."
 > "What do you like about Hina?"
 > The question landed like a pop quiz on a subject he had not studied. Kuze opened his mouth. Closed it. Beside him, Hina had gone perfectly still, the smile on her face fixed like a photograph of a smile.
-> He could say "her cheerfulness." Everyone said that about Hina. The school said it, the teachers said it, and it was printed practically on her forehead.
+> He could say *her cheerfulness*. Everyone said that about Hina. The school said it, the teachers said it, and it was printed practically on her forehead.
 > But the cousin was waiting, and Hina was not breathing, and the first thing that came to mind wasn't cheerfulness at all.
-> "She remembers what everyone drinks," Kuze said. "At the family restaurant. She goes to the drink bar and comes back with everyone's refill without asking. Melon soda for Enomoto, oolong for Gon. She got mine wrong the first time and never again."
+> "She remembers what everyone drinks. At the family restaurant. She goes to the drink bar and comes back with everyone's refill without asking. Melon soda for Enomoto, oolong for Gon. She got mine wrong the first time and never again."
 > "..."
 > "..."
 > The cousin looked at Hina. Hina looked at the pavement.
-> "Huh," the cousin said. "That's oddly specific for a fake boyfriend."
-> "It's not fake!" Hina said, much too loudly, and then, "I mean, obviously not fake, why would it be fake, what a weird thing to say, ahaha~"
+> "Huh. That's oddly specific for a fake boyfriend."
+> Hina said it much too loudly.
+> "It's not fake!"
+> "I mean, obviously not fake, why would it be fake, what a weird thing to say, ahaha~"
 > Kuze looked at the sky and wondered at which point in the last ten seconds he had lost control of the plan.
 
 ### 10.3 Sample: the group-chatter spiral (public misunderstanding)
@@ -333,7 +346,8 @@ End sections on the punchline or the reaction to it, not on a summary. The [sect
 > "I heard two hours."
 > "I heard she was crying."
 > "I heard *he* was crying."
-> "Verily," said Gon, arriving from nowhere, "I heard they were reshelving the Dewey decimal three-hundreds."
+> Gon arrived from nowhere.
+> "Verily, I heard they were reshelving the Dewey decimal three-hundreds."
 > The class turned to look at him with open disappointment.
 > Kuze sat down. On his desk, someone had left a sticky note that said *congrats (lol)*. He peeled it off, folded it into eighths, and put it in his pocket, because throwing it away in front of everyone would be read as a statement, and keeping it would be read as a different statement, and a pocket was the only neutral territory left.
 > Across the room, Kujou was sitting at Amamiya's side as usual, cool and upright. When their eyes met, she raised one eyebrow by a millimeter, which Kuze was fairly sure meant *you're welcome*.

@@ -132,13 +132,14 @@ Note the italics here: in this one device, italics mark the thoughts he is being
 - **The whisper at the exit** is the heart. Keep it to two or three words.
 
 ### 4.3 Sample (original)
-> "Yeah," Kuze said. "She's rude. She looks down on people. She's selfish."
+> "Yeah. She's rude. She looks down on people. She's selfish."
 > Hoshino's smile widened.
 > "So what?"
 > The smile stayed on her face a second too long, as if it didn't know it had been cancelled.
 > "...Huh?"
-> "I said, so what?" He stood. The chair scraped. "She's rude. So what gives *you* the right? Did she hurt you? Did she take something from you? Say it."
-> "She—"
+> He stood. The chair scraped.
+> "I said, so what? She's rude. So what gives *you* the right? Did she hurt you? Did she take something from you? Say it."
+> "She--"
 > "Say it! What did she do to you? Not what she's *like*. What she *did*. Tell me!"
 > Hoshino stepped back. One step.
 > "You can't, can you? Because it was never about her. You just needed somebody to be worse than you, and she was standing closest."
@@ -175,9 +176,9 @@ This is the voice's most distinctive emotional device. The rules:
 - **Escalate the confidant's directness**: first observation, then naming the feeling, then permission ("You're allowed to...").
 - **Break the pattern** with a physical beat when the POV cracks.
 
-> "You know what I think, Mina? I think you've been using 'logical' as an excuse since middle school."
+> "You know what I think, Mina? I think you've been using *logical* as an excuse since middle school."
 > "..."
-> "Like, when we were kids, you'd say 'it's not logical to cry about a broken toy.' And then you'd go cry in the bathroom where nobody could see."
+> "Like, when we were kids, you'd say it's not logical to cry about a broken toy. And then you'd go cry in the bathroom where nobody could see."
 > "..."
 > "You're not a machine. You never were. You're just a guy who's scared of wanting stuff."
 > "..."
@@ -205,7 +206,7 @@ This is the voice's most distinctive emotional device. The rules:
 - **An answer that isn't yes or no** is often truer to this voice: "Give me time." "I don't know what I feel." "Why me?"
 
 ### 6.2 The tsundere confession variant
-Shouted, as an accusation, with a slap or an immediate retraction ("F-Forget it! That wasn't— I didn't say anything!"). The POV's deadpan ("You did, though.") keeps it in character. See [Dere Types](../cast/dere-types.md).
+Shouted, as an accusation, with a slap or an immediate retraction ("F-Forget it! That wasn't-- I didn't say anything!"). The POV's deadpan ("You did, though.") keeps it in character. See [Dere Types](../cast/dere-types.md).
 
 ### 6.3 The quiet confession variant
 Said looking elsewhere, in the middle of an ordinary exchange, almost as an aside: "I think I've liked you since the rain thing." The POV only understands two lines later. This is effective because the reader catches it before he does.
@@ -216,10 +217,12 @@ Said looking elsewhere, in the middle of an ordinary exchange, almost as an asid
 > "Hm."
 > "Hey. Look at me for a sec."
 > He looked. She was holding the strap of her bag with both hands, like it was the only thing keeping her on the bridge.
-> "I like you." A truck passed underneath, and the whole bridge hummed. "Not— not like, friend like. Like, like."
+> "I like you."
+> A truck passed underneath, and the whole bridge hummed.
+> "Not-- not like, friend like. Like, like."
 > "..."
 > He waited for the second half of the sentence, the *just kidding* or the *as if*. It didn't come.
-> "Say something," Hina said. "Please. This is the worst part."
+> "Say something. Please. This is the worst part."
 
 ---
 
@@ -237,7 +240,9 @@ Said looking elsewhere, in the middle of an ordinary exchange, almost as an asid
 > She held out a can of black coffee without looking at him.
 > "You drink this, right? The bitter one."
 > "...Yeah."
-> "I don't get how. It tastes like punishment." She sat down on the other end of the bench. Then, after a second, she moved a little closer. Not much. Enough that he'd notice and not enough that she'd have to admit it. "I'm still mad at you, by the way."
+> "I don't get how. It tastes like punishment."
+> She sat down on the other end of the bench. Then, after a second, she moved a little closer. Not much. Enough that he'd notice and not enough that she'd have to admit it.
+> "I'm still mad at you, by the way."
 > "I know."
 > "Good. As long as you know."
 > He opened the can. It was the wrong temperature, lukewarm, like she'd been carrying it around for a while, working up to something.
@@ -256,7 +261,8 @@ Said looking elsewhere, in the middle of an ordinary exchange, almost as an asid
 ### 8.2 Sample (original)
 > Ogata-sensei's desk was empty by Friday. Not dramatically empty. Just clean, the way a desk is when someone has decided it isn't theirs anymore.
 > Kuze delivered the class diary anyway, set it on the bare wood, and stood there a moment longer than he needed to.
-> "Excuse me," he said, to nobody, and left.
+> "Excuse me."
+> He said it to nobody, and left.
 
 ---
 

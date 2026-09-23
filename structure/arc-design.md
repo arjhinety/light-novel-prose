@@ -42,7 +42,7 @@ Violence as affection. Kuze had seen it a hundred times and still didn't underst
 
 **Chapters:** 2-4 (about 10-15%)
 **Job:** Force contact. Something external drags the POV into the heroine's orbit: a teacher's errand, class duty, cleaning duty, a misunderstanding, being the only one who saw something.
-**Kuze's state:** Irritated, and determined to minimize involvement. "Just say what you want and get it over with."
+**Kuze's state:** Irritated, and determined to minimize involvement. "Tell me what you want and let's be done with it."
 **Texture:** Contact chapters (see [Chapter & Section](chapter-and-section.md#12-chapter-types-and-their-shapes)). Banter in snap-back rhythm.
 **Key rule:** the pull must come from **outside** the POV. If he chooses to approach her this early, he isn't a spectator any more and the arc has nowhere to go.
 

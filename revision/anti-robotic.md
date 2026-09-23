@@ -81,7 +81,7 @@ Each of these appears so often in generated fiction that one instance marks the 
 | "her eyes sparkled with mischief" | "Momo's eyes did the thing they did before she lied." |
 | "a mix of X and Y" (emotions) | Pick the one that's embarrassing to admit |
 | "couldn't help but (smile/notice)" | Ration: once per 10,000 words. Otherwise "He smiled." |
-| "his voice barely above a whisper" | "she said, quietly." / "Hina mumbled." |
+| "his voice barely above a whisper" | A sound in its own narration line: *It came out smaller than the air conditioner.* (Never a tag like "she said quietly.") |
 | "eyes widened in surprise" | "Eh?" as a line of dialogue |
 | "a comfortable silence settled" | Cut, or make it uncomfortable, which is funnier |
 | "he found himself (doing)" | "He was (doing)." |
@@ -129,6 +129,28 @@ These are not AI-specific, but models reproduce them from fan fiction. They clas
 | her voice like tinkling bells | Cut |
 | his heart skipped a beat | Once per book, at the moment it matters |
 
+### 2.5 Model-specific tics (found in test runs)
+
+Test runs of this library found that different models carry different signature tics. Each is harmless once. Repeated, it becomes a fingerprint the reader learns to see, and after the third one they stop seeing the characters. **Search for every row. Each has a hard cap.**
+
+| Tic | Example | Cap | Replace with |
+|---|---|---|---|
+| "the [adjective] [noun] of someone who..." | "with the brisk efficiency of someone triaging a waiting room"; "the specific quiet urgency of someone who had decided..." | **1 per chapter** | A concrete action: *She sorted the side dishes into rows without looking up.* |
+| "the specific / the particular [noun]" | "the particular pitch she used when..."; "the specific half inch of a person deciding..." | 1 per chapter | Drop *specific* and *particular*; name the thing plainly |
+| "something in [her] [shoulders/chest/face] [eased/loosened/gave/came down]" | "Something in her shoulders eased, half an inch." | 1 per chapter | A visible, countable action: *She let go of the box.* |
+| Precise micro-measurements of feeling | "half an inch", "a full second too long", "exactly two degrees warmer" | 1 per chapter | Cut, or use one plain beat: *She looked a moment too long.* |
+| "which was true, and which was also..." | "...which was true, and which was also the only compliment that landed." | 0 | Two short sentences: *It was true. It was also the only compliment that ever landed with her.* |
+| Mock-legal self-narration | "he would like the record to show"; "for the record" in narration | 0 in narration | Let the POV's deadpan show in a short verdict line |
+| "X and Y weren't mutually exclusive" | Used as a callback three times in one chapter | 1 per chapter | Say it once. A callback has to change its meaning, or it's just a tic |
+| Echo-verb sentences | "he felt the thrill he felt every time" | 0 | "The same thrill as always." |
+| "for once" / "for once in her life" | Several per chapter | 1 per chapter | Cut; the scene already shows it's unusual |
+| "which, this being X, ..." | "which, this being Hina, she basically had" | 1 per chapter | A standalone verdict line: *This was Hina. Of course she had.* |
+| "the way [someone] does [something]" as a simile engine | "the way audiences watch a man test a parachute"; "the way court clerks read verdicts" | 1 per scene | Keep one per scene, and only when it's funnier than the plain version |
+| **Stacked novelty similes** | "looked like a science fair that had been told no" / "held their positions like suspects" / "like a kettle deciding against it" (three within a page) | **1 per scene** | Keep the single best one. Turn the rest into plain action |
+| Paragraph-ending wisdom | "Those weren't mutually exclusive either, in his experience." | 0 | End on a tilt (§3.12) |
+
+**Why models do this:** each construction *sounds* observant and literary, so it gets rewarded in isolation. But the LN voice is observant through **content** (the seat position, the crossed-out seven on the price tag), not through **constructions** that announce observation. When you catch one of these, ask what concrete thing the POV actually saw, and write that.
+
 ---
 
 ## 3. Structural tells
@@ -144,6 +166,7 @@ Word lists catch the loud tells. The quiet ones are **shapes**. Each shape below
 **Fix:** Break the symmetry. Use two items, or four with the last one petty, or one item stated twice.
 
 > ✗ She was bright, friendly, and beautiful.
+>
 > ✓ She was bright. She was friendly to everyone, including people she had no reason to be friendly to, which Kuze counted as a flaw.
 
 ### 3.2 The "not X, but Y" antithesis
@@ -165,13 +188,15 @@ Word lists catch the loud tells. The quiet ones are **shapes**. Each shape below
 ### 3.4 The explained subtext
 
 **Shape:** Dialogue shows it, and then the narrator explains it.
-> "I-It's not like I made extra or anything!" Rin shoved the bento at him. **She had clearly made it for him but was too embarrassed to admit it.**
+> ✗ "I-It's not like I made extra or anything!" Rin shoved the bento at him. **She had clearly made it for him but was too embarrassed to admit it.**
 
 **Detect:** A narration sentence immediately after dialogue that starts with `She clearly`, `It was obvious`, `In other words`, `What she meant was`.
 
 **Fix:** Cut the bold sentence. If the POV must comment, make the comment *wrong*, *petty*, or *sideways*, which adds character instead of repeating information:
 > "I-It's not like I made extra or anything!"
+>
 > Rin shoved the bento at him.
+>
 > The rolled omelet was cut into neat, even slices. Nobody made neat, even slices for leftovers.
 
 ### 3.5 Everyone is articulate
@@ -194,6 +219,7 @@ Word lists catch the loud tells. The quiet ones are **shapes**. Each shape below
 
 **Fix:** The LN narrator *does* hedge, but as an **obsessive spiral** with specific hypotheses, not as vague both-sidesing. Compare:
 > ✗ Perhaps Amamiya meant well. Perhaps he didn't. It was hard to say.
+>
 > ✓ Did Amamiya offer because he meant it? Or because Hina was watching? Or, worst of all, because he'd honestly never noticed that Kuze had been standing there the whole time?
 
 ### 3.8 The weather-as-mood opening
@@ -214,7 +240,7 @@ Word lists catch the loud tells. The quiet ones are **shapes**. Each shape below
 
 **Detect:** Count `nodded`, `smiled`, `sighed`, `shrugged`, `glanced`. More than one per four lines of dialogue is too many.
 
-**Fix:** Keep action tags for **signature gestures** (Rin slams hands on the desk; Sayo raises one finger; Hina makes an "X" with her arms) and for beats where the gesture changes the meaning. Delete the rest.
+**Fix:** Keep action paragraphs for **signature gestures** (Rin slams her hands on the desk; Sayo raises one finger; Hina crosses her forearms into an X) and for beats where the gesture changes the meaning. Delete the rest. Every surviving gesture goes in **its own paragraph**, never in the same paragraph as the quote (§3.16).
 
 ### 3.11 Adverb stacking
 
@@ -232,7 +258,15 @@ Word lists catch the loud tells. The quiet ones are **shapes**. Each shape below
 
 **Shape:** Em dashes used for asides, emphasis, and rhythm everywhere.
 
-**Fix:** In this house style, `--` means **interruption or cut-off**, plus the occasional dramatic pause before a reveal ("Their eyes met--"). For asides, use commas, parentheses, or a new sentence. See [Punctuation & Typography](../core/punctuation-and-typography.md).
+**Detect:** Count dashes (`--` or `—`) that sit *outside* quotation marks. Test runs of this library produced 47 dashes in a single chapter, most of them narrative asides: *She'd left it there -- plain box, string undone -- and...*
+
+**Fix:** In this house style, the dash means **speech cut off or interrupted** (inside quotes), and in narration **only a thought that breaks off** (*Why would Kujou, of all people--*). It is never used for asides, appositives, emphasis, or dramatic pauses in narration. For asides, use a period and a new sentence, a comma, or a new one-line paragraph. Target: almost zero dashes in narration. Scene time stamps ("The next day--") are the one conventional exception if your story uses them; see [Punctuation & Typography](../core/punctuation-and-typography.md).
+
+> ✗ Her bento was plain -- rice balls, nothing else -- and she'd pushed it behind everyone else's.
+>
+> ✓ Her bento was plain. Rice balls, nothing else.
+>
+> She'd pushed it behind everyone else's.
 
 ### 3.14 The colon reveal and "Here's the thing"
 
@@ -240,6 +274,7 @@ Word lists catch the loud tells. The quiet ones are **shapes**. Each shape below
 
 **Fix:** These are blog-post rhythms. Replace them with the LN's question-then-verdict:
 > Why did it bother him so much?
+>
 > ...Jealousy. Obviously.
 
 ### 3.15 Name overuse and name avoidance
@@ -247,6 +282,28 @@ Word lists catch the loud tells. The quiet ones are **shapes**. Each shape below
 **Shape:** Either every sentence repeats "Kuze" (a machine-translation habit) or the text avoids names with epithets ("the boy", "the brunette").
 
 **Fix:** Surname at the start of each paragraph where the subject changes, and pronouns inside the paragraph. Never use epithets as name substitutes. See [MTL vs. Natural](mtl-vs-natural.md#33-over-literal-subject-repetition).
+
+### 3.16 Tagged and beat-wrapped dialogue
+
+**Shape:** Speech shares a paragraph with narration: `"It's fine," she said.` / `"Well," she paused, "maybe."` / `Rin crossed her arms. "Whatever."` / `"Okay." Something in her shoulders eased.` This is the default of Western fiction, and it is the pattern the user of this library explicitly rejected.
+
+**Detect:** Every paragraph that contains a quotation mark *and* any word outside the quotation marks. Test runs produced 69 and 100 such paragraphs in single 4-6k-word chapters. The target is **zero**. The optional script [`tools/voice_metrics.py`](../tools/voice_metrics.py) counts them as "mixed paragraphs".
+
+**Fix:** Split every one. The quote stands alone. The action goes in the paragraph before or after it. Tags ("said", "asked", "whispered") are deleted outright, and if the speaker becomes unclear, sharpen the line's voice or add an action paragraph. Full rule and examples: [Dialogue Mechanics §2](../dialogue/dialogue-mechanics.md#2-the-pure-dialogue-line-hard-rule).
+
+> ✗ "It's just rice," Rin said, fast. "It's really nothing special."
+>
+> ✓ "It's just rice. It's really nothing special."
+>
+> It came out too fast, the words tripping over each other.
+
+### 3.17 Length padding
+
+**Shape:** A draft is short of its word target, so the writer inflates sentences: longer reflection, restated feelings, more similes, more *which* clauses. Median sentence length climbs from 7 to 15 words, and dialogue drops toward 30%.
+
+**Detect:** The draft hits the word count, but the narrative median is over 10 words, or more than 5% of narrative sentences run to 25 words or more.
+
+**Fix:** Length comes from **beats and scenes**, never from longer sentences. Add a new arrival, a second escalation, a quiet two-person moment, a cut-away, or a callback. See [Revision Checklist](revision-checklist.md) (the length procedure) and [Chapter & Section](../structure/chapter-and-section.md).
 
 ---
 
@@ -263,6 +320,7 @@ Models trained heavily on self-help and social media give teenagers in 2000s-sty
 **Fix pattern:** Translate every clinical phrase into (a) an action, (b) a deflection, or (c) a line that says the opposite of what's meant.
 
 > ✗ "I think you need to set boundaries with Amamiya. His behavior isn't healthy for you."
+>
 > ✓ "Stop letting Amamiya drag you around, Mina. You look like a dog on a leash. A really grumpy dog."
 
 ---
@@ -296,8 +354,11 @@ The LN voice *is* explanatory. Kuze analyzes everything. So what's the differenc
 > ✗ "You came with Hina?" Amamiya asked. He seemed surprised that Kuze had arrived with Hina, and Kuze could tell he was a little jealous. Kuze felt uncomfortable.
 
 > ✓ "You came with Hina?"
-> Not "What are you doing here?" Not "Done with class duty?"
+>
+> Not *What are you doing here?* Not *Done with class duty?*
+>
 > *You came with Hina?*
+>
 > Kuze turned the phrasing over. It was a small thing. It was always a small thing, with Amamiya.
 
 The second version never states "jealous". It makes the reader suspect it, through Kuze, who might be projecting.
@@ -321,7 +382,11 @@ Do this mechanically, before the stylistic read.
 | Sentences over 30 words | 2 |
 | Paragraphs over 6 sentences | 1 |
 | `couldn't help but` | 0.1 (i.e., once per 10k) |
-| Similes (`like a`, `as if`) | 3 |
+| Similes (`like a`, `as if`, `the way X does`) | 3, and no more than 1 novelty simile per scene |
+| Mixed dialogue paragraphs (quote + narration in one paragraph) | **0** |
+| Dashes in narration (outside quotes) | ~0 (only a thought breaking off) |
+| Narrative sentences of 25+ words | ≤5% of narrative sentences |
+| §2.5 model tics (each row) | per the §2.5 caps |
 
 4. **Last-line audit.** Read only the last line of each numbered section. Each must be a tilt (reveal, arrival, reframe, silence, verdict). Any that summarizes gets rewritten.
 5. **Dialogue-only read.** Read only the dialogue. Can you identify each speaker? Is at least one question dodged per scene?
@@ -373,19 +438,30 @@ Rule of thumb: **repetition is voice when it escalates, and a tic when it's flat
 
 **Repaired:**
 > After school. Class 2-3.
+>
 > "Haruto, you forgot your notebook again!"
+>
 > "Whoa, whoa, I didn't forget it. I *entrusted* it to you, Hina."
+>
 > "That's the same thing~!"
+>
 > Four girls, one boy, and one desk that wasn't even Amamiya's, which he was sitting on anyway.
+>
 > Kuze wiped the blackboard and watched them in the reflection of the window.
+>
 > Why him?
-> His grades were average. His jokes were average; "entrusted" had gotten a laugh it did not deserve. He wasn't tall. He wasn't rich. He was, as far as Kuze could tell, a perfectly ordinary second-year who happened to live at the center of a small, loud solar system.
+>
+> His grades were average. His jokes were average; *entrusted* had gotten a laugh it did not deserve. He wasn't tall. He wasn't rich. He was, as far as Kuze could tell, a perfectly ordinary second-year who happened to live at the center of a small, loud solar system.
+>
 > So what was the difference?
+>
 > The eraser squeaked.
+>
 > ...Maybe the difference was that Amamiya sat on other people's desks, and Kuze wiped other people's blackboards.
+>
 > He decided not to think about that one too hard.
 
-**Why it works:** It opens with a time stamp and dialogue. The analysis is concrete ("entrusted" got a laugh it didn't deserve). The rhythm runs from short to long to short. There's a sound-effect line. The ending is a petty, self-deprecating verdict that he immediately flinches from, which is a tilt, not a lesson.
+**Why it works:** It opens with a time stamp and dialogue. The analysis is concrete (*entrusted* got a laugh it didn't deserve). The rhythm runs from short to long to short. There's a sound-effect line. The ending is a petty, self-deprecating verdict that he immediately flinches from, which is a tilt, not a lesson.
 
 ---
 
@@ -400,7 +476,10 @@ Rule of thumb: **repetition is voice when it escalates, and a tic when it's flat
 - [ ] Repetition present only as leitmotif, spiral, quote-back, gag, or chant (§8)
 - [ ] Speakers identifiable from dialogue alone (§3.5)
 - [ ] At least one dodged question per scene (§3.6)
-- [ ] `--` used only for interruption or a dramatic cut (§3.13)
+- [ ] Dashes only on cut-off speech or a thought that breaks off; zero dash asides in narration (§3.13)
+- [ ] Zero paragraphs that mix a quote with narration; zero speech tags (§3.16)
+- [ ] Every §2.5 model tic under its cap
+- [ ] Length reached through beats and scenes, not inflated sentences (§3.17)
 
 Then run the full scoring pass in [Revision Checklist](revision-checklist.md).
 

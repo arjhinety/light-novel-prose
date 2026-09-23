@@ -82,7 +82,7 @@ Hina gives four exclamations, Kuze one syllable. The rhythm difference *is* the 
 
 ### 3.3 Don't explain the deadpan
 
-Wrong:
+Wrong (it explains the joke, and the tag also breaks the pure-dialogue rule, R1):
 > "No," Kuze said flatly, his deadpan response a stark contrast to her energy, which made the moment comical.
 
 Right:
@@ -96,7 +96,10 @@ Japanese comedy runs on a duo: the **boke** (the one who says something absurd) 
 
 ### 4.1 Spoken tsukkomi
 
-> "I've decided to become a vampire for the haunted house," Daichi announced, green face paint drying on his cheeks.
+> Daichi leaned into the doorway, green face paint still drying on his cheeks.
+>
+> "I've decided to become a vampire for the haunted house."
+>
 > "Vampires aren't green."
 > "Sick vampire."
 > "Why would a sick vampire be scary?"
@@ -181,7 +184,7 @@ A narrator who has been ironic for thirty chapters earns an enormous payoff when
 ### 7.3 Example of the shift
 
 Normal mode:
-> Amamiya had offered her a handkerchief, which he would no doubt wash and return, which would require a meeting, which was probably the point. Kuze filed it under "strategic hygiene."
+> Amamiya had offered her a handkerchief, which he would no doubt wash and return, which would require a meeting, which was probably the point. Kuze filed it under *strategic hygiene*.
 
 Peak mode:
 > He had watched. That was all he'd done. He'd watched, and called it being rational, and gone home, and eaten dinner.
@@ -194,7 +197,10 @@ No jokes, no filing, no hypotheses. See [Emotional Climaxes](../scenes/emotional
 
 Coming back from a peak needs a **small, human, slightly funny beat** so the reader can breathe. The source does this with a hot canned coffee dropped in the dirt and a friend laughing at it. That's the model:
 
-> "Hot!" He dropped the can. It rolled into the dirt.
+> "Hot!"
+>
+> He dropped the can. It rolled into the dirt.
+>
 > "Your coffee's all sandy now, Mina."
 > "Your fault."
 
@@ -212,13 +218,16 @@ Scenes often pivot from comic to dark on a single line, usually:
 
 ### 8.2 Pivot example
 
-> "Fifteen points! Seven times better!" Daichi high-fived the air, since Kuze hadn't raised his hand.
+> "Fifteen points! Seven times better!"
+>
+> Daichi high-fived the air, since Kuze hadn't raised his hand.
+>
 > "It's still a bad joke."
 > "It's a *growing* joke."
 > Behind them, someone laughed, too loudly, the way people laugh when they want to be overheard.
 > Hoshino was sitting on Rin's desk.
 
-The comic rhythm runs for three lines. The fourth line changes the sound quality of laughter. The fifth line is a one-line paragraph and a location, and the tone has flipped. No transition sentence is needed.
+The comic rhythm runs for four paragraphs. The next line changes the sound quality of laughter. The last is a one-line paragraph and a location, and the tone has flipped. No transition sentence is needed.
 
 ### 8.3 Don't pivot too often
 
@@ -262,7 +271,11 @@ Two normal items and a third that swerves:
 ### 10.3 The delayed reaction
 
 > "By the way, your skirt's tucked into your bag strap."
-> "Thanks." Momo walked three more steps. "*Fueee?!*"
+> "Thanks."
+>
+> Momo walked three more steps.
+>
+> "*Fueee?!*"
 
 ### 10.4 The button
 
@@ -305,18 +318,27 @@ A reader should be able to feel the dial turning across an arc. If every chapter
 
 The following short sequence runs through three tonal registers in about 250 words. Study where each shift happens.
 
-> Hina slapped a flyer onto his desk. "Karaoke! Friday! Everyone's going!"
+> Hina slapped a flyer onto his desk.
+>
+> "Karaoke! Friday! Everyone's going!"
+>
 > "Everyone isn't going. I'm here, and I'm not going."
-> "Then everyone minus one is going!" She beamed, as if she'd solved something.
+>
+> "Then everyone minus one is going!"
+>
+> She beamed, as if she'd solved something.
 
 *(Comfort and comic deadpan: Hina's energy against Kuze's flat logic.)*
 
-> Across the room, Amamiya was already telling Kujou and Rin about it, and both of them were already saying yes, and Kuze couldn't help noticing that Hina had come to *his* desk first.
+> Across the room, Amamiya was already telling Kujou and Rin about it, and both of them were already saying yes, and Kuze noticed that Hina had come to *his* desk first.
 > Was that strategy? Charity? Or had Amamiya sent her, to keep the head count comfortable?
 
 *(Bite: the analytical monologue turns a friendly act into a question.)*
 
-> "Kuze-kun?" Hina tilted her head. "You're making the face again."
+> Hina tilted her head.
+>
+> "Kuze-kun? You're making the face again."
+>
 > "What face?"
 > "The one where you think everyone's lying."
 > "..."
@@ -324,7 +346,10 @@ The following short sequence runs through three tonal registers in about 250 wor
 
 *(Ache: a character sees through him, and the silent line and one-line observation land it.)*
 
-> "Anyway! Friday!" She was gone before he could say no a second time.
+> "Anyway! Friday!"
+>
+> She was gone before he could say no a second time.
+>
 > He looked at the flyer. Someone had drawn a small, lopsided cat on the corner.
 
 *(Button and return to comfort, with a small, human detail as the release.)*

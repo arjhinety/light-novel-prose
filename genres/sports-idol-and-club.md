@@ -42,7 +42,8 @@ The reader may not know volleyball rotations or how an idol showcase is scored. 
 
 > "So what's a *kote*?"
 >
-> "The wrist." Tachibana didn't look up from wrapping her grip. "You hit the wrist, you get a point. You hit it *wrong*, you get nothing and I laugh at you."
+> Tachibana didn't look up from wrapping her grip.
+> "The wrist. You hit the wrist, you get a point. You hit it *wrong*, you get nothing and I laugh at you."
 >
 > "That seems like a lot of rules for hitting someone."
 >
@@ -80,7 +81,7 @@ Use the exchange-lull engine from [Action & Battle](action-and-battle.md#3-the-e
 >
 > Across the net, their server bounced the ball once. Twice. Three times. He'd done four bounces every other serve today. Three meant--
 >
-> "Short!" Kuze shouted. "It's short!"
+> "Short! It's short!"
 >
 > Enomoto was already moving. He'd known Kuze for ten years; he didn't ask why.
 >
@@ -102,7 +103,7 @@ Use the exchange-lull engine from [Action & Battle](action-and-battle.md#3-the-e
 >
 > The wall of arms rose to meet him.
 >
-> He didn't spike. He couldn't have; they'd have eaten it. He just tapped it, a small, rude, cowardly little tip over the fingers of the middle blocker, the kind of shot his own team captain had called "a waste of a jump" in practice on Tuesday.
+> He didn't spike. He couldn't have; they'd have eaten it. He just tapped it, a small, rude, cowardly little tip over the fingers of the middle blocker, the kind of shot his own team captain had called *a waste of a jump* in practice on Tuesday.
 >
 > It dropped.
 >
@@ -141,7 +142,8 @@ This is a strong mid-series arc for the base voice. It forces the loner to colla
 >
 > Today he was sitting down.
 >
-> "You're sitting in Haruto's chair," Matsuri informed him, pleasantly, from the couch.
+> Matsuri was on the couch, and she informed him pleasantly.
+> "You're sitting in Haruto's chair."
 >
 > "Should I move?"
 >
@@ -151,9 +153,10 @@ This is a strong mid-series arc for the base voice. It forces the loner to colla
 >
 > "Since just now! Yup!"
 >
-> Kujou, at the window, turned a page of her book without looking up. "The rules of this club are whatever Matsuri-san says they are when Amamiya-kun is late. It's been that way since April."
+> Kujou, at the window, turned a page of her book without looking up.
+> "The rules of this club are whatever Matsuri-san says they are when Amamiya-kun is late. It's been that way since April."
 >
-> "It's a *good* system," Matsuri said.
+> "It's a *good* system."
 >
 > "...Is it."
 >
@@ -184,7 +187,8 @@ Track one object across the montage: blisters on a palm, a notebook of lyrics go
 
 ### 6.3 The refrain
 One line of dialogue repeated at the end of each training day, with a different response each time:
-> "Again," said the captain.
+> The captain didn't raise his voice.
+> "Again."
 > "..."
 > "Again."
 > "Yes."
@@ -217,9 +221,11 @@ Music can't be heard on a page. Write the **effect**, not the notes:
 >
 > Matsuri sat in front of the mirror with her ponytail half-tied, the ribbon hanging from her fingers, looking at herself as if she'd never met this person.
 >
-> "Hinacchi," someone called from the door. "Five minutes!"
+> Someone called from the door.
+> "Hinacchi, five minutes!"
 >
-> "Yup!" she called back, bright and instant and perfect. The door closed.
+> "Yup!"
+> Bright and instant and perfect. The door closed.
 >
 > Her smile stayed on her face for exactly one second longer. Then it went out, gently, the way a light goes out on a timer.
 >
@@ -235,7 +241,7 @@ Music can't be heard on a page. Write the **effect**, not the notes:
 >
 > Then she tied the ribbon, tight, a neat bow, and looked at the mirror again and did the smile once, twice, three times, until the girl in the glass stopped looking like a stranger.
 >
-> "Yup," she said to her. "Yup. Okay."
+> "Yup. Yup. Okay."
 >
 > Outside, the stage lights were coming up, and somewhere in the dark, in the fourth row, sitting stiffly with a borrowed light stick he had no idea how to switch on, was a boy from the go-home club who'd told her flatly that idols weren't his thing.
 >

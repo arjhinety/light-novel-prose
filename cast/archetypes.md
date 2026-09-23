@@ -114,7 +114,8 @@ Every scene with the Foil should give evidence for both. He fixes a stranger's b
 ### 3.6 Sample
 > "Let's all go get food, the three of us! Settled!"
 > Amamiya clapped his hands. Settled, apparently. Nobody had asked Kuze.
-> "If Haruto says so, I guess I don't *mind*..." Rin muttered, already standing.
+> Rin was already standing.
+> "If Haruto says so, I guess I don't *mind*..."
 > Kuze looked at the boy grinning between them. He looked like the protagonist of every rom-com Kuze had ever skipped. He had a warm smile and a warmer voice, and he took it for granted that everyone wanted to be included in whatever he decided.
 > Maybe that was all it was: a nice guy being nice.
 > Kuze picked up his bag. He'd believe it when Amamiya invited him somewhere without a girl in the room.
@@ -243,7 +244,8 @@ Someone is moving pieces, and the Observer suspects it too late.
 > She wrote five names in a neat column, and then a sixth, a little apart from the rest.
 > An arrow from Rin to Amamiya. Another from Hina. A third from Momo, drawn with a small question mark.
 > The sixth name had no arrows yet.
-> "My," she murmured, tapping the pen against her lips. "What will you do next, Kuze-kun?"
+> She tapped the pen against her lips.
+> "My. What will you do next, Kuze-kun?"
 
 ---
 

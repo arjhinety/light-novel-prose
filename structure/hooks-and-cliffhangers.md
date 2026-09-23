@@ -66,9 +66,9 @@ Then she lowered her hand, and her smile went with it.
 The POV lands a one-line judgment that crystallizes the chapter.
 
 ```
-"I got them to make up."
+*I got them to make up.*
 
-Not "they made up." *He* got them to.
+Not *they made up*. *He* got them to.
 
 Hypocrite.
 ```
@@ -152,7 +152,9 @@ Kuze reached out, and his fingers closed around Kujou's other wrist.
 Someone announces something that will happen.
 
 ```
-"After school," Hoshino said sweetly, "we're all going to have a little talk. Right, Tachibana-chan~?"
+Hoshino's voice came out sweet.
+
+"After school, we're all going to have a little talk. Right, Tachibana-chan~?"
 ```
 
 *Rule:* the time bomb must detonate **within 1-2 chapters.** An announced confrontation that never arrives teaches readers to distrust your hooks.
@@ -178,7 +180,9 @@ In her room, Kujou set down her pen.
 
 Five names. A web of arrows. And one arrow, drawn lightly in pencil, from a name she hadn't circled before.
 
-"Things are getting interesting," she said to no one.
+She said it to no one.
+
+"Things are getting interesting."
 ```
 
 See §6 for cut-away rules.
@@ -237,7 +241,7 @@ Tachibana stood in the doorway.
 
 ### 5.2 Concrete beats abstract
 
-"Something had changed between them" is not a hook. "She called him Kuze. No 'you.'" is.
+*Something had changed between them* is not a hook. *She called him Kuze. Not "you."* is.
 
 ### 5.3 Short lines land
 
@@ -291,7 +295,9 @@ Kujou folded the script back to page twelve and underlined a single line of the 
 
 Nobody else would notice what it meant. Not until the screening.
 
-"Be grateful, Kuze-kun," she murmured, and smiled.
+She smiled.
+
+"Be grateful, Kuze-kun."
 ```
 
 ---
@@ -360,9 +366,13 @@ On the opposite platform, Shirasagi raised her phone. Nobody heard the shutter.
 
 **Ending B: line out of character (relationship)**
 ```
-"See you tomorrow," Tachibana said. Then, after a pause: "...Kuze."
+"See you tomorrow."
 
-Not "you." Kuze.
+A pause.
+
+"...Kuze."
+
+Not *you*. Kuze.
 ```
 *Next chapter opens with:* Kuze's analysis of the name shift. The focus is on the relationship, and the photo arrives later as a shock.
 

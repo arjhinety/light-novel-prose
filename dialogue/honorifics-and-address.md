@@ -104,25 +104,39 @@ A shift should be **noticed**, by the other character, by the POV, or by an onlo
 
 **The accidental slip.** The character doesn't realize they did it:
 > "--so just wait there, Minato."
+>
 > "..."
+>
 > "...What?"
+>
 > "Nothing."
+>
 > *Minato.* She'd never once said it. She didn't seem to have noticed she'd said it now.
+>
 > He decided not to tell her. If he told her, she'd never say it again.
 
 **The deliberate request.** One side asks for the change:
 > "Hey. Can you... stop calling me Tachibana?"
+>
 > "What should I call you, then?"
+>
 > "You know what."
+>
 > "I really don't."
+>
 > "Rin! Call me Rin, you idiot! Are you trying to make me say it!?"
+>
 > "Yes."
+>
 > She hit him.
 
 **The public shift.** Someone uses the new form in front of others, and the room reacts:
 > "Morning, Rin."
+>
 > The conversation at the next desk stopped. Two girls turned around. One of them mouthed *Rin?* to the other.
+>
 > Rin went scarlet to the collar and smacked the back of his head with a rolled-up notebook.
+>
 > "D-Don't just say it in the classroom!"
 
 ### 4.3 Backward shifts are even stronger
@@ -130,8 +144,11 @@ A shift should be **noticed**, by the other character, by the POV, or by an onlo
 When a relationship breaks, address goes **backward**. This is devastating on the page because it's so small:
 
 > "Good morning, Kuze-san."
+>
 > *San.*
-> Not "Kuze-kun". Not even "you". *San*, like a stranger at a bus stop. Like someone you apologize to for bumping shoulders.
+>
+> Not *Kuze-kun*. Not even *you*. *San*, like a stranger at a bus stop. Like someone you apologize to for bumping shoulders.
+>
 > He had known it was over. He hadn't known it would sound like that.
 
 Use backward shifts at the arc's low point ([Arc Design](../structure/arc-design.md)). Undo them at the reconciliation.
@@ -141,9 +158,13 @@ Use backward shifts at the arc's low point ([Arc Design](../structure/arc-design
 A cheerful girl scolding the protagonist for using polite speech (keigo) with her is a strong recurring bit. It establishes her no-walls personality and his reflexive distance at the same time:
 
 > "Ugh! You're doing it again! We're the same year! No polite language!"
+>
 > "Sorry."
+>
 > "*Sorry* is still polite!"
+>
 > "...My bad."
+>
 > "Better!"
 
 English doesn't have keigo, so render it with a **stiff register**: full sentences, "I apologize", "Is something the matter?", "Thank you very much". The shift to casual is contractions and slang ("My bad", "What's up?"). The gag lives in that contrast.
@@ -223,7 +244,7 @@ Nothing breaks immersion faster than a "-kun" that silently becomes "-san" with 
 ## 9. Checklist
 
 - [ ] Ledger exists in the bible, and every character's form for every other is set.
-- [ ] Narration uses bare surnames; honorifics appear only in speech or quoted thought.
+- [ ] Narration uses bare surnames (or the source series' convention in fan fiction); honorifics appear only in speech or in italic quoted-back thought.
 - [ ] Every address change in the draft is motivated and noticed.
 - [ ] At least one character's address form reveals personality (nicknames, universal -san, the "you").
 - [ ] Backward shifts are reserved for real breaks.
@@ -236,7 +257,9 @@ The following are six moments from one arc, showing how Rin's address for Kuze c
 
 **Chapter 4: the first contact.**
 > "Hey. You. Got a second?"
+>
 > "Who are you?"
+>
 > "Huh? You don't know the name of someone in your own cleaning group? Unbelievable. Tachibana. Remember it."
 
 She calls him "you". He doesn't know her name. The imbalance is the joke, and it's also the starting line.
@@ -258,8 +281,11 @@ She has never once used "-kun" for him. The added politeness is a wall. The narr
 
 **Chapter 33: the slip.**
 > "--Minato, you idiot, why didn't you tell me!?"
+>
 > "..."
+>
 > "...What?"
+>
 > "Nothing."
 
 His given name, used accidentally, in anger that is really fear for him. Neither acknowledges it.
@@ -276,7 +302,7 @@ Six lines, six stages. That is how much weight the address system can carry. Use
 The POV's private thoughts have their own address rules:
 
 - When he thinks *about* someone, he uses the narrative form: bare surname ("Tachibana would be furious.").
-- When he **quotes someone back to himself**, he keeps their exact address form, honorific and all: *"Kuze-kun." Since when did she call me that?*
+- When he **quotes someone back to himself**, he keeps their exact address form, honorific and all, in italics rather than quotation marks (quotation marks are reserved for live speech): *Kuze-kun.* Since when did she call me that?
 - When he thinks *to* someone, in direct inner address, he may use a form he'd never say aloud, which is a quiet way to show hidden feelings: *Please, Amamiya. You're the only one she'll listen to. Please.* Or, late in the arc: *Rin. Don't cry.* That he calls her "Rin" only in his head, chapters before he says it aloud, is a slow-burn tool.
 
 Keep these three modes distinct, and the reader will feel the gap between what the POV thinks and what he lets himself say.
@@ -293,6 +319,17 @@ When continuing a user's story or revising their chapter, build the ledger **bef
 6. **Note untranslated terms.** If the user writes "senpai" lowercase, don't switch to "Senpai" mid-work, except as a direct address at the start of a line, where capitalization is standard.
 
 Only then draft. This takes minutes and prevents the most common continuity complaint LN readers make.
+
+### 12.1 Fan fiction of a published series
+
+The same discipline applies to an existing anime, manga, or LN, except that the "prior text" is the canon itself:
+
+- **Follow the source's address forms, not this file's defaults.** If the series has the girls call the lead by his given name, or a character uses a signature nickname for him, use exactly that. Build the ledger from what you're confident the canon shows.
+- **Follow the source's narration convention.** Many series are narrated with given names. Don't impose surname narration on them.
+- **When you're unsure of a form, avoid the construction** (have the character say "you", or skip the name) rather than inventing one that fans will recognize as wrong.
+- **Never borrow the default cast's forms** ("Mina", "Kuze-kun") or traits for canon characters.
+
+Full protocol: [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md).
 
 ## 13. Sarcastic and weaponized address
 

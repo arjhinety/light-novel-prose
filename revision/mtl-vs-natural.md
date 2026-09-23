@@ -45,7 +45,9 @@ Japanese stacks many clauses into one long sentence. Tools often cut them into a
 > ✗ Kuze finished his coffee. He stood up. He paid. He left the family restaurant. Outside was cold. He walked to the station.
 
 > ✓ Kuze finished his coffee, paid for his own hamburger (and only his own hamburger), and stepped out into the cold.
+>
 > The station was a five-minute walk.
+>
 > He made it in four.
 
 **Rule:** Short beats are a *choice* placed at emphasis points. Routine action gets joined with commas, "and", or "then", into one flowing sentence. See [Rhythm & Flow](../core/rhythm-and-flow.md).
@@ -57,6 +59,7 @@ Tools often render Japanese te-form sequences as "Having done X, Y did Z" or "He
 > ✗ Hearing Rin's voice, Kuze turned. Seeing her expression, he frowned. Realizing she was angry, he sighed.
 
 > ✓ "Hey. You."
+>
 > Kuze turned. Rin was standing at his desk with both hands flat on it, which was never a good sign.
 
 **Rule:** Allow **one** participial opener per paragraph at most. Prefer plain sequence or dialogue first, reaction second.
@@ -68,7 +71,9 @@ Japanese drops subjects freely. An English rendering that puts them all back pro
 > ✗ Kuze looked at Amamiya. Kuze thought Amamiya was a hypocrite. Kuze did not say anything. Kuze drank his coffee.
 
 > ✓ Kuze looked at Amamiya.
+>
 > Hypocrite.
+>
 > He didn't say it. He drank his coffee instead.
 
 **Rule:** Name once when the subject changes, then use pronouns. When two same-gender characters are in play, re-anchor with a name each new paragraph, not each sentence.
@@ -79,7 +84,7 @@ The opposite failure: the tool drops the subject the way Japanese does, producin
 
 > ✗ Went to the station. Waited for the train. Was tired.
 
-> ✓ He went to the station and waited for the train. He was tired, the specific kind of tired that came from spending two hours pretending not to listen to other people's conversations.
+> ✓ He went to the station and waited for the train. He was tired. Two hours of pretending not to listen to other people's conversations did that.
 
 **Rule:** A fragment is legal only when it *lands* something: a verdict ("Hypocrite."), a sound, a realization. Fragments of routine action read as machine output.
 
@@ -125,6 +130,7 @@ Japanese narration shifts between past and non-past freely. Tools often keep tha
 > ✗ Kuze walks into the classroom. Amamiya was already surrounded. He sits down.
 
 > ✓ Kuze walked into the classroom. Amamiya was already surrounded.
+>
 > Of course he was.
 
 **Rule:** Narration is **past tense**. Free indirect thought is **present tense** ("Why does he always do that?") and should be clearly the character's voice: a question, an exclamation, a fragment. Never mix tenses in plain narration.
@@ -146,7 +152,8 @@ Tools love "He had a feeling of unease" and "a feeling of loneliness welled up."
 > ✗ A feeling of unease welled up in Kuze's chest.
 
 > ✓ Something was off.
-> Kuze ran back through the conversation. Amamiya had said "we". He'd said "we" three times, and not once had it included Kuze.
+>
+> Kuze ran back through the conversation. Amamiya had said *we*. He'd said *we* three times, and not once had it included Kuze.
 
 **Rule:** Convert "a feeling of X" into the **evidence** that produces X, delivered through the analytical monologue ([Inner Monologue](../core/inner-monologue.md)).
 
@@ -156,7 +163,9 @@ Japanese keigo (polite speech) has no clean English equivalent. Tools make polit
 
 > ✗ "I humbly apologize for the inconvenience I have caused you, Kuze-san."
 
-> ✓ "I apologize. That was careless of me." (Sayo: formal, crisp, not servile.)
+> ✓ "I apologize. That was careless of me."
+
+(Sayo: formal, crisp, not servile.)
 
 Formality in English comes from **complete sentences, no contractions, and precise vocabulary**. It does not come from stacked apologies or "humbly". See [Honorifics & Address](../dialogue/honorifics-and-address.md) for when a character switching *into* polite speech is itself a plot beat ("Why are you being polite with me all of a sudden?").
 
@@ -177,7 +186,7 @@ These mean nothing to most English readers without context.
 | "She made her cheeks swell." | "She puffed out her cheeks." |
 | "His expression became cloudy." | "His face fell." |
 | "She showed a flustered appearance." | "She got flustered." / "H-Hey!" |
-| "A vein popped on his forehead." (literal manga symbol) | "Something in his temple twitched." |
+| "A vein popped on his forehead." (literal manga symbol) | "A vein in his temple twitched." |
 | "Sweat dropped from her head." (manga sweat-drop) | "Hina laughed weakly." |
 | "Her eyes became dots." | "She stared, blank." |
 
@@ -201,17 +210,26 @@ Four properties separate a good localization from MTL:
 
 **Natural LN rendering:**
 > After school, Kuze was stuck with class duty.
+>
 > He was halfway through the blackboard when the door slid open.
+>
 > "Kuze-kun! You're on duty today? I'll help!"
+>
 > Hina Matsuri, the most popular girl in their year and possibly the most popular person in the building, bounced in with her ponytail swinging.
+>
 > "It's fine. It's my job."
+>
 > "Muu~ You're being polite again!"
-> She made an "X" with her forearms. It was apparently a rule now. He didn't remember agreeing to it.
+>
+> She crossed her forearms into a big X. It was apparently a rule now. He didn't remember agreeing to it.
+>
 > "...Sorry. It's fine, I've got it."
+>
 > "Better!"
+>
 > She grabbed an eraser anyway.
 
-**What changed:** repeated subjects became pronouns; "was class duty" became "was stuck with class duty"; "made a troubled face" was cut; "a feeling of embarrassment" became his wry observation about a rule he never agreed to; "As expected of..." became a portrait with a comic hyperbole; the honorific stays in dialogue only; Hina's tic ("Muu~", the X gesture) survives as characterization.
+**What changed:** every trailing tag ("Hina said", "Kuze said") was deleted, and every quote now stands alone in its own paragraph, with the actions (the door, the forearms, the eraser) moved into separate narration lines; repeated subjects became pronouns; "was class duty" became "was stuck with class duty"; "made a troubled face" was cut; "a feeling of embarrassment" became his wry observation about a rule he never agreed to; "As expected of..." became a portrait with a comic hyperbole; the honorific stays in dialogue only; Hina's tic ("Muu~", the X gesture) survives as characterization.
 
 ---
 
@@ -225,10 +243,11 @@ Standard English style guides would flag these. Keep them anyway, because they *
 4. **Stutters** ("W-Wait") and **drawls** ("Fiiine~").
 5. **Triple-quoted unison speech** for crowds: `"""Totally~"""`
 6. **The section numeral** alone on a line.
-7. **Surname narration** for the POV character, even in intimate moments.
+7. **Surname narration** for the POV character, even in intimate moments. (In fan fiction, follow the source series' convention instead; see [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md).)
 8. **Honorifics** kept untranslated, including the shift from surname plus honorific to a bare given name as a plot beat.
 9. **"Haa..."** as a sigh rendered as a line of dialogue.
 10. **Self-aware genre commentary** ("This was straight out of a rom-com.").
+11. **Speech and narration on separate lines.** A quote stands alone in its paragraph, and the gesture sits in the next. Standard English style would merge them with a tag. Don't. This is the house rule ([Dialogue Mechanics §2](../dialogue/dialogue-mechanics.md#2-the-pure-dialogue-line-hard-rule)).
 
 ---
 
@@ -251,10 +270,37 @@ Some drafts fix MTL stiffness by turning everything into Western literary fictio
 > ✗ (over-corrected) Minato didn't reply. He wondered, not for the first time, whether Haruto's generosity was genuine or merely performed for the benefit of the girls around him.
 
 > ✓ "..."
+>
 > Kuze didn't answer.
+>
 > Was it generosity? Or was it for Hina's benefit? Or was Amamiya just the kind of guy who offered drinks to whoever happened to be standing in his field of vision, and Kuze, as usual, hadn't been standing there?
 
 The first version uses given names (wrong register), a literary cadence ("not for the first time"), and an abstract dichotomy. The second keeps surnames, the silence line, and the spiral, and it adds a self-deprecating third hypothesis. **Natural does not mean Westernized.**
+
+### 7.1 The four symptoms of Westernized drift
+
+Test runs of this library found that strong general-purpose models drift into Western literary fiction in four measurable ways, especially when pushed to hit a length target. Check for all four:
+
+| Symptom | What it looks like | Target | Fix |
+|---|---|---|---|
+| **Sentence inflation** | Narrative median of 15+ words; a quarter of sentences run past 25 words, stacked with *which*, *because*, *the way*, and *as if* | Median ≤10 words; ≤5% of sentences at 25+ | Split at every *and*, *which*, and *the way*; keep one long exhale per scene |
+| **Dash asides** | *She'd left it there -- plain box, string undone -- and...* | Zero dashes in narration except a thought breaking off | Use a period, a comma, or a new one-line paragraph |
+| **Tagged, beat-wrapped dialogue** | `"It's fine," she said, and her shoulders came down half an inch.` | Zero mixed paragraphs | The quote alone; the shoulders in their own paragraph ([Dialogue Mechanics §2](../dialogue/dialogue-mechanics.md#2-the-pure-dialogue-line-hard-rule)) |
+| **Dialogue starvation** | 30% dialogue; exchanges summarized ("They argued about the rules for a while") | 40-55% | Unsummarize: play the argument as a live stack |
+
+> ✗ (drifted) He caught up to her by the stairwell window -- the one that looked out over the courtyard where, tomorrow, the whole class would sit under the tree -- and she had stopped there, one hand on the frame, not crying, not quite, but close enough that she was breathing like someone negotiating with the idea.
+
+> ✓ He caught up to her at the stairwell window.
+>
+> Below, the courtyard tree was still all bud. Tomorrow the whole class would sit under it.
+>
+> She had one hand on the frame. Not crying.
+>
+> Not quite.
+>
+> "...I forgot something. In the classroom."
+
+The drifted sentence is 58 words with two dash asides. The repair keeps every piece of information, turns the aside into its own short paragraph, lets *not quite* land alone, and hands the scene back to dialogue within five lines. See [Before & After](../examples/before-after.md) and [Rhythm & Flow](../core/rhythm-and-flow.md).
 
 ---
 
@@ -297,7 +343,7 @@ The last column is the protagonist's. Notice it's always the shortest. That gap 
 | *shiin* | Dead silence | `"..."` / "Silence." |
 | *pachi pachi* | Clapping | *Clap, clap.* |
 | *gara* | Sliding door | *Rattle.* / "The door slid open." |
-| *kyun* | Heart squeeze (cute) | "Something in his chest went stupid." |
+| *kyun* | Heart squeeze (cute) | "His heart did a stupid little skip." |
 | *mogu mogu* | Chewing | "Munch, munch." (comic eaters only) |
 | *puku* | Puffing cheeks | "She puffed out her cheeks." |
 | *nade nade* | Patting a head | *Pat, pat.* |
@@ -331,3 +377,5 @@ If all five answers are "yes", the paragraph has the texture without the stiffne
 - [ ] Formality through diction, not stacked apologies (§3.10)
 - [ ] Manga symbols translated into behavior (§3.12)
 - [ ] Keep-list texture intact (§5); not over-corrected into Western literary prose (§7)
+- [ ] None of the four drift symptoms: sentence inflation, dash asides, tagged dialogue, dialogue starvation (§7.1)
+- [ ] MTL trailing tags ("Hina said.", "Kuze thought.") deleted, and every quote stands alone in its paragraph

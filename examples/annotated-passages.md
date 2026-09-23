@@ -36,9 +36,10 @@ The eight passages cover the voice's main registers:
 > [9] A honey-brown ponytail that swung like it had its own opinions, big round eyes that went even bigger whenever something interested her, and a height that made her look younger than she was right up until she beat the entire track team at the sports festival.
 > [10] The most popular girl in their year, by any measurement Kuze could think of.
 > [11] Also, as far as he could tell, the only person in Class 2-3 who said good morning to everyone. Including him. Including the class goldfish.
-> [12] "Haruto made me carry these," she said, dumping the notebooks on the teacher's desk. "Isn't that mean? Isn't he the worst?"
-> [13] She was smiling when she said it.
-> [14] Of course she was.
+> [12] She dumped the notebooks on the teacher's desk.
+> [13] "Haruto made me carry these. Isn't that mean? Isn't he the worst?"
+> [14] She was smiling when she said it.
+> [15] Of course she was.
 
 | Line | Technique | Effect |
 |---|---|---|
@@ -53,8 +54,8 @@ The eight passages cover the voice's main registers:
 | 9 | **Portrait formula**: hair, eyes, build, plus a contradiction (small but athletic) | Anime-visual and economical; the sports-festival detail is characterization, not decoration |
 | 10 | **Reputation** | A standard portrait beat |
 | 11 | **The crack**, delivered as a joke ("Including the class goldfish") | Humanizes her, and reveals Kuze counts himself somewhere near the goldfish |
-| 12 | **Dialogue with an embedded relationship** | Introduces Amamiya without a portrait; he's the center of her orbit before he's on screen |
-| 13-14 | **Observation, then a bitter two-word verdict** | The first seed of Kuze's core question (why him?), planted without stating it |
+| 12-13 | **Dialogue with an embedded relationship** | Introduces Amamiya without a portrait; he's the center of her orbit before he's on screen |
+| 14-15 | **Observation, then a bitter two-word verdict** | The first seed of Kuze's core question (why him?), planted without stating it |
 
 **What to steal:**
 - Open on sound, then undercut the sound.
@@ -66,42 +67,44 @@ The eight passages cover the voice's main registers:
 
 ## Passage 2: The asymmetry spiral
 
-> [1] "We're heading to the club room," Amamiya said, slinging his bag over one shoulder. "Want me to grab you guys a couple of drinks on the way back?"
-> [2] You guys. A couple.
-> [3] Meaning Kuze was included.
-> [4] "Ah, wait, I'm coming too!" Hina dropped her eraser. "Kuze-kun, can I leave the rest to you? I'm so sorry! I'll pay you back, promise!"
-> [5] "It's fine. Go."
-> [6] She went.
-> [7] Amamiya went with her.
-> [8] Nobody brought up the drinks again.
-> [9] Kuze finished the blackboard, emptied the trash, and filled in the class log in handwriting neater than it needed to be, and the whole time, the drinks sat at the bottom of his mind like a pebble in a shoe.
-> [10] Two drinks, when Hina was staying.
-> [11] Zero drinks, the moment she wasn't.
-> [12] Obviously they weren't close. Obviously Amamiya had club. Obviously it was stupid to care about a vending-machine can that had never existed in the first place.
-> [13] But.
-> [14] Was the offer for Hina all along, and Kuze just happened to be standing in its blast radius?
-> [15] Or was it something smaller and meaner than that: the kind of kindness that only switched on when someone was watching?
-> [16] Or, and this was the worst one, had Amamiya simply never noticed that Kuze was there at all?
-> [17] The sediment at the bottom of his chest shifted, slow and silty.
-> [18] ...Or was he just jealous?
-> [19] He closed the class log.
-> [20] Probably both.
+> [1] Amamiya slung his bag over one shoulder.
+> [2] "We're heading to the club room. Want me to grab you guys a couple of drinks on the way back?"
+> [3] *You guys. A couple.*
+> [4] Meaning Kuze was included.
+> [5] Hina dropped her eraser.
+> [6] "Ah, wait, I'm coming too! Kuze-kun, can I leave the rest to you? I'm so sorry! I'll pay you back, promise!"
+> [7] "It's fine. Go."
+> [8] She went.
+> [9] Amamiya went with her.
+> [10] Nobody brought up the drinks again.
+> [11] Kuze finished the blackboard, emptied the trash, and filled in the class log in handwriting neater than it needed to be, and the whole time, the drinks sat at the bottom of his mind like a pebble in a shoe.
+> [12] Two drinks, when Hina was staying.
+> [13] Zero drinks, the moment she wasn't.
+> [14] Obviously they weren't close. Obviously Amamiya had club. Obviously it was stupid to care about a vending-machine can that had never existed in the first place.
+> [15] But.
+> [16] Was the offer for Hina all along, and Kuze just happened to be standing in its blast radius?
+> [17] Or was it something smaller and meaner than that: the kind of kindness that only switched on when someone was watching?
+> [18] Or, and this was the worst one, had Amamiya simply never noticed that Kuze was there at all?
+> [19] The sediment at the bottom of his chest shifted, slow and silty.
+> [20] ...Or was he just jealous?
+> [21] He closed the class log.
+> [22] Probably both.
 
 | Line | Technique | Effect |
 |---|---|---|
-| 1 | **Harem-lead voice**: casual generosity | Seems kind; the reader should like him a little here |
-| 2 | **Quoting back** exact words as fragments | The analytical engine starts: Kuze is *parsing* |
-| 3 | Plain inference | Sets up the asymmetry |
-| 4-5 | Genki apology, protagonist's minimal reply | Keeps the dialogue half of the page alive; "Go." is terse but kind |
-| 6-8 | **Three short one-line paragraphs** | Time passes in three beats; line 8 is the asymmetry, landed flat |
-| 9 | **Long exhale** that folds three chores into one sentence, then a simile | The chores are routine, so they get merged; the simile is homely (pebble in a shoe), not purple |
-| 10-11 | **Parallel fragments with numbers** | Presents the evidence like a ledger |
-| 12 | **Anaphora ("Obviously")** as self-argument | He tries to talk himself out of it, which makes him sympathetic |
-| 13 | **One-word paragraph** | The pivot |
-| 14-16 | **Hypothesis chain**, three questions escalating in pettiness and pain | The core of the voice. Note the third hypothesis hurts *him*, not Amamiya |
-| 17 | **Leitmotif** (the sediment) | The private image; it recurs across the story and grows |
-| 18 | **Self-suspicion** | The move that keeps the cynic likable |
-| 19-20 | **Action, then a wry verdict** | The tilt: he refuses to choose between "Amamiya is fake" and "I'm jealous" |
+| 1-2 | **Harem-lead voice**: casual generosity | Seems kind; the reader should like him a little here |
+| 3 | **Quoting back** exact words as fragments | The analytical engine starts: Kuze is *parsing* |
+| 4 | Plain inference | Sets up the asymmetry |
+| 5-7 | Genki apology, protagonist's minimal reply | Keeps the dialogue half of the page alive; "Go." is terse but kind |
+| 8-10 | **Three short one-line paragraphs** | Time passes in three beats; line 10 is the asymmetry, landed flat |
+| 11 | **Long exhale** that folds three chores into one sentence, then a simile | The chores are routine, so they get merged; the simile is homely (pebble in a shoe), not purple |
+| 12-13 | **Parallel fragments with numbers** | Presents the evidence like a ledger |
+| 14 | **Anaphora ("Obviously")** as self-argument | He tries to talk himself out of it, which makes him sympathetic |
+| 15 | **One-word paragraph** | The pivot |
+| 16-18 | **Hypothesis chain**, three questions escalating in pettiness and pain | The core of the voice. Note the third hypothesis hurts *him*, not Amamiya |
+| 19 | **Leitmotif** (the sediment) | The private image; it recurs across the story and grows |
+| 20 | **Self-suspicion** | The move that keeps the cynic likable |
+| 21-22 | **Action, then a wry verdict** | The tilt: he refuses to choose between "Amamiya is fake" and "I'm jealous" |
 
 **What to steal:**
 - Find one tiny asymmetry per chapter and let the POV chew on it.
@@ -128,9 +131,11 @@ The eight passages cover the voice's main registers:
 > [13] "Delivery for Matsuri."
 > [14] "Oh! Kuze-kun! Come in, come in!"
 > [15] "I'm fine here."
-> [16] "Thanks, Kuze." Amamiya reached across and plucked the case from his hand before Hina could stand up. "Hina, Ogata-nee says this is for you."
-> [17] Kuze let go of it.
-> [18] He took one step back into the hallway, and the room closed over the space where he'd been, like water.
+> [16] "Thanks, Kuze."
+> [17] Amamiya reached across and plucked the case from his hand before Hina could stand up.
+> [18] "Hina, Ogata-nee says this is for you."
+> [19] Kuze let go of it.
+> [20] He took one step back into the hallway, and the room closed over the space where he'd been, like water.
 
 | Line | Technique | Effect |
 |---|---|---|
@@ -141,10 +146,10 @@ The eight passages cover the voice's main registers:
 | 11 | **Four-word identification** | Reveals Kuze's loneliness without saying "lonely" |
 | 13 | **Protagonist's terse line** | Formal-ish (surname, no honorific), which is how he keeps distance |
 | 14-15 | **Invitation and refusal** | A recurring pattern: Hina includes, Kuze declines |
-| 16 | **The intercept** | Amamiya takes the CD *before Hina can stand*. The reader notices; Kuze will analyze it later. It's shown, not explained |
-| 16 | **"Ogata-nee"** | Honorific texture: Amamiya calls the teacher "big sister", revealing a closeness Kuze didn't know about |
-| 17 | **Minimal action** | A two-word surrender |
-| 18 | **Physical step back and a simile** | The emotional exclusion is made spatial; the simile is plain and exact |
+| 17 | **The intercept** | Amamiya takes the CD *before Hina can stand*. The reader notices; Kuze will analyze it later. It's shown, not explained |
+| 18 | **"Ogata-nee"** | Honorific texture: Amamiya calls the teacher "big sister", revealing a closeness Kuze didn't know about |
+| 19 | **Minimal action** | A two-word surrender |
+| 20 | **Physical step back and a simile** | The emotional exclusion is made spatial; the simile is plain and exact |
 
 **What to steal:**
 - Enter group scenes mid-conversation.
@@ -173,12 +178,17 @@ The eight passages cover the voice's main registers:
 > [15] "Stay out of it, Haruto!"
 > [16] She didn't look at him. Her ears had gone pink anyway.
 > [17] Interesting, Kuze thought.
-> [18] Then, because he was not a good person: "Shouldn't you go back to Amamiya? He looks worried."
-> [19] "W-What!? Wh-why would I care what Haruto--that idiot--I don't--!"
-> [20] *Ding-dong-dang-dong.*
-> [21] Saved by the bell. Her, not him.
-> [22] "This isn't over!" She stomped back to her seat. "After school! Don't you dare go home!"
-> [23] "I'm in the go-home club," Kuze said to nobody. "It's literally my only activity."
+> [18] Then, because he was not a good person, he said it.
+> [19] "Shouldn't you go back to Amamiya? He looks worried."
+> [20] "W-What!? Wh-why would I care what Haruto--that idiot--I don't--!"
+> [21] *Ding-dong-dang-dong.*
+> [22] Saved by the bell. Her, not him.
+> [23] "This isn't over!"
+> [24] She stomped back to her seat.
+> [25] "After school! Don't you dare go home!"
+> [26] "I'm in the go-home club."
+> [27] Nobody was listening.
+> [28] "It's literally my only activity."
 
 | Line | Technique | Effect |
 |---|---|---|
@@ -190,11 +200,11 @@ The eight passages cover the voice's main registers:
 | 14 | **Harem-lead tic** ("whoa, whoa") | Consistent voice |
 | 16 | **Contradiction between words and body** | Tsundere tell, *shown* (pink ears) and not explained |
 | 17 | **Two-word inner reaction** | Kuze notices and files it, which is character through restraint |
-| 18 | **Self-aware cruelty** ("because he was not a good person") | The cynic is honest about his pettiness, and that makes it charming instead of mean |
-| 19 | **Stutter and cut-off cascade** | Fluster rendered in punctuation |
-| 20 | **SFX as scene punctuation** | A comic rescue by bell |
-| 21 | **Deadpan correction** | Wit in four words |
-| 23 | **Punchline aside to nobody** | Ends on a character-revealing joke, which counts as a tilt |
+| 18-19 | **Self-aware cruelty** ("because he was not a good person") | The cynic is honest about his pettiness, and that makes it charming instead of mean |
+| 20 | **Stutter and cut-off cascade** | Fluster rendered in punctuation |
+| 21 | **SFX as scene punctuation** | A comic rescue by bell |
+| 22 | **Deadpan correction** | Wit in four words |
+| 26-28 | **Punchline aside to nobody** | Ends on a character-revealing joke, which counts as a tilt |
 
 **What to steal:**
 - In a snap-back, shorten the calm character's lines as the angry one escalates.
@@ -224,7 +234,7 @@ The eight passages cover the voice's main registers:
 > [9] His hamburger steak.
 > [10] Nobody had asked if they could take the photo.
 > [11] *I got them to make up.*
-> [12] Not "they made up." Not "we talked it out."
+> [12] Not *they made up*. Not *we talked it out*.
 > [13] *I* got them to.
 > [14] Kuze read the sentence four times. It didn't get better. It got worse, in the way a word gets worse when you repeat it until it stops meaning anything and starts meaning everything.
 > [15] Two replies had already appeared underneath.
@@ -275,32 +285,35 @@ The eight passages cover the voice's main registers:
 > [6] "..."
 > [7] "You don't have to know why. I don't know why either. Maybe you like her. Maybe you just hate it when thirty people gang up on one. Maybe it's something else. Doesn't matter."
 > [8] "..."
-> [9] "You keep saying 'rational' like it's a password. Like if you say it enough, nobody can get in." Daichi flicked a pebble at the fence. *Clink.* "Including you."
-> [10] "..."
-> [11] "You're allowed to be selfish, you know. You're allowed to want stuff. You're not a calculator, Mina. You're a guy who drinks black coffee to look cool and cries at dog movies."
-> [12] "...I don't cry at dog movies."
-> [13] "Hachikō. Third grade. I was there."
-> [14] "..."
-> [15] Something was stuck in Kuze's throat. It had been stuck there for days, for weeks, maybe for a year, and now it was trying to come out all at once, and it was too big.
-> [16] He coughed. Coughed again.
-> [17] "Damn it," he said, to no one.
-> [18] Daichi didn't look at him. He just stayed, the way a wall stays, the way the shed stayed, the way he had always stayed.
-> [19] "Damn it... damn it..."
+> [9] "You keep saying *rational* like it's a password. Like if you say it enough, nobody can get in."
+> [10] Daichi flicked a pebble at the fence. *Clink.*
+> [11] "Including you."
+> [12] "..."
+> [13] "You're allowed to be selfish, you know. You're allowed to want stuff. You're not a calculator, Mina. You're a guy who drinks black coffee to look cool and cries at dog movies."
+> [14] "...I don't cry at dog movies."
+> [15] "Hachikō. Third grade. I was there."
+> [16] "..."
+> [17] Something was stuck in Kuze's throat. It had been stuck there for days, for weeks, maybe for a year, and now it was trying to come out all at once, and it was too big.
+> [18] He coughed. Coughed again.
+> [19] "Damn it."
+> [20] He said it to no one.
+> [21] Daichi didn't look at him. He just stayed, the way a wall stays, the way the shed stayed, the way he had always stayed.
+> [22] "Damn it... damn it..."
 
 | Line | Technique | Effect |
 |---|---|---|
 | 1 | **One-line setting**, damp and specific | Scenery economy; the rain is literal, not symbolic |
 | 2 | **Characterization through permission** | Defines their friendship in one clause |
 | 3 | **Nickname** ("Mina") | Address form signals intimacy; only Daichi uses it |
-| 4-14 | **Monologue-and-silence duet**: Daichi speaks, Kuze answers `"..."` | Kuze's silence *is* his breakdown. Each "..." carries more weight |
+| 4-16 | **Monologue-and-silence duet**: Daichi speaks, Kuze answers `"..."` | Kuze's silence *is* his breakdown. Each "..." carries more weight |
 | 7 | **Hypothesis chain in dialogue** | The confidant mirrors Kuze's own analytical habit back at him, with compassion instead of suspicion |
-| 9 | **Metaphor from the character's world** ("password"), plus SFX | The confidant speaks plainly; *Clink.* punctuates |
-| 11 | **Specific affectionate teasing** (black coffee, dog movies) | Warmth through ribbing, not therapy-speak (see [Anti-Robotic §4](../revision/anti-robotic.md#4-therapy-speak-and-modern-internet-register)) |
-| 12-13 | **The one denial and the evidence** | A laugh inside the cry; the specific memory (third grade) is the human detail |
-| 15 | **Long exhale** of escalating time ("for days, for weeks, maybe for a year") | The prose opens up exactly where the emotion does |
-| 16-17 | **Simple physical action**, then a curse to nobody | At the emotional peak the prose gets *simpler* |
-| 18 | **Anaphora** ("the way... the way... the way") | A rhythmic embrace; the confidant's presence rendered as repetition |
-| 19 | **Repetition with trailing ellipses** | Breakdown in dialogue form; no narration explaining the tears |
+| 9-11 | **Metaphor from the character's world** ("password"), plus SFX | The confidant speaks plainly; *Clink.* punctuates |
+| 13 | **Specific affectionate teasing** (black coffee, dog movies) | Warmth through ribbing, not therapy-speak (see [Anti-Robotic §4](../revision/anti-robotic.md#4-therapy-speak-and-modern-internet-register)) |
+| 14-15 | **The one denial and the evidence** | A laugh inside the cry; the specific memory (third grade) is the human detail |
+| 17 | **Long exhale** of escalating time ("for days, for weeks, maybe for a year") | The prose opens up exactly where the emotion does |
+| 18-20 | **Simple physical action**, then a curse to nobody | At the emotional peak the prose gets *simpler* |
+| 21 | **Anaphora** ("the way... the way... the way") | A rhythmic embrace; the confidant's presence rendered as repetition |
+| 22 | **Repetition with trailing ellipses** | Breakdown in dialogue form; no narration explaining the tears |
 
 **What to steal:**
 - At the low point, let the protagonist answer only in silence lines.

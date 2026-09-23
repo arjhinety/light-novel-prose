@@ -39,14 +39,16 @@ The quiet character, usually the POV, finally explodes. In the reference novel, 
 5. **Physical punctuation.** A kicked chair, a slammed desk. One or two, not five.
 6. **The exit.** He leaves, and says something small on the way that reframes everything:
    > Passing her, he said it too quietly for anyone else to hear.
+   >
    > "Don't follow me."
 
 ### 2.3 Dialogue rules in the barrage
 - **Repetition of demand verbs**: "Say it!", "Tell me!", "Answer me!" This echoes the chant he was subjected to (§6), turned around.
 - **Interrupt every attempt to reply.** Others get two or three words before the dash:
   > "Kuze, that's eno--"
+  >
   > "Shut up!"
-- **Short narrative beats between lines**, only showing the room's reaction: "She stepped back. One step. Two."
+- **Short narrative beats between lines**, each its own paragraph, only showing the room's reaction: *She stepped back. One step. Two.* Never tuck a beat into the same paragraph as a shouted line.
 - **No self-analysis mid-outburst.** The monologue engine is *off*. That's what makes it madness. The analysis comes afterward, alone.
 
 ### 2.4 After the outburst
@@ -61,9 +63,13 @@ In this voice, confessions are **awkward, interrupted, and short**.
 - **The line itself is simple**: "I like you." Not a paragraph. Not a metaphor. Three words, maybe with a name.
 - **The response is often `"..."`**, then a physical reaction, then something small and specific:
   > "I like you, Kuze."
+  >
   > "..."
+  >
   > "Say something, idiot! I'm dying here!"
+  >
   > "...Since when?"
+  >
   > "Don't ask that!"
 - **Interruption is a genre staple**: fireworks, a bell, a train, a friend bursting in at "I li--". Use it at most once per arc. Readers love it the first time and resent it the second.
 
@@ -78,7 +84,10 @@ A character admits wrongdoing. Rules:
 ### 3.3 The confession the POV doesn't make
 Often the most powerful confession in this voice is the one that stays in the monologue:
 > *I wanted you to look at me like that. Just once.*
-> "Your tie's crooked," he said instead.
+>
+> He said something else instead.
+>
+> "Your tie's crooked."
 
 ## 4. The monologue-and-silence duet
 
@@ -95,19 +104,37 @@ The confidant scene: after the low point, the POV's closest friend finds him hid
 ### 4.2 Sample
 
 > "Mina."
+>
 > "..."
+>
 > "You're not as rational as you act, you know."
+>
 > "..."
+>
 > "You've got justice in you. And stuff you care about. Kind of a lot of it, honestly."
+>
 > "..."
+>
 > "Nobody's a machine. You don't have to be one either."
+>
 > "..."
+>
 > "You wanted to help her. That's it. That's the whole reason. You don't need a better one."
+>
 > "..."
+>
 > "It's okay to be selfish sometimes, Mina. Nobody's gonna hate you for it. I'm not."
+>
 > "..."
+>
 > Something caught in Kuze's throat. He coughed. Coughed again, like something was trying to get out.
-> "Damn it," he said, to nobody. "Damn it..."
+>
+> "Damn it..."
+>
+> He said it to nobody. Then again, smaller.
+>
+> "Damn it..."
+>
 > Daichi drank his coffee and watched the clouds, and didn't say anything else at all.
 
 ### 4.3 Rules
@@ -136,12 +163,19 @@ The bully arc's escalation device: the crowd chants, and the POV's thoughts are 
 - Chants use triple quotes: `"""Say it, say it, say it~"""`
 - Intercut with **one-line thoughts**, each one worse than the last:
   > """Say it, say it, say it~"""
+  >
   > *She's nothing but a pretty face.*
+  >
   > """Say it, say it, say it~"""
+  >
   > *She's selfish. She's cruel.*
+  >
   > """Say it, say it, say it~"""
+  >
   > *She has no value at all.*
+  >
   > """Say it, say it, say it~"""
+  >
   > "..."
 - The run ends with `"..."`, then a **break line** in narration ("Something in him gave way, like a dam cracking.").
 
@@ -161,8 +195,11 @@ After a rift, the making-up scene is **understated**. Big apologies feel false i
 - **The reply acknowledges without absolving**: "You were an idiot." / "Yeah."
 - **Seal it with a callback or a name**: she calls him "Kuze" again (not "Kuze-san"), or hands him the black coffee.
   > "...Here."
+  >
   > Black. No sugar.
+  >
   > "You remembered."
+  >
   > "Shut up and drink it."
 
 ## 8. Farewells and endings
@@ -203,6 +240,8 @@ Keep hot anger rare and cold anger common. Cold anger sustains tension across sc
 - [ ] Breakdowns drop tics and honorifics instead of explaining feelings.
 - [ ] Reconciliation is sideways, brief, and sealed with a callback.
 - [ ] Irony returns only after the scene ends.
+- [ ] Even at the peak, every quote stands alone in its paragraph. Tears, kicked chairs, and trembling shoulders get their own lines (see [Dialogue Mechanics §2](dialogue-mechanics.md#2-the-pure-dialogue-line-hard-rule)).
+- [ ] Dashes appear only on cut-off speech. The barrage can be full of them; the narration between lines has none.
 
 ## 12. Pacing emotion across a chapter
 
@@ -237,23 +276,37 @@ The same simplicity principle holds everywhere, with small adjustments:
 
 Take this flat draft and apply the principles before checking the version below it.
 
-**Flat draft:**
+**Flat draft (wrong on purpose: tags, beats inside quote paragraphs, explained emotions):**
 > "I'm so angry at you for abandoning me when I needed you most," Rin said tearfully. "I thought you were my friend, but you just stood there while everyone humiliated me. How could you do that to me? I feel so betrayed and hurt."
+>
 > Kuze felt a wave of guilt wash over him. "I'm sorry, Rin. I was afraid. I didn't know what to do. I should have been braver."
 
 **In voice:**
 > "You just stood there."
+>
 > "..."
+>
 > "Everyone was-- and you just *stood* there, Kuze-kun."
+>
 > *Kun.* She'd never once called him that.
+>
 > "I--"
-> "Don't." Her voice didn't rise. That was worse. "Don't give me a reason. You always have a reason."
+>
+> "Don't."
+>
+> Her voice didn't rise. That was worse.
+>
+> "Don't give me a reason. You always have a reason."
+>
 > She turned away. Her shoulders shook once, and then went still, like she'd ordered them to.
+>
 > "..."
+>
 > He had a reason. He had five. Every one of them was true, and every one of them was useless.
+>
 > He said nothing, and she left, and the classroom door clicked shut behind her with a sound much too small for what it was.
 
-**What changed:** the accusation shrinks to four words; the backward honorific does the "betrayed" work; her anger goes cold instead of hot; the POV's apology dies in his throat and moves into monologue; the body shows control failing; and the final beat is a small sound carrying a large meaning. No one says "hurt", "betrayed", "guilt", or "afraid", and the reader feels all four.
+**What changed:** every quote now stands alone on its line (the flat draft tags and beats inside the same paragraph); the accusation shrinks to four words; the backward honorific does the "betrayed" work; her anger goes cold instead of hot; the POV's apology dies in his throat and moves into monologue; the body shows control failing; and the final beat is a small sound carrying a large meaning. No one says "hurt", "betrayed", "guilt", or "afraid", and the reader feels all four.
 
 ## 15. Quick reference: peak-scene sentence toolkit
 
@@ -263,7 +316,7 @@ Take this flat draft and apply the principles before checking the version below 
 | Show control failing | Body part defying the character | Her hands wouldn't stop shaking, so she hid them. |
 | Show control holding | Stillness described | He didn't move. Not even his eyes. |
 | Make silence heavy | `"..."` and then the environment | "..." / Somewhere, a club was still practicing scales. |
-| Reveal a hidden feeling | Monologue line instead of speech | *Don't cry. Please.* / "You're in the way," he said. |
+| Reveal a hidden feeling | Monologue line instead of speech | *Don't cry. Please.* / then the spoken line alone: "You're in the way." |
 | End the scene | A concrete image, not a feeling | Her umbrella stayed open on the floor where she'd dropped it. |
 | Mark the aftermath | Ordinary time passing | Dinner tasted like nothing. He went to bed at nine. |
 

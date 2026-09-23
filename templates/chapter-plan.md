@@ -22,7 +22,9 @@ Chapter #:            Title:
 Arc / beat:           (which of the arc beats this chapter serves; see arc-design)
 Calendar:             (month, day of week, school event)
 POV anchor:           (whose head; list any cut-away POVs)
-Target length:        (words)   Sections: (count)
+Target length:        (words)   Sections: (count, sized from the target: 5,000 words = 6-8)
+Temperament:          (POV temperament: cynical / sincere / genki / anxious / schemer)
+Canon sheet:          (fan fiction only: done? which characters?)
 
 1. SITUATION (one line)
    The concrete, small thing that happens this chapter.
@@ -66,6 +68,11 @@ Target length:        (words)   Sections: (count)
 
 11. DON'T FORGET
    Continuity facts, running jokes, banned phrases for this book.
+
+12. VOICE GATES (check after drafting)
+   Dialogue share 40-55% / narrative median <= 10 words / <= 5% sentences of 25+ words /
+   0 mixed dialogue paragraphs / 0 dash asides in narration / no tic repeated 3+ times
+   Short on length? Add a beat from chapter-and-section §8.1, never longer sentences.
 ```
 
 ### Field notes
@@ -76,7 +83,9 @@ Target length:        (words)   Sections: (count)
 - **Emotional line.** One adjective in, one adjective out, and they must differ. Track the leitmotif's state so escalation stays gradual across the arc.
 - **Section map.** Give each section a location, a cast, and a *tilt*, the small shift at its end. See [Chapter & Section](../structure/chapter-and-section.md) for section lengths (600-1,200 words) and opener types.
 - **Monologue targets.** The analytical monologue needs raw material. Plan the specific phrases and asymmetries in advance so the POV's thinking reacts to something on the page instead of floating (see [Inner Monologue](../core/inner-monologue.md)).
-- **Dialogue set pieces.** Aim for ~50% dialogue. Planning at least one banter exchange and one group scene guarantees it.
+- **Dialogue set pieces.** Aim for 40-55% dialogue. Planning at least one banter exchange and one group scene guarantees it. Every line is written as pure dialogue, with narration on its own lines (see [Dialogue Mechanics](../dialogue/dialogue-mechanics.md)).
+- **Sections from length.** Size the section count from the target before drafting (see [Chapter & Section §8.1](../structure/chapter-and-section.md#81-reaching-length-the-right-way-r4)). A 5,000-word chapter planned as four sections will either fall short or get padded with long sentences.
+- **Voice gates.** The measurable checks from the [Revision Checklist](../revision/revision-checklist.md). Estimate by hand, or run the optional [voice metrics tool](../tools/voice_metrics.py) if you can execute code.
 - **Plants and payoffs.** Every chapter should plant at least one thing and, from Chapter 3 on, pay off at least one.
 - **Address check.** Name changes are plot. Plan them and never let them happen by accident.
 

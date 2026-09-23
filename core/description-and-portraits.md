@@ -112,36 +112,48 @@ In this register, expressions are **codified**. A reader who sees "she puffed ou
 
 1. **Assign signature expressions.** Rin gets the canine grin, the ear-flush, and the throbbing eyebrow. Kujou gets the unsmiling eyes and the slow blink. Hina gets the sparkle, the X-arms, and the puffed cheeks. Momo gets the flower-bloom smile *and*, later, the eyes that don't smile. If everybody puffs their cheeks, nobody has a face.
 2. **One expression beat per exchange, max.** An expression on every line of dialogue is noise.
-3. **Put the expression before the line when it tells us who is speaking**, and after the line when it undercuts what they said:
-   > Rin's ears had gone red. "I-It's not like I was waiting for you."
-   > "I wasn't waiting." Rin said it to the wall, and her ears said otherwise.
+3. **Put the expression before the line when it tells us who is speaking**, and after the line when it undercuts what they said. Either way, the expression gets **its own paragraph** (R1):
+   > Rin's ears had gone red.
+   >
+   > "I-It's not like I was waiting for you."
+
+   > "I wasn't waiting."
+   >
+   > She said it to the wall. Her ears said otherwise.
 4. **Serious scenes use the same vocabulary with less of it.** At a climax, you don't write "her face turned beet red." You write "Her shoulders shook." Fewer, heavier beats. See [Emotional Climaxes](../scenes/emotional-climaxes.md).
 5. **The POV narrates expressions as evidence.** Kuze doesn't just see Rin blush. He files it: *Ears red. So she does care about the lunch invitation. Or about who's inviting.* See [Inner Monologue](inner-monologue.md).
 
 ## 4. Body-language tags (gesture as speaker attribution)
 
-In LN prose, **gesture sentences replace "said"**. A tag like "Rin slammed both hands on his desk." carries the attribution, the emotion, and the staging all at once.
+In LN prose, **gesture sentences replace "said"**. A gesture like *Rin slammed both hands on his desk.* carries the attribution, the emotion, and the staging all at once. It always sits in **its own paragraph**, never glued to the quote (the pure-dialogue rule, R1; see [Punctuation & Typography](punctuation-and-typography.md#91-pure-dialogue-lines-r1)).
 
 ### 4.1 The pattern
 
 ```
-<Gesture sentence naming the speaker.>
+<Gesture paragraph naming the speaker.>
+
 "<Line.>"
 ```
 or
 ```
 "<Line.>"
-<Gesture sentence naming the speaker, or reacting.>
+
+<Gesture paragraph naming the speaker, or reacting.>
 ```
 
 Example:
 
 > Hina clapped her hands together, loud enough to make the boys in the back row jump.
+>
 > "Okay! Then everyone's coming to karaoke, yup?"
-> "I'm not," said Kuze.
+>
+> "I'm not."
+>
+> Kuze didn't look up from his book.
+>
 > "Everyone except Kuze-kun, yup!"
 
-The first line is a gesture tag. The third line uses a plain "said", which is fine when a gesture would be fussier than the line deserves. The fourth line has no tag at all, because the voice is unmistakable. That is three different attribution strategies in four lines, and the variety is part of what keeps it from sounding mechanical. See [Dialogue Mechanics](../dialogue/dialogue-mechanics.md).
+The first paragraph is a gesture placed *before* the line. The third line has no tag, and the gesture that follows it (*didn't look up from his book*) attributes it after the fact while adding the POV's deadpan. The last line needs nothing, because the voice is unmistakable. That is three different attribution strategies in five paragraphs, with zero "said", and the variety is part of what keeps it from sounding mechanical. See [Dialogue Mechanics](../dialogue/dialogue-mechanics.md).
 
 ### 4.2 Gesture banks per archetype
 

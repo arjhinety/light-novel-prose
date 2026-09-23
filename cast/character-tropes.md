@@ -73,14 +73,20 @@ Kuze can't read her, and it drives him mad. She sees through him *instantly*, wh
 > Mitarai was sitting on the apartment stairs again, a can of highball in one hand and her phone in the other, as though the stairs were her living room and everyone else was just passing through it.
 > "Welcome home~"
 > "It's not your home."
-> "Every stair is my home." She tilted the can at him. "You're late. And you've got the face."
+> "Every stair is my home."
+> She tilted the can at him.
+> "You're late. And you've got the face."
 > "What face."
 > "The face where somebody said something nice to you and you've been trying to find the trick in it for two hours."
 > Kuze stopped on the third step.
 > "..."
-> "Ooh. Bullseye." She grinned. "Was it the ponytail girl? The loud one?"
+> "Ooh. Bullseye."
+> She grinned.
+> "Was it the ponytail girl? The loud one?"
 > "It's none of your business."
-> "Everything's my business. I'm unemployed in spirit." She patted the stair beside her. "Sit. Tell onee-san about the trick you couldn't find."
+> "Everything's my business. I'm unemployed in spirit."
+> She patted the stair beside her.
+> "Sit. Tell onee-san about the trick you couldn't find."
 > He didn't sit. He also didn't go upstairs. He stood there for a while, which Mitarai seemed to count as a victory, and she hummed and scrolled her phone and didn't say anything else until he did.
 
 ### 2.7 Arc
@@ -171,14 +177,19 @@ Kuze's first theory: *She wants something. Notes. An introduction to Amamiya.* W
 > "Found you~"
 > Akiyama's head appeared around the landing, then the rest of her, clutching a melon soda like a trophy.
 > "How."
-> "Senpai, you have exactly three hiding spots. The library, the vending machines by the gym, and here. I'm a detective." She sat two steps below him and looked up. "Also I asked the janitor."
+> "Senpai, you have exactly three hiding spots. The library, the vending machines by the gym, and here. I'm a detective."
+> She sat two steps below him and looked up.
+> "Also I asked the janitor."
 > "..."
 > "You're making the face. The 'why is this happening to me' face."
 > "Why is this happening to me."
-> "Because you gave me a safety pin." She said it simply, straw in her mouth. "At the entrance ceremony. My skirt button broke and I was about to cry in front of three hundred people, and some gloomy second-year just handed me a safety pin and walked away without saying anything."
+> She had the straw in her mouth, and she said it simply.
+> "Because you gave me a safety pin. At the entrance ceremony. My skirt button broke and I was about to cry in front of three hundred people, and some gloomy second-year just handed me a safety pin and walked away without saying anything."
 > Kuze didn't remember that. He tried, and found nothing at all.
 > "That wasn't anything."
-> "It was to me." She slurped the last of her soda. "So now I'm your kouhai. Those are the rules."
+> "It was to me."
+> She slurped the last of her soda.
+> "So now I'm your kouhai. Those are the rules."
 > There were a lot of rules lately, Kuze thought. And he hadn't agreed to any of them.
 
 ### 4.7 Failure modes
@@ -264,7 +275,8 @@ Female childhood friend (an invented character, Aoi Morishita):
 > Morishita was waiting at the station like she had for ten years, same pillar, same side, earphones in, one sock slightly higher than the other.
 > "You're late."
 > "Train was late."
-> "Train was on time. You were late." She pulled one earphone out and held it toward him out of habit. He took it out of habit.
+> "Train was on time. You were late."
+> She pulled one earphone out and held it toward him out of habit. He took it out of habit.
 > A song he'd heard a hundred times. She'd played it for him in middle school and never stopped.
 > "Hey, Mina."
 > "Hm."
@@ -273,7 +285,7 @@ Female childhood friend (an invented character, Aoi Morishita):
 > "To your house?"
 > "..."
 > Morishita laughed. It was the laugh she used when she'd lost a game she'd pretended not to care about.
-> "It's fine," she said. "We have time."
+> "It's fine. We have time."
 > The song ended. The next one started. Neither of them moved to change it.
 
 ### 6.7 Failure modes
@@ -406,7 +418,9 @@ Kuze's cynicism predicts contempt. He expects her to mock his book, his lunch, h
 > Shinjo leaned in, squinted, and went very still.
 > "Wait. *Wait.* Is that the one where the lighthouse keeper writes letters to his dead brother?"
 > "..."
-> "I cried so hard at that. On the train. A salaryman gave me a tissue." She pressed a hand to her chest. "Volume two, the part with the storm? Legit destroyed me."
+> "I cried so hard at that. On the train. A salaryman gave me a tissue."
+> She pressed a hand to her chest.
+> "Volume two, the part with the storm? Legit destroyed me."
 > Kuze lowered the book an inch.
 > He had prepared a whole defense for an attack that hadn't come, and now he was just a boy holding a book, with nowhere to put any of it.
 > "...The storm part was good."
@@ -613,15 +627,19 @@ Kuze is one of the few who **doesn't** judge on appearance. He judges on behavio
 > "What're you looking at?"
 > Kuze looked. There was a paper plate on the ground in front of Kamata's sneakers, and on the plate were little chunks of grilled fish, carefully deboned, and eating the fish was a very small, very orange cat.
 > "..."
-> "It's not mine," Kamata said.
+> Kamata didn't look up.
+> "It's not mine."
 > "I didn't say anything."
-> "It just lives here. I just bring it food." A pause. "Every day. Shut up."
+> "It just lives here. I just bring it food."
+> A pause.
+> "Every day. Shut up."
 > The cat finished the fish and began, with enormous dignity, to wash its face.
 > Kuze considered the rumor about the nose. He considered the deboned fish. The two facts refused to sit in the same person, and so one of them was probably wrong, and he had a feeling he knew which.
 > He sat down on the step, a polite distance away.
 > "What's its name?"
 > Kamata stared at him for a long time, as if checking for a trap.
-> "...Sergeant," he said finally. "Don't laugh."
+> It took him a long time to answer.
+> "...Sergeant. Don't laugh."
 > Kuze didn't laugh. Sergeant climbed into Kamata's lap, and Kamata let it, glaring at the fans the whole time, as if daring them to say anything about it.
 
 The scene works because the narrator's **evidence-weighing** (rumor against deboned fish) does the characterization. Nobody explains that Kamata is kind. See [Inner Monologue](../core/inner-monologue.md).
@@ -811,7 +829,7 @@ See [Scene Playbook](../scenes/scene-playbook.md) for full recipes.
 
 ### 23.3 Voice differentiation test
 
-Take one line of intent, *"I want to walk home with you,"* and write it for each trope in your cast. If you can't tell them apart without tags, go back to [Character Voices](../dialogue/character-voices.md).
+Take one line of intent, *"I want to walk home with you,"* and write it for each trope in your cast. If you can't tell them apart from the quoted words alone, go back to [Character Voices](../dialogue/character-voices.md).
 
 - Onee-san: "Walking me home, shounen? How gentlemanly~ Carry my convenience-store bag."
 - Kouhai: "Senpai, our routes overlap for exactly six hundred meters. I measured. Coincidence!"
@@ -820,7 +838,7 @@ Take one line of intent, *"I want to walk home with you,"* and write it for each
 - Genki: "Walk-home party! Party of two! Let's go!"
 - Gyaru: "Kuzecchi, walk me to the station, there's a sketchy guy at the crossing and you look scary enough."
 - Chuuni: "The Oracle requires an escort through the Twilight Streets. You've been chosen. Don't argue with fate."
-- Class rep: "Walking together is efficient. We have the same homework. I'm not— it's efficient."
+- Class rep: "Walking together is efficient. We have the same homework. I'm not-- it's efficient."
 - Tomboy: "Race you. Loser walks the winner home. ...Wait, that's the same thing either way."
 - Delinquent: "Tch. It's dark. Just walk. Don't talk."
 

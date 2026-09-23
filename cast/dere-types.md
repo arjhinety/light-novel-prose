@@ -117,7 +117,8 @@ Kuze dissects the tsundere accurately and coldly at first: *She hits him because
 > "I didn't leave anything. Mom made too much. It's leftover."
 > Leftover. Her mother, apparently, had made too much and then tied it in a knot that had clearly taken three attempts.
 > "Your mom's knot is terrible."
-> Tachibana spun around. "W-What's wrong with my knot!?"
+> Tachibana spun around.
+> "W-What's wrong with my knot!?"
 > The class went quiet. Somewhere near the window, Hina made a small sound like a kettle.
 > Tachibana's face went through several colors in order and settled on red.
 > "...Just eat it, you idiot."
@@ -299,14 +300,16 @@ Sayo Kujou can wear kuudere as a *mask*. She is composed, logical, and unreadabl
 > "You didn't eat lunch."
 > Kuze looked up. She hadn't.
 > "How do you know that?"
-> "You didn't go to the cafeteria, you didn't have a bag with you, and you've read the same page for eleven minutes." She kept writing. "Hunger lowers reading speed."
+> "You didn't go to the cafeteria, you didn't have a bag with you, and you've read the same page for eleven minutes."
+> She kept writing.
+> "Hunger lowers reading speed."
 > "..."
 > She reached into her bag without looking and set a melon pan on the desk between them. It was still in its wrapper, and it had clearly been bought that morning, before she could possibly have known.
 > "I bought two by mistake."
 > "You don't make mistakes."
 > The pen stopped.
 > For a moment, a very short one, Minase Shizuku did not know what to say. Kuze saw it. The half-second of blank space where her next line should have been.
-> "...Then it wasn't a mistake," she said. "Eat."
+> "...Then it wasn't a mistake. Eat."
 > The pen started again. Her ears, he noticed, were a slightly different color than before.
 
 ### 4.8 Arc
@@ -361,7 +364,7 @@ Kuze **recognizes himself** in her, and this makes him protective and uncomforta
 
 1. "...Mm."
 2. "S-Sorry, is this seat... no, it's fine, I'll stand, sorry."
-3. "You... you read *that*? Nobody reads that. I mean, it's good. It's so good. The second volume has this part where the lighthouse keeper—sorry. I'm talking too much."
+3. "You... you read *that*? Nobody reads that. I mean, it's good. It's so good. The second volume has this part where the lighthouse keeper--sorry. I'm talking too much."
 4. "I can't... in front of people. But I can here."
 5. (in chat) "sorry for being weird today!! I wanted to say thank you for the umbrella but my mouth didn't work so I'm saying it here, thank you, really, I'll return it tomorrow (probably I'll just put it in your shoe locker because I can't talk)"
 6. "Kuze-kun is... easy to be quiet with."
@@ -375,7 +378,7 @@ Kuze **recognizes himself** in her, and this makes him protective and uncomforta
 > Kuze sat on the other end of the bench, reading, which was the agreement. Neither of them had said so, but that was the agreement.
 > "...Kuze-kun."
 > "Hm."
-> "That tree. The shadow's wrong. In my drawing. I can't—"
+> "That tree. The shadow's wrong. In my drawing. I can't--"
 > She stopped. Her shoulders came up toward her ears, like she'd said something too loud.
 > Kuze looked at the drawing. Then at the tree.
 > "The sun moved."
@@ -443,7 +446,9 @@ The twist option: make her kindness real, but let her have **one selfish thing s
 > A hand clapped onto his shoulder, followed by the rest of Matsuri Hina.
 > "You're walking alone again! That's against the rules!"
 > "What rules."
-> "Mine! Rule three: no walking alone when I can see you." She fell into step beside him, ponytail swinging. "Rule four is no polite language, but you already know that one."
+> "Mine! Rule three: no walking alone when I can see you."
+> She fell into step beside him, ponytail swinging.
+> "Rule four is no polite language, but you already know that one."
 > Kuze kept walking. He had spent two weeks trying to figure out what she wanted.
 > Notes, maybe. Or an introduction to someone. Or she'd lost a bet.
 > "Why do you do this?"
@@ -617,7 +622,7 @@ The arc is **learning to say no**, the first disagreement. Even a tiny one ("Act
 2. "I'll have what you're having!"
 3. "I don't mind. I never mind."
 4. (to Kuze, confused) "What do *I* want? ...Nobody's asked me that."
-5. (the turn) "No. I don't want to. I— I don't want to go. Is that... allowed?"
+5. (the turn) "No. I don't want to. I-- I don't want to go. Is that... allowed?"
 
 ### 10.5 Mini-scene beats
 
@@ -656,7 +661,7 @@ Sayo Kujou has sadodere tendencies toward Amamiya ("You have some nerve. I'll ha
 2. "Wrong answer. That's three juices you owe me. I'm keeping a spreadsheet."
 3. "Oh? You're not reacting? How rude. I worked hard on that."
 4. "Ufufu. I love it when you get serious."
-5. (flipped, after he calls her cute) "W— that's— you can't just— *I* do the teasing! That's the arrangement!"
+5. (flipped, after he calls her cute) "W-- that's-- you can't just-- *I* do the teasing! That's the arrangement!"
 
 ### 11.5 Failure modes
 

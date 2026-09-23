@@ -35,7 +35,7 @@ Readers do **not** want pages of history, languages with apostrophes, or politic
 - **Awe moments** (first sight of the capital, a dragon's wing blotting out the sun) earn the **long exhale**: one sweeping, clause-rich sentence, followed immediately by a short deflating line from the POV. The contrast keeps awe from turning purple.
 
 > The capital spread across the valley floor like a spilled jewelry box, white towers and blue roofs and a cathedral spire so tall that clouds snagged on it and trailed away like torn silk, while beneath it all the river flashed gold in the afternoon light.
-> "Huh," said Noel. "Rent must be terrible."
+> "Huh. Rent must be terrible."
 
 ### 2.3 Comedy ratio
 
@@ -63,11 +63,13 @@ Never explain more than **three consecutive sentences** of world information in 
 > The Kingdom of Velstra was founded three hundred years ago by the Hero-King Aldric, who defeated the Demon Lord with the aid of the seven Elemental Spirits. Since then, magic has been divided into seven schools corresponding to each Spirit. Nobles are generally born with affinity for two or more schools, while commoners typically have one or none. The Royal Academy accepts only those with two or more affinities, except for one scholarship seat per year.
 
 **Do:**
-> "Two affinities minimum," the examiner said, not looking up. "Next."
+> The examiner didn't look up.
+> "Two affinities minimum. Next."
 > "I have one."
 > Now he looked up. His eyes did the thing Noel had seen in every noble's eyes since he'd walked through the gate. A quick, pitying tally.
 > "Then you're in the wrong line, boy."
-> "Scholarship line." Noel held up the letter. "It says one."
+> Noel held up the letter.
+> "Scholarship line. It says one."
 > The examiner took the letter as if it might bite. Behind Noel, somebody snickered. Somebody else muttered *scholarship* the way you'd say *head lice*.
 > One seat a year. Three hundred years of Hero-King Aldric's glorious academy, and they'd saved exactly one chair for everyone else.
 > Noel wondered who'd been sitting in it last year, and where they were now.
@@ -257,12 +259,16 @@ Original cast for this file:
 > Long tables. A notice board the size of a barn door, papered three layers deep. A counter at the back with a single receptionist, an old woman with a gray bun, knitting something long and purple. And in the middle of the room, loud enough to be heard from the street, a table of B-ranks with their boots up, laughing at something that had probably been a person.
 > The laughter stopped when they saw his uniform.
 > Academy blue. Of course. He'd come straight from class.
-> "Oi, oi," said the largest of them, a man whose beard had crumbs in it from several different meals. "Lost, little scholar? The library's two streets over."
+> The largest of them had crumbs in his beard from several different meals.
+> "Oi, oi. Lost, little scholar? The library's two streets over."
 > "I'm here to register."
-> "*Register?*" The man looked at his friends, who dutifully laughed. "You hear that? The academy's sending us their leftovers now."
+> "*Register?*"
+> The man looked at his friends, who dutifully laughed.
+> "You hear that? The academy's sending us their leftovers now."
 > Leftovers. Noel filed the word away. It was more accurate than the man knew. One affinity, one scholarship seat, and one allowance that stopped the day his grades dipped. He needed a second income, and the guild was the only place in the capital that paid commoners by the job and not by their surname.
 > He walked to the counter. The room watched him do it.
-> The old woman didn't look up from her knitting. "Name."
+> The old woman didn't look up from her knitting.
+> "Name."
 > "Noel Farrand."
 > "Affinity."
 > "Wind."
@@ -270,23 +276,24 @@ Original cast for this file:
 > "Just wind."
 > *Click, click, click,* went the needles. "What can you do with it?"
 > Noel considered lying. Then he considered the old woman's hands, the calluses on the pads of her fingers that no amount of knitting would make, and the thin white scar that ran from her wrist into her sleeve.
-> "I can make a door slam," he said. "From across a room."
+> "I can make a door slam. From across a room."
 > Behind him, the B-rank table burst out laughing.
 > The old woman's needles paused.
 > For the first time, she looked up at him. Her eyes were a faded blue and very, very awake.
-> "Can you, now," she said. "Show me."
+> "Can you, now. Show me."
 > Noel snapped his fingers.
 > Across the guild, the front door, which had been standing open to the afternoon, slammed shut with a sound like a thunderclap. Every head turned. A mug fell off a table. The bearded B-rank, who'd been leaning his chair back on two legs, discovered that he was no longer leaning on anything.
 > *Crash.*
 > "..."
 > The old woman went back to her knitting.
-> "F-rank," she said. "Welcome to the guild, Farrand. Mind the step on your way out. Some people fall over it."
+> "F-rank. Welcome to the guild, Farrand. Mind the step on your way out. Some people fall over it."
 
 **What to notice:** A smell-based entrance joke. The room map (center table, lone receptionist). Worldbuilding carried by an insult ("leftovers") that the POV analyzes. A price-and-class detail (allowance tied to grades). The underestimation reversal, paced with one reveal. The receptionist's power is shown through her hands, not stated. Deadpan closing line.
 
 ### 8.2 The noble at the market (≈430 words)
 
-> "What," said Seraphina von Altmark, "is *that*."
+> Seraphina von Altmark stopped dead.
+> "What is *that*."
 > "A skewer."
 > "Of what?"
 > Noel squinted at the stall. The vendor, a round man with a burn scar across one forearm, grinned at them with three teeth.
@@ -300,10 +307,12 @@ Original cast for this file:
 > She held out a silver coin between two gloved fingers, as if it were a dead insect. The vendor's eyes went wide. The whole street seemed to lean in a little.
 > Noel took the coin from her fingers before anyone else could.
 > "Hey--"
-> "You flash silver on Tanner's Row, somebody follows you home." He dropped two coppers of his own into the vendor's palm. "Two skewers."
-> "Ohh, a gentleman!" said the vendor.
-> "He's not," said Seraphina.
-> "I'm not," Noel agreed.
+> "You flash silver on Tanner's Row, somebody follows you home."
+> He dropped two coppers of his own into the vendor's palm.
+> "Two skewers."
+> "Ohh, a gentleman!"
+> "He's not."
+> "I'm not."
 > They walked on with a skewer each. Seraphina held hers the way she held her wand in practical class, at a precise forty-five-degree angle and well away from her body. She did not eat it. She examined it.
 > Why had she come? That was what Noel couldn't work out. The Frost Rose of the North did not go to Tanner's Row. She had servants. She had servants whose servants had servants. And yet she'd appeared at the academy gate after class, alone and in a plain cloak that must have cost more than his whole wardrobe, and said, in a voice that brooked no argument: *You will show me where you buy your lunch.*
 > Research? A dare? A bet with the other nobles, in which he was the punchline?
@@ -311,12 +320,13 @@ Original cast for this file:
 > Seraphina bit the skewer.
 > Chewed.
 > Her face did not change at all, which on Seraphina meant a great deal.
-> "...Two coppers?" she said quietly.
+> "...Two coppers?"
 > "Two coppers."
 > She took another bite. Then another. Grease shone on her glove, and she didn't seem to notice, which Noel thought might be the first time in recorded history that an Altmark hadn't noticed a stain.
 > "Farrand."
 > "What."
-> "Tomorrow," she said, not looking at him, "I will have exchanged some silver for coppers."
+> She wasn't looking at him.
+> "Tomorrow, I will have exchanged some silver for coppers."
 > Noel looked up at the sky, which was blue and uninterested.
 > Great, he thought. Now I have a regular.
 
@@ -326,8 +336,11 @@ Original cast for this file:
 
 > The golem took Tessa's greatsword on its forearm and didn't even slow down.
 > *Clang.*
-> "That's cheating!" Tessa yelled, skidding backward across the flagstones. "Rocks aren't supposed to block!"
-> "It's not a rock," Seraphina said. "It's granite with a core." Frost was already crawling up her wand, white and crackling. "Stand aside."
+> Tessa skidded backward across the flagstones.
+> "That's cheating! Rocks aren't supposed to block!"
+> "It's not a rock. It's granite with a core."
+> Frost was already crawling up Seraphina's wand, white and crackling.
+> "Stand aside."
 > "*O frost that sleeps beneath the northern stars--*"
 > Noel did not roll his eyes. He was proud of that.
 > The ice lance formed above her head, long as a spear and sharp as a rumor. It flew. It struck the golem square in the chest.

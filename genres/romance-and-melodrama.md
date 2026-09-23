@@ -19,7 +19,7 @@ Both audiences punish the same failure: **sentimentality**, meaning emotion the 
 | Dial | Base voice | Romance / melodrama voice |
 |---|---|---|
 | POV | Cynical close third | Same, but the cynicism **softens over the arc**. A dual POV (alternating his and her sections) is common and effective |
-| Rhythm | Short beats | Longer, more flowing sentences in quiet moments. Short lines for the heartbeat moments |
+| Rhythm | Short beats | Longer, more flowing sentences in quiet moments. Short lines for the heartbeat moments. Stay inside the gates ([Revision Checklist](../revision/revision-checklist.md)): lengthen with connectives, never with dash asides |
 | Inner monologue | Suspicious social analysis | Starts suspicious ("Why is she being nice to me?"), then turns into *careful* analysis ("She waited for me at the gate. She never waits.") |
 | Comedy | Frequent deadpan | Still present, used as **deflection**. Characters joke when they're afraid to say the real thing |
 | Description | Portraits, sparse scenery | **Scenery returns**: weather, light, seasons. Romance lives in atmosphere (the evening sun through the classroom window, the smell of rain) |
@@ -56,11 +56,12 @@ In the base voice, the narrator keeps a mental ledger of social debts. In romanc
 >
 > He asked Matsuri what Tachibana drank.
 >
-> Matsuri looked at him for a very long time with a very strange expression, and then said, "...Lemon tea. Hot. Why?"
+> Matsuri looked at him for a very long time with a very strange expression.
+> "...Lemon tea. Hot. Why?"
 >
 > "No reason."
 >
-> "Kuze-kun," she said, "you're *really* bad at this."
+> "Kuze-kun, you're *really* bad at this."
 >
 > He didn't know what she meant. He bought four cans of hot lemon tea anyway, just to be safe.
 
@@ -102,7 +103,7 @@ The confession scene is the most important scene in a romance. Pre-load it:
 >
 > Tachibana stood beside him on the platform with her yukata sleeves tucked in her fists, looking at the tracks as if they'd insulted her.
 >
-> "...The fireworks were loud," she said.
+> "...The fireworks were loud."
 >
 > "They were fireworks."
 >
@@ -128,13 +129,14 @@ The confession scene is the most important scene in a romance. Pre-load it:
 >
 > He was saying this wrong. He was saying all of it wrong.
 >
-> "I don't want to be even," he said. "That's what I'm trying to say. I don't want to be even with you."
+> "I don't want to be even. That's what I'm trying to say. I don't want to be even with you."
 >
 > "..."
 >
 > The train came in. The wind of it lifted her bangs, and the doors opened with a hiss, and neither of them moved.
 >
-> "...You're so bad at this," she said, and her voice cracked right down the middle.
+> "...You're so bad at this."
+> Her voice cracked right down the middle.
 >
 > "I know."
 >
@@ -224,23 +226,29 @@ Not every LN romance is set in high school. Office romances, university romances
 >
 > "Finished. It's in your inbox."
 >
-> "I know. I read it." She didn't look up from her monitor. "Page six. You used 'utilize' three times."
+> "I know. I read it."
+> She didn't look up from her monitor.
+> "Page six. You used *utilize* three times."
 >
 > "...Is that a problem?"
 >
-> "It's a crime." She finally turned her chair toward him. Her hair was coming loose from its clip, and she looked tired, and it was the first time he'd seen her look anything but composed. "Correct it on Monday. And, Kuze-kun."
+> "It's a crime."
+> She finally turned her chair toward him. Her hair was coming loose from its clip, and she looked tired, and it was the first time he'd seen her look anything but composed.
+> "Correct it on Monday. And, Kuze-kun."
 >
 > "Yes?"
 >
-> "There's a ramen place by the station that's open until one. It's terrible. The broth tastes like dishwater." A pause. "I go every Friday."
+> "There's a ramen place by the station that's open until one. It's terrible. The broth tastes like dishwater."
+> A pause.
+> "I go every Friday."
 >
 > "..."
 >
-> "That wasn't an invitation," she added. "It was information."
+> "That wasn't an invitation. It was information."
 >
 > He saved his file and shut down his computer.
 >
-> "Understood," he said. "I've always wanted to try dishwater."
+> "Understood. I've always wanted to try dishwater."
 
 **What it demonstrates:** adult register (surname plus `-san`, workplace hierarchy); exhausted deadpan; the ojou-type cut into a strict senior; "information, not an invitation" as the tsundere deflection in adult form; the reply as a quiet yes.
 

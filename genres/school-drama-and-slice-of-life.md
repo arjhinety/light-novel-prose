@@ -286,7 +286,8 @@ Keep a thread of unanswered questions running under the slice-of-life chapters s
 > Because he wasn't the target. He was the evidence.
 > The door slid open again. The room held its breath.
 > Tachibana stood in the doorway, one hand on the frame, her kendo bag over her shoulder. She saw her desk. He watched her see it. The flush that usually ran to her ears when Amamiya teased her did not come. Her face went white instead, all at once, like a light switched off.
-> "Morning, Rin-chan~" Hoshino sang. "Busy weekend?"
+> Hoshino sang it across the room.
+> "Morning, Rin-chan~ Busy weekend?"
 > "..."
 > Tachibana walked to her seat. She didn't peel the notes. She sat down on top of them, as if they weren't there, and faced the blackboard with her back perfectly straight.
 > Kuze looked across the room at Amamiya.
@@ -312,11 +313,15 @@ Keep a thread of unanswered questions running under the slice-of-life chapters s
 > "..."
 > "..."
 > Hina Matsuri sat on his step. His specific step, the fourth from the top, the one with the crack shaped like Kyushu. She had a bento box open on her knees, a pink one with rabbit ears on the lid, and her mouth was full of tamagoyaki.
-> "Mmph!" She waved her chopsticks. Swallowed. "Kuze-kun! Yo!"
+> "Mmph!"
+> She waved her chopsticks. Swallowed.
+> "Kuze-kun! Yo!"
 > "...That's my step."
 > "Eh? Steps don't belong to people."
 > "This one does."
-> "Hmm~" She looked down at the step, then back up at him with enormous, deeply unconvinced eyes. "Is your name on it?"
+> "Hmm~"
+> She looked down at the step, then back up at him with enormous, deeply unconvinced eyes.
+> "Is your name on it?"
 > "It's shaped like Kyushu."
 > "What does that have to do with anything?!"
 > Nothing, obviously. He sat on the fifth step. It was shaped like nothing at all and it was worse in every way he couldn't explain.
@@ -327,7 +332,9 @@ Keep a thread of unanswered questions running under the slice-of-life chapters s
 > "What."
 > "It's really quiet here, huh."
 > "That's the point."
-> "Yup." She nodded, as though he'd said something wise. "I like it."
+> "Yup."
+> She nodded, as though he'd said something wise.
+> "I like it."
 > He looked at her. She wasn't looking back. She was looking at the locked roof door, at the square of light through its wired glass, and her smile was a smaller one than the one she used downstairs. A private size.
 > "..."
 > He ate his onigiri in fourteen bites that day. The procedure was ruined.
@@ -353,7 +360,9 @@ Keep a thread of unanswered questions running under the slice-of-life chapters s
 > She knew it was him. There was a tiny folded square of pink paper sticking out of his blazer pocket.
 > *Idiot,* she thought. *Idiot, idiot.*
 > She wasn't sure which of them she meant.
-> "Thank you," she said to the ceiling, and it came out right that time, soft and plain, because nobody was there to hear it.
+> She said it to the ceiling.
+> "Thank you."
+> It came out right that time, soft and plain, because nobody was there to hear it.
 > She typed it. Stared at it.
 > Put the phone face-down on the pillow.
 > Tomorrow. She'd say it tomorrow. In person. Probably.

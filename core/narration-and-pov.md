@@ -19,6 +19,8 @@ Why third and not first? Many LNs *are* first-person, and this skill supports th
 1. **Ironic distance.** "Kuze did not have a thinking face. He had a face." The third person lets the narrator be *slightly* outside the character, enough to be funny about him.
 2. **Controlled cut-aways.** It's easy to hop briefly to another character's scene at a section break without the jarring shift of changing "I".
 
+**The stance stays the same when the temperament changes.** Close third on one anchor applies to a cynical loner, a sincere harem lead, a genki narrator, an anxious one, or a schemer alike. What changes is what the narration *notices* and how it judges, not the camera distance. A warm, sincere POV is where models most often drift into wide, generalized, omniscient narration ("Five girls, one table, and between them enough tension to fill a room twice this size"). Keep the lens tight and aim it where the temperament points. See [POV Temperaments](pov-temperaments.md).
+
 ## 2. Surname anchoring
 
 In narration, the POV character is referred to by **surname**: "Kuze", not "Minato". The same goes for the other characters in narration, **unless** the POV is on intimate first-name terms with them, and even then surname narration is common in the school register.
@@ -32,6 +34,8 @@ In narration, the POV character is referred to by **surname**: "Kuze", not "Mina
 
 **Why this matters.** Surname narration creates the **cool, slightly formal distance** of Japanese school life, where first names are intimate and earned. When the POV (or the narration) shifts to a first name, it signals a relationship change. See [Honorifics & Address](../dialogue/honorifics-and-address.md).
 
+**Existing series:** surname anchoring is this library's *default*, not a law. When writing fan fiction, follow the source's own convention. If the source narrates its cast by given name, so do you. Test runs showed models forcing surnames onto a cast the source calls by first name, which instantly reads as off-canon. See [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md).
+
 **Consistency rule:** pick the narration name for each character in the story bible and never drift. "Tachibana" in one paragraph and "Rin" in the next, with no in-story reason, breaks immersion instantly.
 
 ### 2.1 The dialogue/narration mismatch
@@ -39,6 +43,7 @@ In narration, the POV character is referred to by **surname**: "Kuze", not "Mina
 This voice constantly plays the narration name against the dialogue name, and that contrast is information:
 
 > "Haruto! Wait up!"
+>
 > Tachibana ran after Amamiya, her bag bouncing.
 
 The reader registers that she calls him by his first name, while the narrator (Kuze's lens) keeps calling him Amamiya. That is the distance between them and Kuze.
@@ -137,7 +142,7 @@ Close third isn't fixed at one distance. It **breathes**.
 
 ### 5.1 The wide opening
 
-> Moving up to high school is supposed to change things. New classmates, new clubs, a clean slate, and for some, the chance at a "high school debut," that fabled reinvention where a nobody walks through the gate in April and walks out a somebody.
+> Moving up to high school is supposed to change things. New classmates, new clubs, a clean slate, and for some, the chance at a *high school debut*, that fabled reinvention where a nobody walks through the gate in April and walks out a somebody.
 > Most people don't debut. They just move up a grade.
 > Minato Kuze was one of them.
 

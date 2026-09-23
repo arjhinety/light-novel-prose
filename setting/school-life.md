@@ -329,7 +329,7 @@ This is where school life stops being set dressing and becomes the voice. The cy
 > Then Tachibana unfolded her slip, looked at the board, and looked at him.
 > Thirty-two.
 > "..."
-> "Don't talk to me," she said.
+> "Don't talk to me."
 > "I wasn't going to."
 
 **The school trip group as a verdict:**

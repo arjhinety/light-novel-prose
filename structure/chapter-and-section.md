@@ -266,6 +266,40 @@ If your output limit is smaller than the request:
 2. End on a section-ending tilt, which you should have anyway.
 3. After a `---` separator, state briefly which section number to continue from.
 
+### 8.1 Reaching length the right way (R4)
+
+A length target is met with **more story**, never with longer sentences. When test runs asked for 5,000 words, one model padded by stretching sentences (a narrative median of 15 words, and more than a quarter of sentences at 25+ words) and restating reflection it had already delivered. Another stopped 1,200 words short because its plan didn't have enough beats. Both failures come from the same place: the plan was sized for a shorter chapter.
+
+**Plan the section count from the target before drafting:**
+
+| Target | Sections | Words per section |
+|---|---|---|
+| 1,500-2,500 | 2-3 | 600-900 |
+| 2,500-4,500 | 4-5 | 600-1,000 |
+| 5,000 | 6-8 | 650-850 |
+| 6,000-8,000 | 7-10 | 700-900 |
+
+Then give each section its own beat. When a draft comes up short, **add beats and scenes** from this list:
+
+| Add | What it contributes | Example (default cast) |
+|---|---|---|
+| **A new arrival** | A new voice changes the scene's chemistry and restarts the banter | Hina bursts into the family restaurant booth halfway through |
+| **A second escalation** | The comic or dramatic premise gets one more turn of the screw | The shared parfait becomes a three-way feeding war |
+| **A quiet two-person moment** | Contrast after noise, which is where the heart goes | The drink-bar corridor, just Kuze and Kujou |
+| **A cut-away** | Another POV at a section break, a short scene the POV can't see | Kujou in her room, drawing arrows |
+| **A callback** | An earlier object or line returns with new charge | The black coffee, ordered by someone else |
+| **An aftermath beat** | The walk home, the night-time phone, the next morning | Kuze scrolling Chirp in bed |
+| **A misread** | The POV analyzes something wrong, and the reader sees it | He decides Tachibana is angry; she was embarrassed |
+
+**Never do these to reach length:**
+- Lengthen sentences or stack clauses. The rhythm gates in the [Revision Checklist](../revision/revision-checklist.md) will fail.
+- Add adjectives, similes, or scenery.
+- Restate a realization the POV has already had. One verdict per beat.
+- Summarize the chapter so far inside the chapter.
+- Pad dialogue with filler lines ("Yeah." "Right." "Totally.") that don't move anything.
+
+**The check:** if you're short, look at your plan, not your sentences. Which section has only one beat? Split it, or give it a second. If the plan has fewer sections than the table above, add one from the list and write it at full quality.
+
 ---
 
 ## 9. Chapter-level shape: situation, turn, hook
@@ -351,7 +385,9 @@ Notice the rhythm: dialogue-heavy, then mixed, then monologue-heavy, then short 
 - [ ] Heading on one line, in the story's title pattern
 - [ ] Opening type differs from the last two chapters
 - [ ] First 200 words contain a concrete situation and a character voice
-- [ ] 3-5 numbered sections (numerals bare, on their own lines)
+- [ ] Section count sized from the length target (§8.1): 3-5 for a standard chapter, 6-8 for 5,000 words (numerals bare, on their own lines)
+- [ ] Any shortfall fixed by adding beats or scenes, never by longer sentences (§8.1)
+- [ ] Dialogue paragraphs contain only the quotation, and narration sits on its own lines (see [Dialogue Mechanics](../dialogue/dialogue-mechanics.md))
 - [ ] Every section ends on a tilt, never a summary
 - [ ] At least one dialogue-heavy and one monologue-heavy section
 - [ ] Scene skips use a time phrase, not a summary paragraph

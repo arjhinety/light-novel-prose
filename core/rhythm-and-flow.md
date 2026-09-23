@@ -26,6 +26,13 @@ Two things go wrong when a model tries to copy this:
 
 The target sits between them: **short by default, varied on purpose, connected by logic.** A reader should feel the sentences are short because the narrator is thinking in quick jabs, not because the writer ran out of words.
 
+A third failure showed up in test runs, and it is the sneakiest: **drift under length pressure.** Asked for 5,000 words, a model starts on-voice and then, section by section, lets sentences grow. The median creeps from 7 to 15 words, a quarter of the sentences pass 25 words, reflection gets restated instead of advanced, and dialogue falls to 30%. Every paragraph looks fine up close. The whole chapter has become a different voice. Two defenses:
+
+- **Length comes from beats, not breath.** When you need more words, add an arrival, a second escalation, another exchange, or a cut-away. Never stretch the sentences you have. See [Chapter & Section](../structure/chapter-and-section.md).
+- **Measure, don't feel.** Check the gates in [Style Bible §2.6](style-bible.md#26-measurable-voice-gates): narrative median ≤10 words, ≤5% of sentences at 25+ words, and dialogue at 40-55%.
+
+Two punctuation habits feed the drift and should be cut on sight. **Aside dashes** (`He took the stairs--past the poster, past the window--and didn't slow down.`) smuggle three beats into one long sentence; break them out (R2, [Punctuation & Typography §3](punctuation-and-typography.md#3-the-dash)). **Tags glued to dialogue** (`"Fine," she said, turning away.`) turn a clean speech line into a narration sentence; give the speech its own paragraph (R1, [§9.1](punctuation-and-typography.md#91-pure-dialogue-lines-r1)).
+
 ## 2. Sentence-length bands
 
 Think of sentences in four bands. Every passage uses at least three of them.
@@ -245,7 +252,7 @@ These are reusable "shapes" for a paragraph cluster. Use them as a vocabulary, n
 
 ### 9.3 Accumulate, exhale, jab
 
-> The CD. The drink offer. The "we" that didn't include him. The photo he hadn't known was being taken.
+> The CD. The drink offer. The *we* that didn't include him. The photo he hadn't known was being taken.
 > Each on its own meant nothing, could be explained away by a reasonable person in a reasonable mood, but stacked together they formed a shape, and the shape was Amamiya standing in the middle of a circle with his back to everyone outside it.
 > Kuze was outside it.
 

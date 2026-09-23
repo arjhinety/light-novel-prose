@@ -269,8 +269,9 @@ Original cast for this file:
 > The last thing I saw in Japan was a vending machine.
 > It was on the platform at Omiya, 11:47 p.m., and it was out of the black coffee I liked. I remember that. I remember standing there with a hundred-yen coin in my hand, deciding whether a sweetened café au lait counted as a defeat, and I remember the college kid next to me glowing.
 > Not metaphorically. Glowing. Gold light pouring out of the ground under his sneakers in a circle with letters around the edge.
-> "Eh?" said the college kid.
-> "Eh?" I said.
+> The college kid blinked.
+> "Eh?"
+> "Eh?"
 > Then the circle got bigger, and I was in it.
 > 1
 > "*Welcome, O Hero, to the Kingdom of Aurelle!*"
@@ -280,15 +281,17 @@ Original cast for this file:
 > Then they came to me.
 > Then they went back to him.
 > Then they came back to me, slower, the way you'd recheck a receipt.
-> "...Two?" she said.
+> "...Two?"
 > Behind her, an old man in the tallest hat I'd ever seen started flipping through a very large book, very fast.
 > "Your Highness, the ritual specifies *one* hero--"
 > "I *know* what it specifies, Archbishop."
 > "--so the second one is, ah, how do I put this--"
-> "Collateral," I said.
+> "Collateral."
 > Forty heads turned to me.
 > "..."
-> "Sorry. Professional habit." I raised a hand. "I'm not the hero. Pretty sure it's him. I was just standing too close to the circle. If there's a return policy, I'd like to use it."
+> "Sorry. Professional habit."
+> I raised a hand.
+> "I'm not the hero. Pretty sure it's him. I was just standing too close to the circle. If there's a return policy, I'd like to use it."
 > The Archbishop looked at the princess. The princess looked at the Archbishop.
 > Nobody said the words *there's no return policy*. Nobody needed to.
 > The college kid was staring at his hands, which had started to glow again, softly, the way a phone does when it gets a notification. I looked at my own hands. They did not glow. They were the hands of a man who'd eaten a convenience-store karaage bento at his desk for dinner every night that month.
@@ -310,7 +313,7 @@ Original cast for this file:
 > I closed my eyes.
 > Somewhere in Saitama, I thought, the vending machine on the Omiya platform was still out of black coffee. And somewhere in my apartment, my phone was lighting up with a message from my sister asking if I'd be home for Obon.
 > I opened my eyes.
-> "Your Highness," I said, "before anything else. Who handles your kingdom's books?"
+> "Your Highness, before anything else. Who handles your kingdom's books?"
 
 **What to notice:** A specific modern moment (vending machine, the café au lait "defeat"). A fast transition. The princess's re-check "like a receipt", a job-specific metaphor. A single status screen with a joke in it. A talking skill as the boke. Pathos placed right after comedy (the sister's message). The final line pivots toward the protagonist's real power.
 
@@ -318,27 +321,33 @@ Original cast for this file:
 
 > Captain Ilse Varga had been assigned to babysit the accountant for eleven days, and in those eleven days she had formed a clear and professional opinion of him.
 > Harmless. Tired. Owned one shirt he washed every night in the barracks basin and hung by the window like a flag of surrender.
-> "Captain," he said now, not looking up from the treasury ledgers stacked on the table. "Who approved the grain shipments to the eastern garrison?"
+> He didn't look up from the treasury ledgers stacked on the table.
+> "Captain. Who approved the grain shipments to the eastern garrison?"
 > "The Minister of Supply."
-> "Mm." He turned a page. His finger moved down a column of numbers faster than she could read them. "The eastern garrison has three hundred soldiers."
+> "Mm."
+> He turned a page. His finger moved down a column of numbers faster than she could read them.
+> "The eastern garrison has three hundred soldiers."
 > "Yes."
 > "They've been sent grain for nine hundred. Every month. For four years."
 > Ilse said nothing. Her hand, resting on her sword, didn't move. She had been trained not to move.
 > 《Discrepancy detected!》 said the cheerful voice only he could hear, and he winced, as he always did, as if a small bird had sung directly into his ear.
-> "Where," he said mildly, "do you think the other six hundred soldiers' worth of grain is going, Captain?"
+> His voice stayed mild.
+> "Where do you think the other six hundred soldiers' worth of grain is going, Captain?"
 > "..."
-> "Because it's not going east. The wagons come back empty too fast." He tapped a page. "Two days out, two days back. The eastern garrison is five days away."
+> "Because it's not going east. The wagons come back empty too fast."
+> He tapped a page.
+> "Two days out, two days back. The eastern garrison is five days away."
 > The room had gone very quiet. Outside, a bell rang for the evening prayer, long and low.
 > Ilse looked at the ledgers. She looked at the tired man in the one shirt. For eleven days she'd thought the kingdom had summoned a mistake.
 > The Hero could split a boulder with his holy sword. She'd seen it. It had been very impressive and completely useless, because the boulder hadn't been stealing from anyone.
-> "Mikami-dono," she said.
+> "Mikami-dono."
 > He looked up. It was the first time she'd used his name.
 > "Who else have you told?"
 > "Nobody. You're the only one who's been in the room."
 > Ilse crossed to the door and locked it.
 > *Click.*
 > Sota, to his credit, did not panic. He only sighed, the long, deep sigh of a man who had been here before, in a different world, in a different conference room.
-> "Right," he said. "So it's that kind of kingdom."
+> "Right. So it's that kind of kingdom."
 
 **What to notice:** A cut-away-style POV for the witness, to show the reveal's impact. The kuudere's reaction is shown through stillness. The power is non-violent (accounting) and has a clear social cost (danger). Name escalation ("Mikami-dono") marks the shift. The final tilt is ambiguous: is she ally or threat?
 
@@ -347,14 +356,18 @@ Original cast for this file:
 > On my forty-first day as a lighthouse, a girl climbed my stairs.
 > I felt her the way you feel an itch: two hundred and twelve stone steps, one at a time, a small warm weight moving up my spine. I would have turned to look if I had a neck. I did not have a neck. I had a lamp room, a gallery, and a very good view of the Salt Coast, and that was the whole of my body.
 > She came out onto the gallery, out of breath. Twelve, maybe thirteen. Freckles. A basket over one arm and a scarf that the wind kept trying to steal.
-> "Hello," she said to the lamp.
+> She spoke to the lamp.
+> "Hello."
 > Nobody had spoken to me in forty-one days.
 > I brightened. I didn't mean to. It just happened, the way a face goes red.
 > The girl jumped back. Stared. The basket swung on her arm.
-> "...You're awake," she whispered. "Grandpa said you were. Nobody believed him."
+> Her voice dropped to a whisper.
+> "...You're awake. Grandpa said you were. Nobody believed him."
 > I dimmed, then brightened again. It was the only word I knew how to say.
 > She laughed. It was the first laugh I'd heard since the truck.
-> "Okay." She sat down cross-legged on the stone, right under the lamp, like we'd arranged to meet here. "Okay. Then. One flash for yes, two for no?"
+> "Okay."
+> She sat down cross-legged on the stone, right under the lamp, like we'd arranged to meet here.
+> "Okay. Then. One flash for yes, two for no?"
 > One flash.
 > "Are you a ghost?"
 > Two.
@@ -365,7 +378,7 @@ Original cast for this file:
 > Forty-one days. Ships passing in the night and never once looking up. Gulls. Weather. The same fourteen stars in the same order. I had been an office worker in Nagoya with a studio apartment and one plant, and I had thought, back then, that I understood loneliness. I had not understood anything.
 > One flash. Long and slow.
 > The girl nodded seriously, as though I'd told her something important. Then she opened her basket.
-> "I brought bread," she said. "I know you can't eat it. I'll eat it for you."
+> "I brought bread. I know you can't eat it. I'll eat it for you."
 > She ate it for me.
 > It was, I think, the best meal I'd ever had.
 

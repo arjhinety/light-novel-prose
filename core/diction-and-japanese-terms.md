@@ -296,10 +296,13 @@ Standalone sound lines are an LN signature (see [Rhythm & Flow](rhythm-and-flow.
 LN readers tolerate unfamiliar terms if the context teaches them. Three techniques:
 
 1. **An appositive clause on first use:**
-   > He was in the "go-home club", which was what people called not being in a club at all.
-2. **A character asks:**
+   > He was in the go-home club, which was what people called not being in a club at all.
+2. **A character asks** (each line in its own paragraph, with the answerer identified by voice or a gesture paragraph, never a tag):
    > "What's a chuunibyou?"
-   > "Someone who thinks their right arm has a sealed demon in it," said Kujou. "Gon-kun, for example."
+   >
+   > Kujou didn't look up from her book.
+   >
+   > "Someone who thinks their right arm has a sealed demon in it. Gon-kun, for example."
 3. **Show the practice:**
    > Kuze and Hina were on class duty today, since their attendance numbers were next to each other. So the two of them were the ones wiping the blackboard, emptying the bins, and writing up the class log.
 
