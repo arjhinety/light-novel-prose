@@ -297,6 +297,10 @@ Then give each section its own beat. When a draft comes up short, **add beats an
 - Restate a realization the POV has already had. One verdict per beat.
 - Summarize the chapter so far inside the chapter.
 - Pad dialogue with filler lines ("Yeah." "Right." "Totally.") that don't move anything.
+- Add a **bystander montage**, where unnamed students comment on the chaos one pair at a time. It reads like beats, but nothing in it changes.
+- **Loop a bicker.** Two characters trade the same objection four more times ("I'm not slow." / "You are." / "I'm thorough!") after the joke has already landed.
+
+**The beat test.** Every added beat must change at least one thing: a relationship shifts, the reader learns something new about a character, the situation escalates, or a question gets planted or answered. Before you keep a beat, name what it changed in one sentence. If you can't, cut it and pick another beat from the table above. A second model in the v2.1 test runs passed every rhythm gate but still padded this way, so rhythm gates alone don't catch it. This test does.
 
 **The check:** if you're short, look at your plan, not your sentences. Which section has only one beat? Split it, or give it a second. If the plan has fewer sections than the table above, add one from the list and write it at full quality.
 
@@ -315,6 +319,14 @@ Worked example: *Chapter 3: Do You Like Family Restaurants? 1*
 - **Situation:** Amamiya insists Kuze and Tachibana "make up" over dinner.
 - **Turn (section 3):** Kuze notices Amamiya seats himself beside Tachibana, orders food made for sharing, and never once asks Kuze a question. Kuze realizes he's the alibi that lets Amamiya eat alone with one girl without the others getting jealous.
 - **Hook:** That night on Chirp: `Haruto / Got these two to make up today, I'm kind of a genius lol / (Tap to view photo)`. The photo includes Kuze's hamburger. He never saw it being taken.
+
+### 9.1 Spend each payoff once
+
+A payoff (a reveal, a confession, a *here's what I noticed about each of you*) lands only the first time the reader sees it. In a v2.1 test chapter, the lead's private observations about each heroine were revealed three times: read aloud from his notebook, then again through gifts built on those same observations, then a third time in his closing speech. By the speech, the reader already knew every line, and the climax went flat. Both the reviewer and the metrics agreed that this was padding, even though each scene was well written.
+
+- **Decide where each payoff lands**, and give it one delivery.
+- **Earlier scenes may hint, never deliver.** The notebook can be *seen*, and the reader can glimpse one line, but it isn't read in full.
+- **If the same content has to appear twice, change its meaning the second time.** A callback transforms, and a repeat only restates.
 
 ---
 

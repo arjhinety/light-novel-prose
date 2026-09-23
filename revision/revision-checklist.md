@@ -28,7 +28,10 @@ Taste can be argued with. These cannot. **A draft that fails any gate is not del
 | **G4 Pure dialogue lines** | **0** paragraphs that mix a quote with narration, and **0** speech tags ([Dialogue Mechanics §2](../dialogue/dialogue-mechanics.md#2-the-pure-dialogue-line-hard-rule)) | The house layout; the user's explicit rule |
 | **G5 Dashes** | **0** dash asides in narration. Dashes appear only on cut-off speech or a thought that breaks off ([Anti-Robotic §3.13](anti-robotic.md#313-the-em-dash-cascade)) | Dash asides are the clearest Western-literary tell |
 | **G6 Tics** | No sentence construction or 5-word phrase repeated 3+ times (except deliberate leitmotifs, chants, and callbacks), and every [model tic](anti-robotic.md#25-model-specific-tics-found-in-test-runs) under its cap | Repeated constructions become a visible fingerprint |
-| **G7 Length** | At or above the requested word count, reached through beats (§3 below) | Short chapters break the request; padded ones break the voice |
+| **G7 Length** | At or above the requested word count, reached through beats that each pass the [beat test](../structure/chapter-and-section.md#81-reaching-length-the-right-way-r4) (§3 below) | Short chapters break the request; padded ones break the voice |
+| **G8 Speaker anchoring** | With 3+ characters present, every line that carries plot, information, or feeling passes the [speaker test](../dialogue/dialogue-mechanics.md#33-the-speaker-test-hard-rule-with-3-characters), and no more than **4** dialogue lines run without a narration paragraph | Pure dialogue lines remove tags; without anchors, group scenes turn into anonymous voices |
+| **G9 Contractions** | At least **50%** of the phrases in dialogue that could be contracted are contracted. Only characters designed as formal speak uncontracted ([Character Voices §6](../dialogue/character-voices.md#6-common-failures)) | An uncontracted cast sounds identical and machine-translated |
+| **G10 Crutch patterns** | "That's not X. That's Y." pairs ≤0.5 per 1,000 words; stock simile frames ≤1.0 per 1,000 words ([Anti-Robotic §2.5](anti-robotic.md#25-model-specific-tics-found-in-test-runs)); each payoff delivered once ([Chapter & Section §9.1](../structure/chapter-and-section.md#91-spend-each-payoff-once)) | In the v2.1 tests, an independent reviewer singled out both crutches as the clearest signs of AI writing |
 
 ### 2.1 Measuring with the script (if you can run code)
 
@@ -39,7 +42,7 @@ python tools/voice_metrics.py path/to/chapter.md
 python tools/voice_metrics.py path/to/chapter.md --json
 ```
 
-It reports words, dialogue ratio, narrative median, the percentage of sentences at 25+ words, mixed dialogue paragraphs, narration dashes, silent `"..."` lines, numbered sections, and repeated 5-gram tics, each with PASS/FAIL against the gates above. See [`tools/voice_metrics.py`](../tools/voice_metrics.py). The script is a measuring tape, not a judge: a draft can pass every gate and still be flat. The rubric (§5) handles that.
+It reports words, dialogue ratio, narrative median, the percentage of sentences at 25+ words, mixed dialogue paragraphs, narration dashes, repeated 5-gram tics, and the dialogue contraction share, each with PASS/FAIL against the gates above. It also reports silent `"..."` lines, numbered sections, and the longest run of consecutive dialogue lines, with a warning above 8. The script can't count speakers, so a warning in a two-person duet is fine, while a warning in a group scene means G8 needs a manual check. See [`tools/voice_metrics.py`](../tools/voice_metrics.py). The script is a measuring tape, not a judge: a draft can pass every gate and still be flat. The rubric (§5) handles that.
 
 ### 2.2 Measuring by hand (if you can't)
 
@@ -50,7 +53,9 @@ Estimate from **three random 300-word windows** (one from the first third of the
 3. **G4 Mixed paragraphs.** Don't sample for this one. Scan **every** paragraph that contains a quotation mark. If there's a single word outside the quote marks, it fails. Split it.
 4. **G5 Dashes.** Scan every narration paragraph for `--` or `—`. Each one must be a thought breaking off. Anything else gets rewritten.
 5. **G6 Tics.** Search the draft for the [§2.5 model tics](anti-robotic.md#25-model-specific-tics-found-in-test-runs) and for your own favorite constructions (*the way*, *something in*, *for once*, *the specific*). Count them.
-6. **G7 Length.** Count words, or estimate: lines × average words per line.
+6. **G7 Length.** Count words, or estimate: lines × average words per line. Then name, in one sentence each, what every section's beats changed. A beat you can't name is padding.
+7. **G8 Speaker anchoring.** In every scene with 3+ characters, cover the narration and read only the quotes. Mark each line that matters where you'd have to guess the speaker. Every mark gets an action paragraph.
+8. **G9 Contractions.** In one window, count *it is / I am / do not / that is*-type full forms in dialogue against contractions. If the full forms win, rewrite every non-formal character's lines.
 
 Write the numbers down. "It feels about half dialogue" is how the test chapters landed at 30%.
 

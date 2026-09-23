@@ -148,6 +148,10 @@ Test runs of this library found that different models carry different signature 
 | "the way [someone] does [something]" as a simile engine | "the way audiences watch a man test a parachute"; "the way court clerks read verdicts" | 1 per scene | Keep one per scene, and only when it's funnier than the plain version |
 | **Stacked novelty similes** | "looked like a science fair that had been told no" / "held their positions like suspects" / "like a kettle deciding against it" (three within a page) | **1 per scene** | Keep the single best one. Turn the rest into plain action |
 | Paragraph-ending wisdom | "Those weren't mutually exclusive either, in his experience." | 0 | End on a tilt (§3.12) |
+| **"That's not X. That's Y." negation pairs** | "That's not a sport, Karane. That's an ambush." / "That's not a disqualification, that's a medical situation." / "That's not science. That's just Tuesday." (7 in one v2.1 chapter, spread across four different characters) | **≤0.5 per 1,000 words** (about 2 per chapter) | A direct reaction in the speaker's own voice: Karane's outrage, Hina's "Eeeh?!", Kuze's single flat word |
+| **Western sitcom idioms** | "above her pay grade", "deputize", "that's just Tuesday", "same thing, different yen", "that's kind of the whole thing" | 0 in narration, rare in dialogue | Japanese-school texture: a teacher sighing *not again* in the staff room, a class rep's clipboard, a club senpai's warning |
+
+**Measuring:** [`tools/voice_metrics.py`](../tools/voice_metrics.py) counts negation pairs and the three stock simile frames (*with the [noun] of a...*, *the way a...*, *like a [noun] deciding...*) and fails a draft above 0.5 and 1.0 per 1,000 words. In the v2.1 test runs, Sonnet's signature was the negation pair (1.1 per 1k) and Qwen's was the simile frame (1.4 per 1k). Every model has one. Find yours with the tool, not by feel.
 
 **Why models do this:** each construction *sounds* observant and literary, so it gets rewarded in isolation. But the LN voice is observant through **content** (the seat position, the crossed-out seven on the price tag), not through **constructions** that announce observation. When you catch one of these, ask what concrete thing the POV actually saw, and write that.
 
@@ -291,6 +295,8 @@ Word lists catch the loud tells. The quiet ones are **shapes**. Each shape below
 
 **Fix:** Split every one. The quote stands alone. The action goes in the paragraph before or after it. Tags ("said", "asked", "whispered") are deleted outright, and if the speaker becomes unclear, sharpen the line's voice or add an action paragraph. Full rule and examples: [Dialogue Mechanics §2](../dialogue/dialogue-mechanics.md#2-the-pure-dialogue-line-hard-rule).
 
+**The over-correction:** after splitting, don't leave long runs of anonymous quotes. In v2.1 test runs, models that obeyed R1 perfectly then ran 11-13 untagged lines through five-person scenes, and the reader couldn't tell who said what. In group scenes, re-anchor at least every 4 lines ([the speaker test](../dialogue/dialogue-mechanics.md#33-the-speaker-test-hard-rule-with-3-characters)).
+
 > ✗ "It's just rice," Rin said, fast. "It's really nothing special."
 >
 > ✓ "It's just rice. It's really nothing special."
@@ -304,6 +310,16 @@ Word lists catch the loud tells. The quiet ones are **shapes**. Each shape below
 **Detect:** The draft hits the word count, but the narrative median is over 10 words, or more than 5% of narrative sentences run to 25 words or more.
 
 **Fix:** Length comes from **beats and scenes**, never from longer sentences. Add a new arrival, a second escalation, a quiet two-person moment, a cut-away, or a callback. See [Revision Checklist](revision-checklist.md) (the length procedure) and [Chapter & Section](../structure/chapter-and-section.md).
+
+**The second-order padding:** a model that has learned *add beats, not sentences* may add beats that change nothing, such as a bystander montage (unnamed students commenting, pair after pair) or a bicker that loops after the joke landed. Every added beat must pass the [beat test](../structure/chapter-and-section.md#81-reaching-length-the-right-way-r4): name what it changed, or cut it.
+
+### 3.18 The uncontracted cast
+
+**Shape:** Every character speaks in full forms: "It is an invitation." "I do not say that." "That is not how any of this works." The whole cast collapses into one stiff, translated-sounding voice.
+
+**Detect:** Count the phrases in dialogue that could be contracted. A v2.1 test chapter had 109 full forms against 11 contractions. The script reports this as *dialogue contractions*, and the gate is 50%.
+
+**Fix:** Contract by default. Keep full forms only for the one or two characters designed as formal (the ojou, a robot-voiced girl, the archaic otaku, a text-to-speech voice), where the stiffness is a tic that stands out against everyone else. See [Character Voices §6](../dialogue/character-voices.md#6-common-failures).
 
 ---
 

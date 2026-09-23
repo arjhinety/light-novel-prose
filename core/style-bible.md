@@ -83,6 +83,10 @@ Before delivering any chapter, check these. Every one is countable.
 | Mixed dialogue paragraphs (R1) | **0** | Hard rule |
 | Aside dashes in narration (R2) | **0** | Hard rule |
 | Repeated tic constructions | **No pattern 3+ times** in a chapter | Model-specific tics (e.g. *the specific X of someone who...*) read as robotic |
+| Speaker anchoring (3+ characters present) | **≤4** dialogue lines in a row without a narration paragraph, and every line that matters passes the [speaker test](../dialogue/dialogue-mechanics.md#33-the-speaker-test-hard-rule-with-3-characters) | R1 removes tags, so identity has to come back through action paragraphs, vocatives, and unique tics |
+| Dialogue contractions | **≥50%** of contractible phrases contracted | An uncontracted cast ("It is", "I do not") sounds identical and machine-translated |
+| "That's not X. That's Y." pairs | **≤0.5 per 1,000 words** | The most common model crutch in dialogue. It homogenizes every voice into sitcom snark |
+| Stock simile frames | **≤1.0 per 1,000 words** | *with the dignity of a collapsing empire* announces observation instead of observing |
 
 **How to check by hand** (no tools needed):
 1. Pick three random 300-word windows (beginning, middle, end).
@@ -90,8 +94,10 @@ Before delivering any chapter, check these. Every one is countable.
 3. Count the narration sentences and mark each one with 25+ words. More than one long sentence in a 300-word window is a warning, and more than two is a fail.
 4. Scan every paragraph that contains a `"`. If anything sits outside the quotes, it fails R1.
 5. Search for `--` and `—`. Each hit must be a cut-off, a broken thought, or a stamp.
+6. In every group scene, cover the narration and read only the quotes. Any line whose speaker you'd have to guess needs an action paragraph.
+7. In one window, count full forms (*it is, I do not*) against contractions in dialogue.
 
-**With code execution**, run the optional [voice metrics tool](../tools/voice_metrics.py), which reports all six gates with PASS/FAIL. Details on the revision loop are in [Revision Checklist](../revision/revision-checklist.md).
+**With code execution**, run the optional [voice metrics tool](../tools/voice_metrics.py), which reports the countable gates with PASS/FAIL and warns on long dialogue runs. Details on the revision loop are in [Revision Checklist](../revision/revision-checklist.md).
 
 **If a gate fails, fix it structurally.** If dialogue is low, convert reported speech and summary into live exchanges. If sentences run long, break the exhales into beats and keep one exhale per ~150 words. If length is short, add *beats and scenes* (an arrival, a second escalation, a quiet two-person moment), never adjectives or restated reflection.
 

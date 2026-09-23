@@ -105,7 +105,7 @@ Keep, unitalicized, where natural: honorifics, senpai/kouhai, bento, itadakimasu
 ## J2. POV temperaments and fan fiction
 
 - The analytical engine works for any POV. Re-aim it: a **cynical loner** reads motives and suspects; a **sincere harem lead** notices the tiny effort each girl made and names it; a **genki** POV reads fun and escalates; an **anxious** POV reads threats and catastrophizes; a **schemer** reads leverage. The rhythm rules stay the same.
-- **Fan fiction / existing series:** first write a canon sheet per character (look, speech style, what they call others, core trait, running gags). Only include facts you're confident of. When unsure, leave the detail out rather than invent. Follow the source's naming (given names if the series uses them) and tone. Never give example-cast traits to canon characters, and never present invented characters or props as canon.
+- **Fan fiction / existing series:** first write a canon sheet per character (look, speech style, what they call others, core trait, running gags). Only include facts you're confident of. When unsure, leave the detail out rather than invent. If a *main* character's core trait, speech mode, or form of address is uncertain, ask the user one short question before drafting. Match the source's **energy level** and comedy engine too: sincere doesn't mean calm, and a loud, tearful lead stays loud and tearful. Follow the source's naming (given names if the series uses them) and tone. Never give example-cast traits to canon characters, and never present invented characters or props as canon.
 
 ## K. Genre dials
 
@@ -138,7 +138,7 @@ Banned phrases and habits:
 1. **Bible:** confirm or invent the cast (look, tic, address forms, want, wound) and the POV's core question. For continuations, extract all of it from the user's text first.
 2. **Plan:** situation, turn, hook, and numbered sections.
 3. **Draft** in the voice.
-4. **Revise against measurable gates:** dialogue is 40-55% of words; the narrative sentence median is ≤10 words; ≤5% of narrative sentences are 25+ words; there are 0 paragraphs mixing speech and narration; there are 0 dash asides in narration; no construction repeats 3+ times. Then do the banned-phrase sweep, the tilt check at each section end, and the honorific check.
+4. **Revise against measurable gates:** dialogue is 40-55% of words; the narrative sentence median is ≤10 words; ≤5% of narrative sentences are 25+ words; there are 0 paragraphs mixing speech and narration; there are 0 dash asides in narration; no construction repeats 3+ times; in scenes with 3+ characters, no more than 4 dialogue lines run without a narration paragraph and every line that matters has an identifiable speaker; at least half the contractible phrases in dialogue are contracted (only designed-formal characters speak uncontracted); every added beat changes something; "That's not X. That's Y." pairs stay under 0.5 per 1,000 words and stock simile frames ("with the dignity of a...", "the way a...") under 1.0 per 1,000; each payoff is delivered once. Then do the banned-phrase sweep, the tilt check at each section end, and the honorific check.
    **Reach length with beats, not padding:** if you're short, add a scene (a new arrival, a second escalation, a quiet two-person moment, a cut-away), never longer sentences or restated reflection. 5,000 words ≈ 6-8 numbered sections.
 5. **Deliver pure prose:** a chapter heading and numbered sections. No preamble and no afterword. If you invented bible details, list them in 2-4 lines after a `---`.
 

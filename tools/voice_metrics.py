@@ -15,6 +15,12 @@ Gates (see revision/revision-checklist.md):
     mixed dialogue paragraphs = 0     (R1: pure dialogue lines)
     dash asides in narration = 0      (R2: dashes only for cut-offs)
     repeated tics (5-grams x3+) = 0
+    dialogue contraction share >= 50%
+    "That's not X. That's Y." pairs <= 0.5 per 1,000 words
+    stock simile frames ("with the dignity of a...", "the way a...") <= 1.0 per 1,000 words
+Warnings (manual check, not gates):
+    longest dialogue run > 8 lines   fine for a two-person duet with distinct voices;
+                                     with 3+ speakers, re-anchor at least every 4 lines
 """
 import argparse
 import json
@@ -25,6 +31,18 @@ from collections import Counter
 
 QUOTE_RE = re.compile(r'"[^"\n]*"|“[^”\n]*”')
 DASH_RE = re.compile(r"--|—")
+CONTR_RE = re.compile(r"\b\w+['’](?:s|re|ll|ve|d|t|m)\b", re.I)
+FULL_RE = re.compile(r"\b(?:it is|that is|there is|what is|i am|you are|we are|they are|he is|she is|"
+                     r"do not|does not|did not|is not|are not|was not|cannot|can not|will not|"
+                     r"would not|could not|should not|i will|you will|i have|i would)\b", re.I)
+# "That's not X. That's Y." negation-pair crutch (and "It isn't X. It's Y.")
+NXY_RE = re.compile(r"\b(?:that'?s|it'?s|that is|it is|this is)\s+not\b[^.!?\n\"”]{1,60}[.,;!]\s*(?:that'?s|it'?s|that is|it is|this is)\b"
+                    r"|\b(?:that|it|this) isn'?t\b[^.!?\n\"”]{1,60}[.,;!]\s*(?:that'?s|it'?s|it is|that is)\b"
+                    r"|\bnot \w+(?: \w+){0,3}[.,] (?:just )?\w+(?: \w+){0,3}\.(?=\s*$)", re.I | re.M)
+# Stock simile frames: "with the dignity of a...", "the way a pilot looks...", "like a kettle deciding..."
+SIM_RE = re.compile(r"\bwith the (?:\w+ )?\w+ of (?:a|an|someone|somebody|a man|a girl)\b"
+                    r"|\bthe way (?:a|an|someone|people|you) \w+"
+                    r"|\blike (?:a|an) (?:\w+ ){0,2}(?:that|who|being|trying|deciding|asking)\b", re.I)
 WORD_RE = re.compile(r"[A-Za-z0-9']+")
 STOP = set("""a an the and or but so of to in on at for with by from as is was were be been
 it its he she they them his her their him i you we me my your our this that these those
@@ -69,6 +87,8 @@ def analyze(path, introspective=False):
     sections = 0
     dash_total = 0
     dash_asides = 0
+    run = longest_run = 0
+    contr = full = 0
 
     for p in paras:
         words = WORD_RE.findall(p)
@@ -77,6 +97,12 @@ def analyze(path, introspective=False):
             sections += 1
             continue
         quotes = QUOTE_RE.findall(p)
+        is_pure = bool(quotes) and not WORD_RE.search(QUOTE_RE.sub("", p))
+        run = run + 1 if is_pure else 0
+        longest_run = max(longest_run, run)
+        for q in quotes:
+            contr += len(CONTR_RE.findall(q))
+            full += len(FULL_RE.findall(q))
         if quotes:
             dialogue_words += sum(len(WORD_RE.findall(q)) for q in quotes)
             if all(re.fullmatch(r'["“](\.\.\.|…)["”]', q) for q in quotes) and \
@@ -110,6 +136,11 @@ def analyze(path, introspective=False):
         key=lambda x: -x[1])
 
     ratio = dialogue_words / total_words if total_words else 0.0
+    contr_share = contr / (contr + full) if (contr + full) else 1.0
+    nxy = len(NXY_RE.findall(body))
+    sim = len(SIM_RE.findall(body))
+    per_k = 1000 / total_words if total_words else 0
+    nxy_rate, sim_rate = nxy * per_k, sim * per_k
     floor = 0.35 if introspective else 0.40
     gates = {
         "dialogue_ratio": floor <= ratio <= 0.55,
@@ -118,6 +149,9 @@ def analyze(path, introspective=False):
         "mixed_dialogue_paragraphs": len(mixed) == 0,
         "dash_asides": dash_asides == 0,
         "repeated_tics": len(tics) == 0,
+        "contractions": contr_share >= 0.5,
+        "negation_pairs": nxy_rate <= 0.5,
+        "stock_similes": sim_rate <= 1.0,
     }
     return {
         "file": path,
@@ -133,6 +167,13 @@ def analyze(path, introspective=False):
         "silent_lines": silent,
         "numbered_sections": sections,
         "repeated_tics": tics[:10],
+        "longest_dialogue_run": longest_run,
+        "contraction_share": round(contr_share, 3),
+        "negation_pairs": nxy,
+        "negation_pairs_per_1k": round(nxy_rate, 2),
+        "stock_similes": sim,
+        "stock_similes_per_1k": round(sim_rate, 2),
+        "warnings": ([f"longest dialogue run is {longest_run} lines: if 3+ characters speak in it, re-anchor speakers at least every 4 lines"] if longest_run > 8 else []),
         "gates": gates,
         "pass": all(gates.values()),
     }
@@ -153,8 +194,14 @@ def report(r):
     print(f"  repeated 5-gram tics      {len(r['repeated_tics'])}   [{ok(g['repeated_tics'])}]")
     for t, c in r["repeated_tics"][:5]:
         print(f"      x{c}  {t}")
+    print(f"  longest dialogue run      {r['longest_dialogue_run']} lines   [{'WARN' if r['warnings'] else 'ok'}]")
+    print(f"  dialogue contractions     {r['contraction_share']:.0%}   [{ok(g['contractions'])}]")
+    print(f"  not-X-that's-Y pairs      {r['negation_pairs']} ({r['negation_pairs_per_1k']}/1k)   [{ok(g['negation_pairs'])}]")
+    print(f"  stock simile frames       {r['stock_similes']} ({r['stock_similes_per_1k']}/1k)   [{ok(g['stock_similes'])}]")
     print(f"  silent \"...\" lines        {r['silent_lines']}")
     print(f"  numbered sections         {r['numbered_sections']}")
+    for w in r["warnings"]:
+        print(f"      warning: {w}")
     print(f"  OVERALL                   {'PASS' if r['pass'] else 'FAIL'}")
 
 

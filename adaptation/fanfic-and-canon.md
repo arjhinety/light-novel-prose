@@ -26,7 +26,7 @@ Do these steps in order, before drafting a single sentence of prose:
 
 1. **Identify the source.** Name the series, its medium (manga, LN, anime, game), and, if relevant, the translation you're following (official localization or fan translation, since names and honorifics differ).
 2. **Pick the cast** for this chapter. Fewer is safer. Three well-drawn canon characters beat seven vague ones.
-3. **Write a canon sheet for each character** (§3), with confidence markers (§4).
+3. **Research, then write a canon sheet for each character** (§3), with confidence markers (§4). If your environment can browse or read files, look up each character first (a wiki page, a character profile), and note which lookups failed. **Canon confidence gate:** if any *main* character's core trait, speech mode, or form of address is still marked unsure after research, don't guess. Ask the user one short question ("How does Shizuka talk to Rentarou: through her phone's text-to-speech, in her own voice, or both?"), or drop that character from the chapter. In the test runs, models that guessed produced a cat-girl version of a stoic character and gave a shy girl a nickname she'd never use, and both reviewers ranked canon accuracy as the worst failure.
 4. **Record the source's conventions** (§5): name order, narration naming, honorifics, POV style, and tone.
 5. **Decide the POV temperament.** If the source's protagonist isn't a cynical loner, load [POV Temperaments](../core/pov-temperaments.md) and re-aim the monologue engine to match.
 6. **Place the chapter in the timeline** (§10): after which events, and which relationships exist yet.
@@ -124,6 +124,14 @@ The LN mechanics (short beats, pure dialogue lines, silence beats, numbered sect
 | Melodrama / tearjerker | Silence beats, simple repetition at peaks | Slow the long exhales, and cut the meta-humor |
 
 The rule of thumb: **the source decides *what* is felt, and the library decides *how* it reads on the page.** If a source's protagonist is relentlessly sincere, a chapter in which he's suspicious of the heroines is out of character no matter how good the suspicion sounds.
+
+**Match the energy level, not just the emotion.** *Sincere* doesn't mean *calm*. In the test runs, both models wrote a sincere lead from a high-energy harem comedy as a quiet, dry observer who sighed at the chaos and delivered his love speech like a detective summing up a case. The source's lead shouts his devotion, cries at the drop of a hat, and throws himself bodily into every absurd crisis. Record three dials on the canon sheet and write to them:
+
+| Dial | Question | Failure if ignored |
+|---|---|---|
+| **Energy** | Does the lead underreact (deadpan) or overreact (screams, tears, full-body commitment)? | A loud source rendered as a quiet one |
+| **Comedy engine** | Is the humor deadpan understatement, boke and tsukkomi (one character acts absurd, another shouts the correction), or reality-breaking escalation? | Western sitcom banter ("That's not X, that's Y") replacing the source's style of gag |
+| **Scale of absurdity** | Do problems stay realistic, or can a potion, a machine, or a god turn the whole school upside down? | A tipped milkshake as the climax of a series where the climaxes are explosions |
 
 For a sincere lead specifically, the analytical engine doesn't disappear. It turns around: instead of noticing the asymmetry that suggests a hidden motive, he notices the tiny thing each heroine did for him that nobody else caught. See [POV Temperaments](../core/pov-temperaments.md) for the full treatment.
 

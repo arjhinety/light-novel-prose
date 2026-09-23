@@ -151,8 +151,11 @@ Nobody is named, and the reader never gets lost. That works for three reasons:
 | Two speakers, distinct voices | 6-10 | Alternation carries it |
 | Two speakers, similar voices (two polite girls) | 3-4 | Readers lose count; reanchor with an action paragraph |
 | Three speakers | 3-4, then reanchor | Alternation breaks down |
-| Group of 4-6 | Unlimited *if* it's chatter meant to blur (see §5) | The blur is the point |
+| Group of 4-6, **throwaway chatter** | A burst of up to 6 lines, then one narration paragraph (see §5) | The blur is the point, but only for lines that carry no plot, information, or feeling |
+| Group of 4-6, **any line that matters** | Every such line must pass the speaker test (§3.3) | A plot line from an unknown mouth is a lost line |
 | A line that breaks the alternation (same speaker twice) | Put an action paragraph between the two lines | Otherwise the reader assigns it wrong |
+
+**The chatter exception is narrow.** Test runs of this library showed models treating an entire five-person scene as "chatter" and running 11-13 lines without a single anchor, so the reader couldn't tell who proposed the plan, who objected, or who made the joke. A multi-character scene is not a chatter burst. A burst is a handful of interchangeable reaction lines ("No way!" / "Seriously?" / "Again?!"), and then the scene gets its speakers back.
 
 ### 3.2 Reanchoring with an action paragraph
 
@@ -167,6 +170,21 @@ When a stack runs long, drop in **one narration paragraph** that names the next 
 > "My. You remember my name. How touching."
 
 The action paragraph is also a chance to *characterize*. Sayo's hair flick says "I have won" without her saying it. That's two jobs for one line, which is the efficiency the voice depends on.
+
+### 3.3 The speaker test (hard rule with 3+ characters)
+
+The pure-dialogue rule (§2) takes tags out of the quote. That means you **must** put identity back some other way, or the stack turns into anonymous voices. With three or more characters in a scene, every line that carries plot, information, or feeling must be attributable by at least one of these cues, checked in this order:
+
+1. **An action paragraph** naming the speaker, directly before the line (best), or directly after it.
+2. **A vocative or answer cue in the line itself.** "Hina, stop." tells us who is being spoken to, and the next line is Hina. "*You* wrote the rules!" is aimed at the rule-writer.
+3. **A tic only one character owns.** "Fueee~", "My.", "verily", "Mufufu", a text-to-speech phone voice, a stopwatch reading. This works only if the tic is truly unique in the scene.
+4. **Strict two-person alternation** that has already been established, inside a scene where the others are clearly silent.
+
+**Run the test.** Cover the narration and read only the quotes. For every line that matters, can you name the speaker? If you have to guess, add an action paragraph. A practical ceiling: **with 3+ speakers, never more than 4 consecutive dialogue lines without a narration paragraph.** A duet between two characters with distinct voices can run far longer.
+
+**Don't over-correct into tags in disguise.** The fix isn't a narration paragraph that only says "Karane said this." It's a real beat: Karane planting her hands on the table, Nano clicking her stopwatch. Those paragraphs characterize, pace the scene, and anchor the speaker at the same time.
+
+**Measuring it:** [`tools/voice_metrics.py`](../tools/voice_metrics.py) reports the longest run of consecutive dialogue lines and warns above 8. The warning is harmless in a two-person duet, but in a group scene it means the speaker test almost certainly fails.
 
 ## 4. Attribution: actions over verbs
 

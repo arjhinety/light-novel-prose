@@ -309,6 +309,10 @@ The dials transfer; the vocabulary changes.
 | **Same-sounding girls** | Two heroines both say "Ugh, jeez!" | Unshared tokens; different sentence lengths |
 | **The POV quips too much** | Kuze has a zinger every line | Cut half; replace with "..." or "Sure." |
 | **Western slang anachronism** | "Yeet", "no cap" in a Japanese high school | Use timeless teen slang: "seriously", "no way", "for real" |
+| **The uncontracted cast** | Everyone says "It is", "I do not", "That is not how it works" | Contractions are the default for every teenager. See below. |
+| **Shared gag lines** | Two different characters get the same comeback ("That wasn't a compliment." / "I'm taking it as one.") | A comeback pattern belongs to one character. Give the second character their own dodge. |
+
+**Why the uncontracted cast fails.** In a test run, one model wrote a whole five-heroine chapter where the dialogue used 109 full forms ("It is", "I do not") against 11 contractions. Every girl sounded the same, and all of them sounded like a translation engine. English teenagers contract. A formal register ("I do not believe that is correct.") is a **character trait**: the ojou, the robot-voiced girl, the archaic otaku, a text-to-speech phone voice. It works only when it's rare, because it reads as formal only against everyone else's contractions. Rule of thumb: **at least half of the phrases in dialogue that could be contracted should be** (the metric is in [`tools/voice_metrics.py`](../tools/voice_metrics.py)), and at most one or two characters per scene speak uncontracted, on purpose.
 
 ## 7. Checklist
 
@@ -319,6 +323,8 @@ The dials transfer; the vocabulary changes.
 - [ ] Each character's pressure modes are known, and their "tic disappears" moment is planned.
 - [ ] No phonetic dialect, no "desu" or "nya" unless the story is parody.
 - [ ] Two-faced characters switch registers without narrator commentary the first time.
+- [ ] Dialogue contracts by default. Only the characters designed as formal speak uncontracted.
+- [ ] No comeback pattern or running gag is shared by two characters.
 
 ## 8. Worked exercise: one situation, eight voices
 

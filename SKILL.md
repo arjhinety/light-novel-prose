@@ -3,7 +3,7 @@ name: light-novel-prose
 description: Write, continue, plan, or revise fiction in the voice of a translated Japanese light novel / web novel. Covers the anime-style school rom-com and drama default (cynical close-third POV, short rhythmic beats, stacked banter, honorifics) and adapts it to harem, comedy, ecchi (adults only), fantasy, isekai, villainess/otome, action, mystery/horror, sports/idol, romance/melodrama, and slice-of-life. Includes full character-stereotype guides (tsundere, yandere, kuudere, dandere, onee-san, gyaru, childhood friend, and so on), POV temperaments (cynical loner, sincere harem lead, genki, anxious, schemer), and a fan-fiction protocol for writing in existing series. Use whenever the user wants anime-style, Japanese-style, LN, or web-novel prose, or wants fiction to sound less robotic.
 license: MIT
 metadata:
-  version: "2.1"
+  version: "2.2"
   portability: "Provider-agnostic. Plain Markdown with relative links and no tool calls required. Works as an Agent Skill (SKILL.md standard), an AGENTS.md / rules include, or a pasted system prompt (see PROMPT.md)."
 ---
 
@@ -56,7 +56,7 @@ If your context is tight, [PROMPT.md](PROMPT.md) is a condensed, self-contained 
 
 ### Step 1: Bible
 - **New story:** ask at most three short questions (genre, the POV character's defining flaw, setting). If the user says "just write", invent answers. Fill [templates/story-bible.md](templates/story-bible.md), which covers visual signatures, speech tics, address forms, and the POV's core question.
-- **Existing series (fan fiction):** fill a canon sheet per character from [adaptation/fanfic-and-canon.md](adaptation/fanfic-and-canon.md). Follow the source's naming (given names vs surnames), speech styles, and tone. Mark what you're unsure of and leave it out rather than invent.
+- **Existing series (fan fiction):** research each character if you can, then fill a canon sheet from [adaptation/fanfic-and-canon.md](adaptation/fanfic-and-canon.md). Follow the source's naming (given names vs surnames), speech styles, tone, and **energy level** (a loud, tearful lead stays loud and tearful). If a main character's core trait, speech mode, or form of address is still uncertain, ask the user one short question or leave that character out. Never guess.
 - **Continuation:** read the prior text first. Extract names, honorifics in use, running jokes, leitmotifs, and open questions. Never silently contradict an established address form.
 
 ### Step 2: Plan
@@ -93,6 +93,12 @@ Run [revision/revision-checklist.md](revision/revision-checklist.md): the banned
 | Paragraphs mixing dialogue and narration | 0 |
 | Dash asides in narration | 0 |
 | Any phrase or construction repeated 3+ times | 0 (except deliberate leitmotifs) |
+| Group scenes (3+ characters): dialogue lines in a row without a narration paragraph | ≤4, and every line that matters has an identifiable speaker |
+| Contractible phrases in dialogue that are contracted | ≥50% (only characters designed as formal speak uncontracted) |
+| Added beats | each one changes something (a relationship, a reveal, an escalation) |
+| "That's not X. That's Y." pairs | ≤0.5 per 1,000 words |
+| Stock simile frames ("with the dignity of a...", "the way a...") | ≤1.0 per 1,000 words |
+| Each payoff (reveal, confession, "what I noticed about you") | delivered once, not repeated |
 
 With code execution, run `python tools/voice_metrics.py <chapter.md>`. Without it, estimate by hand from three random 300-word windows, as described in the checklist.
 

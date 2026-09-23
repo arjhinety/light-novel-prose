@@ -658,11 +658,15 @@ The vice principal cleared his throat for the third time.
 
 "It's the only one I've got, sir."
 
+The vice principal's pen turned toward the other chair.
+
 "And you, Hoshino-san. You say none of this began with you?"
 
 "It didn't! It was just a joke that got out of hand! Everyone was doing it, not just me! And *he* grabbed my phone!"
 
 "A joke. Four days of it?"
+
+Hoshino's knee was bouncing.
 
 "Sensei, you weren't *there*, you don't know what she's like! She looks down on all of us! She says she hates guys and then she's all over Amamiya-kun, and then she's all over *him*--"
 
