@@ -313,6 +313,8 @@ For every plant, answer three questions before delivering:
 
 If any answer is "it can't have happened", move the plant earlier (she practiced at home and brought the evidence in her bag), or give the POV a reason to be out of the room.
 
+**Keep a ledger of counts.** In the v2.2 tests, every model broke a count: a candy tray went from five to six to one while only one candy was eaten, the lead looked at *all four* of five girls, one burnt egg became twelve, and a group chat of 100 girlfriends messaged as 97. Before delivering, list every counted thing (people in the room, objects in a tray, items bought, minutes elapsed) and walk the chapter once, updating each count at every change. Any count that doesn't add up gets fixed.
+
 ## 11. Continuation-specific checks
 
 When continuing someone else's text (or your own from an earlier session), add these to Pass 6:

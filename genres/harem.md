@@ -126,6 +126,23 @@ Notice what never happens: no dialogue shares a line with narration, the lead ne
 
 **Writing an existing series' sincere lead** (fan fiction)? Build the canon sheet first with [Fan Fiction & Canon](../adaptation/fanfic-and-canon.md). Canon leads have canon verbal habits and canon ways of loving, and those beat any generic template.
 
+### 4.5 Don't default to the roll-call finale
+
+In the v2.1 and v2.2 test runs, **every one of six chapters** (three models, two rounds) ended the same way: the girls argue, then the lead goes down the line naming one hidden thing about each girl, and each blushes in turn. It works once. As a default, it's a checklist, and an independent reviewer called it exactly that: *a rigid, repetitive cycle... like a checklist rather than an organic scene*.
+
+Pick the climax shape on purpose. Some alternatives:
+
+| Shape | How it plays |
+|---|---|
+| **The interrupted roll-call** | He starts the list, and the girls hijack it by naming each other's hidden efforts before he can |
+| **One deep, the rest implied** | The climax belongs to one heroine. The others get their beat earlier, in the body of the chapter, so the ending isn't a queue |
+| **The group reveal** | One discovery (an object, a message, a photo) exposes all of them at once, and the chaos is the confession |
+| **The reversal** | The girls do the noticing, and the lead is the one exposed |
+| **The action answer** | He doesn't make a speech. He does one thing that answers all of them (orders all five dishes, drags six chairs into one row) |
+| **The meta roll-call** | He knows he's about to do the roll-call, and says so. They call it a speech. It becomes a joke, and then it gets sincere anyway (one test chapter did this, and it was the freshest ending of the round) |
+
+If you do use a roll-call, **interleave it**: let each girl react to the *next* girl's beat, not just her own, so the scene stays a group scene instead of five one-on-ones in a row.
+
 ## 5. Group scenes
 
 Harem group scenes are the genre's signature and the hardest to write.

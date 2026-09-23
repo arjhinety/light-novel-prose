@@ -576,7 +576,7 @@ She punched his arm. Again, not very hard.
 
 4
 
-Rin finally opened her own lunch. The same food, only neater. She ate the karaage with the brisk efficiency of a soldier.
+Rin finally opened her own lunch. The same food, only neater. She ate the karaage in four brisk bites.
 
 "Okay. So here's the deal."
 

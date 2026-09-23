@@ -43,7 +43,8 @@ NXY_RE = re.compile(r"\b(?:that'?s|it'?s|that is|it is|this is)\s+not\b[^.!?\n\"
 SIM_RE = re.compile(r"\bwith the (?:\w+ )?\w+ of (?:a|an|someone|somebody|a man|a girl)\b"
                     r"|\bthe way (?:a|an|someone|people|you) \w+"
                     r"|\blike (?:a|an) (?:\w+ ){0,2}(?:that|who|being|trying|deciding|asking)\b"
-                    r"|\blike (?:a|an) \w+ \w+s (?:a|an|the|his|her|their)\b", re.I)
+                    r"|\blike (?:a|an) \w+ \w+s (?:a|an|the|his|her|their)\b"
+                    r"|\blike (?:she|he|they|someone|somebody) (?:was|were|had|'d) (?:\w+ ){0,2}\w+ing (?:a|an|the|out|up)\b", re.I)
 WORD_RE = re.compile(r"[A-Za-z0-9']+")
 STOP = set("""a an the and or but so of to in on at for with by from as is was were be been
 it its he she they them his her their him i you we me my your our this that these those
