@@ -302,6 +302,17 @@ After its first pass, a 3,200-word draft of "Chapter 4: Do You Like Family Resta
 
 **Rescore:** Inner monologue 5, Non-robotic 4, Rhythm 4 (the new spiral broke the monotone run), Structure 5. **Total 42.** Deliver.
 
+## 10.5 Plant logistics (coherence check)
+
+Planted clues are this voice's best payoffs: three burnt omelets in the bin, a hidden first batch in the fridge, a guarded "boring" pot. An independent reviewer caught a test chapter whose best plant was physically impossible. The girl had arrived with raw groceries while the POV watched the kitchen all evening, yet three of her failed omelets were already in his bin, still warm.
+
+For every plant, answer three questions before delivering:
+1. **When** did the character do it? Name the moment on the chapter's timeline.
+2. **Where was the POV** at that moment, and why didn't he see it?
+3. **Is it still in the state the text claims** (warm, wet, hidden) when it's found?
+
+If any answer is "it can't have happened", move the plant earlier (she practiced at home and brought the evidence in her bag), or give the POV a reason to be out of the room.
+
 ## 11. Continuation-specific checks
 
 When continuing someone else's text (or your own from an earlier session), add these to Pass 6:
