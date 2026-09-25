@@ -105,6 +105,13 @@ In the last pair, the split quote becomes two separate lines with the gesture be
 
 - **Quoted-back phrases inside narration.** When the POV dissects something someone said, the phrase goes in *italics*, not quotation marks, so every quotation mark on the page stays live speech. For example: Not *they made up*. *I got them* to make up.
 - **In-world text.** Texts, Chirp posts, phone text-to-speech, and signs use their own block formatting (see [Social Media & Texts](../setting/social-media-and-texts.md)).
+- **A device's voice (text-to-speech, a recording, a robot).** The quote holds only what the device actually says aloud. Attribution goes in its own narration paragraph, never inside the quote. `"'The flower does not decide,' the book said."` fails, because it reads as if the phone is also saying *the book said*. Write it this way instead:
+
+  > Shizuka tapped her screen. The speaker read a line from her book.
+  >
+  > "The flower does not decide. It is a witness."
+
+  If the device quotes a published source, the narration can say so once per scene ("a line from her book"). After that, the reader knows where the voice is coming from.
 - **Unison lines.** `"""Guess so."""` is still a pure dialogue line.
 - **Documentation prose.** Tables, bullet lists, and analysis in these reference files may quote lines inline. The rule governs *story prose and example passages*.
 
