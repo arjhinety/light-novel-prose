@@ -210,13 +210,13 @@ End sections on the punchline or the reaction to it, not on a summary. The [sect
 | **Shared umbrella** | Physical closeness in a small space, dialogue about anything but the closeness, one shoulder getting wet | The wet shoulder is explained as a gesture of love. Let the reader notice. |
 | **Homemade bento** | The lunch reveals knowledge (his favorite side dish), and the maker denies effort | It becomes a cooking-description scene |
 | **Study session at her house** | A parent or sibling interrupts at the worst moment, and the room reveals a secret hobby | Nothing is interrupted, nothing is revealed |
-| **Accidental fall into a compromising position** | Very brief, instantly interrupted, played for panic rather than for bodies | It lingers, or describes bodies. See [Ecchi](ecchi-and-fanservice.md). |
+| **Accidental fall into a compromising position** | Held long enough to be legible, with the panic real and the reaction doing the work; adult casts can let it continue | It has no reaction and no consequence, so the beat is furniture moving. See [Ecchi](ecchi-and-fanservice.md). |
 | **Jealousy misread** | Character A is jealous, character B reads it as anger at something else | The narrator correctly reads it in narration, which kills the comedy |
 | **The confession interrupted** | By a bell, a sneeze, a passing Gon, a gust of wind; the interrupted person is secretly relieved | It's interrupted five chapters in a row, so vary the method and raise the cost |
 | **Name slip** | Someone accidentally uses a first name, then denies it | Nobody reacts. Name changes are plot. See [Honorifics](../dialogue/honorifics-and-address.md). |
 | **Festival date that isn't a date** | Both insist it's not a date while doing every date activity | The narration calls it a date. Let the characters' denials do it. |
 | **The rival's challenge** | Absurd contests (who can eat more curry bread) with genuine feeling underneath | The contest becomes serious sports writing |
-| **Beach/pool episode** | Comedy of logistics (sunscreen politics, a lost sandal, a watermelon-splitting disaster) | It becomes a swimsuit catalogue. Minors never get physical description. See [Ecchi §1](ecchi-and-fanservice.md#1-the-hard-safety-rule-read-first). |
+| **Beach/pool episode** | Comedy of logistics (sunscreen politics, a lost sandal, a watermelon-splitting disaster); adult casts also get the swimsuits, the sunscreen hands, and the strap that comes loose | The scene becomes a body inventory with no joke and no relationship beat under it. See [Ecchi §6](ecchi-and-fanservice.md#6-the-classic-episodes). |
 
 ## 7. Scene recipes
 
@@ -413,5 +413,5 @@ See [Character Voices](../dialogue/character-voices.md) for full line banks and 
 8. **Physical comedy consequence-free** and not repetitive: is the same smack used no more than once per chapter?
 9. **Trope awareness:** is each trope either commented on by the narrator or subverted?
 10. **Callback ledger updated:** any new plant recorded in the story bible?
-11. **Age rule:** any physical-comedy beat involving minors is non-sexual and non-descriptive. See [Ecchi §1](ecchi-and-fanservice.md#1-the-hard-safety-rule-read-first).
+11. **Content rule:** adults are unrestricted; characters who are minors get no sexual rendering at all. See [Ecchi §1](ecchi-and-fanservice.md#1-the-content-line).
 12. Run [Anti-Robotic](../revision/anti-robotic.md): no tricolon stacking, no "a comedic misunderstanding ensued", no "couldn't help but laugh".

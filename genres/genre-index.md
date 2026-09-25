@@ -29,7 +29,7 @@ If you ever find yourself writing a genre chapter that could have come from a ge
 | [School Drama & Slice of Life](school-drama-and-slice-of-life.md) | Social hierarchy, bullying, loneliness, quiet everyday chapters | The default. Everything else is measured against it. |
 | [Rom-Com & Comedy](romcom-and-comedy.md) | Misunderstanding engines, tsukkomi/boke, gag timing, escalation, callbacks | Comedy high, introspection medium, pace fast |
 | [Harem](harem.md) | Multiple heroines, differentiation, the lead's likability, best-girl wars, reverse harem | Cast management high, comedy high, jealousy analysis high |
-| [Ecchi & Fanservice](ecchi-and-fanservice.md) | Lucky-accident comedy, beach and hot-spring episodes, teasing, restraint | Comedy high, **strict age rule**, fade-and-punchline |
+| [Ecchi & Fanservice](ecchi-and-fanservice.md) | Lucky-accident comedy, beach and hot-spring episodes, teasing, undressing, explicit adult scenes at full strength | Comedy high, description raised for adult casts, punchline cut or full delivery — the register chooses |
 | [Romance & Melodrama](romance-and-melodrama.md) | Slow burn, tearjerkers, workplace/adult romance, long distance | Comedy low, sensory detail up, rhythm slower |
 | [Fantasy](fantasy.md) | High fantasy, magic academies, guilds | Worldbuilding through dialogue, exposition discipline |
 | [Isekai & Reincarnation](isekai-and-reincarnation.md) | Transport openings, status windows, OP leads, slow life, reincarnated-as-X | Meta awareness high, modern-knowledge narrator |
@@ -51,7 +51,7 @@ Think of each genre as a mixing-board preset. The eight dials:
 1. **Introspection density.** What share of narration is the POV character's analysis versus reported action. The home setting is high: whole paragraphs of "Was it...? Or was it...?"
 2. **Comedy ratio.** How often a scene resolves on a joke, an underreaction, or a tsukkomi.
 3. **Beat length.** The average sentence length and the frequency of one-line paragraphs. Action drives it down. Romance and melodrama let it drift up, but only in *flow* (more connectives, longer exhales at quiet moments). Every genre still has to pass the measurable gates in [Revision Checklist](../revision/revision-checklist.md): narrative median at or below 10 words, and no more than 5% of narrative sentences at 25 words or more. A "4" on this dial means more exhales, not a different voice.
-4. **Description density.** How much space scenery and bodies get. The home setting is portrait-first and scenery-light. Fantasy raises scenery, and ecchi comedy is tightly *controlled* rather than raised.
+4. **Description density.** How much space scenery and bodies get. The home setting is portrait-first and scenery-light. Fantasy raises scenery. Ecchi raises bodies for adult casts and stays controlled when the cast is young.
 5. **Cast breadth.** How many named characters share a scene. A harem scene often holds five or more. Melodrama often holds two.
 6. **Meta awareness.** How often the narrator notices the genre he is standing in. This is highest in isekai and rom-com and nearly zero in horror.
 7. **Stakes register.** Social (reputation, belonging), romantic (who likes whom), physical (injury, death), or existential (identity, memory).
@@ -66,7 +66,7 @@ Values are relative to the home setting (school drama), which is the baseline of
 | School drama / SoL | 3 | 3 | 3 | 3 | 3 | 2 | Social | 4 |
 | Rom-com | 3 | 5 | 2 | 2 | 3 | 4 | Romantic | 3 |
 | Harem | 3 | 4 | 2 | 3 | 5 | 4 | Romantic + social | 3 |
-| Ecchi comedy | 2 | 5 | 2 | 3 (controlled) | 4 | 4 | Embarrassment | 2 |
+| Ecchi comedy | 2 | 5 | 2 | 3-5 (register) | 4 | 4 | Embarrassment | 2 |
 | Romance / melodrama | 4 | 2 | 4 | 4 | 2 | 1 | Romantic + existential | 5 |
 | Fantasy | 3 | 3 | 3 | 4 | 3 | 2 | Physical + political | 4 |
 | Isekai | 4 | 4 | 3 | 3 | 3 | 5 | Physical + comic | 3 |
@@ -105,7 +105,7 @@ Users rarely name one clean genre. Translate the request:
 |---|---|---|---|
 | "Anime-style school story" | School drama/SoL | Rom-com | Default home setting |
 | "Harem comedy" | Harem | Rom-com | Keep the lead likable. See [Harem §4](harem.md#4-the-leads-likability-problem). |
-| "Ecchi" | Ecchi comedy | Rom-com | Ask or infer ages. Adults only for suggestive beats. See the [safety rule](ecchi-and-fanservice.md#1-the-hard-safety-rule-read-first). |
+| "Ecchi" | Ecchi comedy | Rom-com | Establish ages on the page. Adults are unrestricted; minors get no sexual rendering. See the [content line](ecchi-and-fanservice.md#1-the-content-line) and the [register table](ecchi-and-fanservice.md#3-choosing-the-register). |
 | "Isekai" | Isekai | Fantasy | Decide: OP power fantasy or slow life? |
 | "Villainess" | Villainess/otome | Romance, mystery | Doom flags are the plot engine |
 | "Something sad" / "tearjerker" | Melodrama | School SoL | Plant the grief early |
@@ -148,7 +148,7 @@ The contrast does the tonal work. You do not need a transition sentence like "Bu
 
 **Rom-com + mystery.** "Who sent the love letter?" and "Who leaked the photo?" A mystery spine gives rom-com chapters forward drive. The narrator's suspicion engine does double duty.
 
-**Ecchi + harem.** Classic, and the most dangerous for voice. Without the analytical narrator it becomes a list of accidents. Keep the lead's *embarrassment and reasoning* at the center rather than anyone's body, and keep the age rule absolute.
+**Ecchi + harem.** Classic, and the most dangerous for voice. Without the analytical narrator it becomes a list of accidents. Keep the lead's *embarrassment and reasoning* at the center — the body is what the reasoning is about, not a replacement for it — and apply the content rule: adults unrestricted, minors never sexualized.
 
 **Villainess + romance.** The doom flag is the external clock and the slow burn is the internal one. The heroine thinks she is dodging a death flag while the reader sees she is triggering a love flag. Dramatic irony is the comedy.
 
@@ -253,7 +253,7 @@ Long serials drift. Watch for these signs and correct them early.
 | **Comedy creep** | Every drama beat now ends on a gag. The sincerity ceiling has collapsed to 1. | Write one full section with no jokes at all. Let silence and `"..."` carry it. |
 | **Drama creep** | A rom-com has had three straight chapters of misery | Reinstate the running gags and bring the confidant back for a comic scene |
 | **Exposition creep** (fantasy, isekai) | Paragraphs of world rules with no one reacting | Convert rules to dialogue. Someone asks, someone answers badly, and the narrator corrects in his head. |
-| **Fanservice creep** | Accidents per chapter keep rising, and the plot stops | Cap it at one beat per chapter and tie each to a relationship change. Re-run the [age rule](ecchi-and-fanservice.md#1-the-hard-safety-rule-read-first). |
+| **Fanservice creep** | Beats per chapter keep rising, and the plot stops | Tie every beat to a relationship change or a plot turn. Raising the heat is fine; freezing the story to do it is not. Re-check the [content rule](ecchi-and-fanservice.md#1-the-content-line). |
 | **Cast bloat** (harem, fantasy) | Eight named characters in every scene, most silent | Use the "two talk, one reacts, the rest are furniture" rule for any scene over five people |
 | **Narrator erasure** (action) | Fight chapters read like choreography notes | Put one analytical or self-doubting paragraph between exchanges |
 | **Tone lock** | Every chapter has the same shape and the same emotional temperature | Vary the chapter type: a quiet chapter, a comic chapter, a crisis chapter |
@@ -282,7 +282,7 @@ None of these is mandatory. Vary them across chapters as [Chapter & Section](../
 
 - Writing comedy of any flavor: [Rom-Com & Comedy](romcom-and-comedy.md), then [Tone & Comedy](../core/tone-and-comedy.md).
 - Juggling many heroines: [Harem](harem.md), then [Character Design](../cast/character-design.md).
-- Anything with fanservice: [Ecchi & Fanservice](ecchi-and-fanservice.md). Read its safety section first, every time.
+- Anything with fanservice: [Ecchi & Fanservice](ecchi-and-fanservice.md). Read §1 and pick the register first, every time.
 - Planning an arc in any genre: [Arc Design](../structure/arc-design.md) and [Hooks & Cliffhangers](../structure/hooks-and-cliffhangers.md).
 - Scene building blocks that work across genres: [Scene Playbook](../scenes/scene-playbook.md).
 - A POV who isn't a cynical loner (a sincere harem lead, a genki narrator, a schemer): [POV Temperaments](../core/pov-temperaments.md).

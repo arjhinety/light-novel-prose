@@ -100,7 +100,7 @@ Seat positions are the cheapest, strongest tool in the genre. The window seat at
 **Fails when:** Bullies are motiveless monsters, the victim has no inner life, or a teacher solves everything in one scene with no residue.
 
 Tone rules for bullying content:
-- Keep it at the teen-drama level. Humiliation, isolation, vandalism of belongings, a marker on a face. Avoid sexual violence and graphic injury.
+- Keep it at the teen-drama level. Humiliation, isolation, vandalism of belongings, a marker on a face. Sexual violence and graphic injury belong to adult casts and other genres, not to a school bullying arc.
 - Always give the victim at least one moment of interiority, even if it is a cut-away.
 - The aftermath matters as much as the act. Who apologizes? Who doesn't? What stays unresolved?
 

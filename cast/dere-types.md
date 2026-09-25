@@ -640,7 +640,7 @@ Undere as an ideal doormat: never frame her compliance as romantic. The POV "res
 
 The sadodere **shows affection through teasing, mild cruelty, and enjoying your discomfort**. She pokes because reactions are proof of connection. Beneath it is usually **control as safety**: if she is the one making you flustered, she's never the one who's flustered.
 
-**Tone rule:** in school settings, sadodere teasing is **verbal and social**, not sexual. She teases your haircut, your grades, your terrible poker face. The adult onee-san variant is covered in [Character Tropes](character-tropes.md#2-onee-san), and even there this skill keeps it non-explicit (see [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md) for the hard rules).
+**Tone rule:** in school settings, sadodere teasing is verbal and social — haircuts, grades, your terrible poker face. The adult onee-san variant is covered in [Character Tropes](character-tropes.md#2-onee-san), and with adults it can be physical, sexual, and explicit; see [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md) for the registers.
 
 ### 11.2 Speech and body
 
@@ -665,7 +665,7 @@ Sayo Kujou has sadodere tendencies toward Amamiya ("You have some nerve. I'll ha
 
 ### 11.5 Failure modes
 
-Cruelty that actually hurts without acknowledgment: if she crosses a line, *show* her realize it. Teasing with sexual edges in a school setting: not in this skill. Keep it verbal and social.
+Cruelty that actually hurts without acknowledgment: if she crosses a line, *show* her realize it. Teasing with sexual edges toward anyone under 18: out of bounds. With adults, the edges are the point.
 
 ---
 
@@ -774,7 +774,7 @@ If any two lines could be swapped without the reader noticing, the types aren't 
 - [ ] The POV's interpretation is plausible *and* possibly wrong.
 - [ ] Her catchphrase appears at most once (or zero times) in the scene.
 - [ ] Her stutters happen only when she is caught.
-- [ ] If yandere or sadodere: menace or teasing is psychological or verbal, never sexual in a school setting, and never glamorized.
+- [ ] If yandere or sadodere: menace or teasing is psychological or verbal with a young cast, can be sexual with adults, and is never glamorized.
 - [ ] She wants something in this scene besides the love interest.
 - [ ] If another heroine is present, their lines could not be swapped.
 - [ ] The scene ends on a tilt caused by *her* (see [Hooks & Cliffhangers](../structure/hooks-and-cliffhangers.md)).

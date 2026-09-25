@@ -216,7 +216,7 @@ The same constraint produces sadness. He can see someone drowning and can only s
 **Fails:** A repeated template.
 
 ### 8.5 The slave or companion purchase
-**Handle with extreme care or avoid.** It's a common trope with ugly implications. If used, the story must treat it as a moral problem the narrator is horrified by, and the companion must have full agency and a path to freedom early. Never romanticize ownership. Prefer alternatives: a rescued companion, a contracted employee, or a debt the narrator pays off for them.
+**Choose the register deliberately.** It's a common trope with ugly implications, and the genre is full of bad versions. Played straight, it needs the narrator to notice the ugliness — horror, guilt, or a plan to end it — and the companion to have agency and a path out early. Played as dark comedy, as exploitation, or as open cruelty toward an adult companion, it is a register like any other (see [Ecchi §5.9](ecchi-and-fanservice.md#59-non-consent-and-dubious-consent)); what the narration never questions, the reader will read as endorsed. If you don't want to spend the chapter on it, use one of the alternatives: a rescued companion, a contracted employee, or a debt the narrator pays off for them.
 
 ### 8.6 The harem accumulation
 **Well:** Each heroine joins for her own reason and has her own arc. See [Harem](harem.md).
@@ -406,7 +406,7 @@ The drama follows naturally: the popular group becomes the kingdom's darlings, t
 5. **Everyone loves him instantly.** *Fix:* Suspicion, jealousy, and indifference are the default. Affection is earned on-page.
 6. **Lampshade overload.** *Fix:* One meta joke per chapter maximum.
 7. **Power fixes feelings.** *Fix:* Inner wounds need inner solutions: people, time, choices.
-8. **Unexamined ugly tropes** (slavery, non-consent, "purchasing" companions). *Fix:* See §8.5. Avoid them, or treat them as serious moral problems.
+8. **Unexamined ugly tropes** (slavery, coercion, "purchasing" companions). *Fix:* See §8.5. They are usable — as horror, as dark comedy, as an explicit adult register — but never as set dressing the narration fails to notice.
 
 ---
 

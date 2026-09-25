@@ -60,7 +60,7 @@ Anime casts are color-coded, and the LN reader expects it. Give each heroine a *
 ### 2.4 Failure modes
 - **The shopping list.** "She had long black hair, blue eyes, a slim figure, pale skin, red lips..." A list with no crack and no attitude is a character creator menu. Always end on the crack.
 - **Re-portraiting.** Once the portrait is done, never repeat it in full. Later, use a *single* feature as an emotional signal ("Her gray eyes went flat.").
-- **Male gaze drift.** The POV may notice attractiveness, since it's part of the genre, but a portrait that lingers on bodies reads as a different genre. In school settings, keep appreciation to faces, hair, bearing, and reputation. See [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md) for the hard rules.
+- **Male gaze drift.** The POV notices attractiveness; that is the genre. With adult characters the gaze can go where it likes — bodies, clothes, weight, skin — as long as the *character* is doing the looking and paying for it. With a school cast, keep appreciation to faces, hair, bearing, and reputation. Either way the portrait ends on the crack. See [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md) for the content rule.
 
 ---
 

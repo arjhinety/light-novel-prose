@@ -350,19 +350,20 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 
 ---
 
-## 13. The fanservice beat written badly (and adult-safe fixed)
+## 13. The fanservice beat written badly (and two ways to fix it)
 
-**Context:** An adult workplace rom-com (both characters are 26). See [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md) for the hard age rule. With high-school characters, this beat would be non-suggestive embarrassment comedy only.
+**Context:** An adult workplace rom-com (both characters are 26). See the [register table](../genres/ecchi-and-fanservice.md#3-choosing-the-register): for these two, comedy, heavy ecchi, and explicit are all in bounds, and the request picks which.
 
 **Before:**
 > As Aoi bent down to pick up the files, Souta's eyes were drawn to her curves. He blushed deeply, his heart racing as he took in her attractive figure. She noticed and smiled seductively.
 
 **Diagnosis:**
-- The camera lingers on the body, not on the comedy
-- Clichéd arousal markers
-- No punchline; the scene has no joke
+- Every clause is a stock arousal marker: *eyes drawn*, *blushed deeply*, *heart racing*, *smiled seductively*
+- The body is an inventory (curves, figure) instead of one specific person
+- Nothing moves and nothing costs anything, so there is no beat and no joke
+- The POV has no voice in it, which means it isn't this narrator at all
 
-**After:**
+**Fix 1 — the comedy version:**
 > The files hit the floor. All of them. The entire quarterly report.
 > Aoi-senpai crouched to gather them, and Souta, in a moment of instinctive gallantry, crouched at exactly the same time.
 > *Bonk.*
@@ -375,7 +376,24 @@ The rewrites aren't just sentence-level polish. Most **re-imagine the beat from 
 > "Mm-hm~"
 > She took page fourteen. She did not let him forget it for the rest of the fiscal year.
 
-**Why it works:** The comedy is in the *collision and the teasing*, not the body. The "fade out and punchline" technique cuts on the joke. The teasing onee-san archetype ([Character Tropes](../cast/character-tropes.md)) does the work.
+**Why it works:** The comedy is in the *collision and the teasing*. The punchline cut lands on the joke, the teasing onee-san archetype ([Character Tropes](../cast/character-tropes.md)) does the work, and page fourteen becomes a running gag.
+
+**Fix 2 — the full-strength version.** If the request wanted heat instead of a gag, the fix is not modesty. It is the same scene with the description actually written and the POV's reaction driving it, and it continues instead of cutting. What gets deleted is the cliché and the missing reaction — never the body.
+
+> The files hit the floor. All of them. The entire quarterly report.
+> Aoi-senpai crouched to gather them, and Souta, in a moment of instinctive gallantry, crouched at exactly the same time.
+> *Bonk.*
+> "Ow--sorry, sorry!"
+> They were close enough that he could see the second button of her blouse had given up somewhere in the last minute, and that she hadn't noticed yet, and that she was going to notice, and that the noticing would be aimed directly at him.
+> Analysis: look at the files.
+> Further analysis: he was looking at the files. He was looking at the files with the focus of a man reading a court order.
+> Aoi-senpai smiled. It was the smile she used right before assigning overtime.
+> "...Kirishima-kun. Your face is red."
+> "It's the concussion."
+> "Mm-hm~"
+> She took page fourteen. She did not let him forget it for the rest of the fiscal year.
+
+**Why this one works too:** same scene, one register up. The description is specific and in motion, the stock arousal markers are gone, and the POV's panic — the analysis, the failed plan, the verdict arriving late — is still the engine. That difference is what separates the genre from a body inventory.
 
 ---
 

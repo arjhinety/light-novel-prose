@@ -111,7 +111,7 @@ Keep, unitalicized, where natural: honorifics, senpai/kouhai, bento, itadakimasu
 
 - **Rom-com/comedy:** a higher gag ratio, misunderstanding engines, tsukkomi (the POV) against boke (the cast), callbacks.
 - **Harem:** differentiate every heroine by look, tic, want, and wound. The lead must earn likability. Show the harem from outside when the POV isn't the lead.
-- **Ecchi/fanservice:** comedic timing, then a fade-out and a punchline. **Suggestive content only between unambiguous adults (18+). High-school characters get non-sexual embarrassment comedy only. Nothing explicit, ever.**
+- **Ecchi/fanservice:** read [Ecchi & Fanservice](genres/ecchi-and-fanservice.md) and pick the register from §3 — gag ecchi, heavy ecchi, or explicit. Comedic timing and the punchline cut for comedy; bodies described, undressing, and the act on the page for adults. **Adult characters are unrestricted. Characters who are minors are never sexualized: age the cast up, move the heat to an adult character, or write the beat as non-sexual comedy.**
 - **Fantasy/isekai:** the same close-third cynicism aimed at a new world. Worldbuild through dialogue and the POV's comparisons to modern life. Status windows are short, in brackets, and the POV comments on them.
 - **Villainess/otome:** an ojou narrator who knows the "game", with doom flags as the analytical engine.
 - **Action:** short beats, attack names in dialogue, tactical monologue mid-fight, a cost for every win.

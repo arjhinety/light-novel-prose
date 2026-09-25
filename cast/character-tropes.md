@@ -29,7 +29,7 @@ Tropes are **reader shorthand**. The moment you say "gyaru", the reader pictures
 2. **Never let the narrator name the trope straight.** He can name it *ironically* ("the gyaru, apparently, because apparently that was a thing people still were"), but only once.
 3. **The trope should create friction with the POV.** A loner POV and a gyaru clash on noise level; a cynic and a chuuni clash on sincerity. Friction is scenes.
 4. **Tropes carry honorific implications.** A kouhai says "senpai"; a childhood friend uses the bare given name or a nickname; an ojou-sama says "-san" to everyone. See [Honorifics & Address](../dialogue/honorifics-and-address.md).
-5. **Fanservice-adjacent tropes** (onee-san, gyaru, the "teasing" types) stay **non-sexual** with any character under 18. Their charm in this skill is attitude, voice, and social energy, not bodies. See [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md) for the hard rule.
+5. **Fanservice-adjacent tropes** (onee-san, gyaru, the "teasing" types) run at full strength with adult characters: attitude, voice, and bodies. With anyone under 18 they stay non-sexual — comedy, attitude, and social energy. See [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md) for the content rule.
 
 ---
 
@@ -39,7 +39,7 @@ Tropes are **reader shorthand**. The moment you say "gyaru", the reader pictures
 
 The **onee-san** ("older sister" type, not necessarily a relative) is an **older woman who is confident, teasing, and a little bit in control of every conversation**. She is amused by younger people's awkwardness and plays with it, often while being genuinely kind underneath.
 
-**Age rule for this skill:** the onee-san is an **adult**: a university student living next door, a café part-timer in her twenties, a young teacher, a cousin home from Tokyo. The POV is a high schooler, so **her teasing is social and verbal, never sexual or romantic toward him**. The comedy is her effortless adult ease against his teenage stiffness. If the POV himself is an adult (a workplace or university story), the adult-romance options open up, still non-explicit (see [Romance & Melodrama](../genres/romance-and-melodrama.md)).
+**Age rule for this skill:** the onee-san is an **adult**: a university student living next door, a café part-timer in her twenties, a young teacher, a cousin home from Tokyo. When the POV is a high schooler, her teasing toward him is social and verbal — no sexual framing, with the comedy coming from her adult ease against his teenage stiffness. When the POV is also an adult (a workplace or university story), the teasing can be physical and the romance explicit. See [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md) and [Romance & Melodrama](../genres/romance-and-melodrama.md).
 
 ### 2.2 Core psychology
 
@@ -97,7 +97,7 @@ Teasing mentor, then her crack revealed, then an exchange in which the POV helps
 
 | Failure | Fix |
 |---|---|
-| Sexualized teasing toward a minor POV | Not in this skill. Keep it verbal, social, and sisterly. |
+| Sexualized teasing toward an underage POV | Out of bounds. Keep it verbal, social, and sisterly. |
 | "Ara ara" every line | Once, if at all. Build her voice from specific observations. |
 | All-knowing oracle with no life | Give her a mess: thesis, rent, a breakup, a family fight |
 | Exists only to explain the heroine's feelings | She should misread things sometimes too |
@@ -378,7 +378,7 @@ Noise without an inside. A genki girl who is only a mood-lifter for the protagon
 
 A **fashion-forward, confident, socially fluent girl** with dyed hair, decorated nails, loose-worn uniform, slang-heavy speech, and a phone always in hand. Modern LNs love the "**gyaru who is kind to otaku**" trope: she is outwardly intimidating and inwardly the least judgmental person in the class.
 
-**Rule for this skill:** the gyaru's appeal is **social confidence and warmth**, not sexualization. With school-age characters, describe fashion (hair color, accessories, nail art, how she wears the uniform) without lingering on her body. Keep the camera on her attitude and her face.
+**Rule for this skill:** the gyaru's appeal is **social confidence and warmth** first. With school-age characters the description stays on fashion — hair color, accessories, nail art, how she wears the uniform — and on her face and attitude. An adult gyaru gets the full treatment, body included, at whatever heat the register calls for; see the [content rule](../genres/ecchi-and-fanservice.md#1-the-content-line).
 
 ### 9.2 Core psychology
 
@@ -430,7 +430,7 @@ Kuze's cynicism predicts contempt. He expects her to mock his book, his lunch, h
 
 | Failure | Fix |
 |---|---|
-| Sexualized description of a school-age gyaru | Fashion, attitude, face, and voice only |
+| Sexualized description of a school-age gyaru | Out of bounds: fashion, attitude, face, and voice only |
 | Slang soup, unreadable | 1-2 slang markers per line, max |
 | "Secretly nerdy" as her only depth | Add pressure: work, family, a friend she's losing |
 | She fixes the loner POV | She has her own arc; he gives back |
@@ -556,7 +556,7 @@ The tomboy's arc is traditionally "realizing she's a girl", which is a stale fra
 
 ### 13.5 Failure modes
 
-Making her change her style to "win" the guy. Treating her athletic body as fanservice. Keep her comfort, and let the romance adapt to *her*.
+Making her change her style to "win" the guy. Treating her athletic body as an object that belongs to the reader rather than to her. Keep her comfort, and let the romance adapt to *her*.
 
 ---
 
@@ -852,7 +852,7 @@ Take one line of intent, *"I want to walk home with you,"* and write it for each
 - [ ] Her signature gesture (glasses push, ponytail swing, "ara ara") appears at most once per scene.
 - [ ] Her honorifics and nicknames are recorded in the story bible and consistent.
 - [ ] The POV has a first theory about her that is plausible and incomplete.
-- [ ] If she's an adult teasing type near a minor POV, the teasing is strictly non-sexual. If she's a school-age character, nothing about her is framed sexually.
+- [ ] If she's an adult, her teasing and her body can carry whatever heat the register calls for. If she's under 18, nothing about her is framed sexually at all.
 - [ ] Siblings are family, never romance.
 - [ ] She could not be swapped with another cast member without the reader noticing.
 - [ ] She wants something in the scene that has nothing to do with the POV.

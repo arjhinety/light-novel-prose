@@ -83,7 +83,7 @@
 | [genres/school-drama-and-slice-of-life.md](genres/school-drama-and-slice-of-life.md) | The home genre: hierarchy, loneliness, bullying, quiet everyday chapters |
 | [genres/romcom-and-comedy.md](genres/romcom-and-comedy.md) | Misunderstanding engines, gag timing in prose, tsukkomi/boke, callbacks |
 | [genres/harem.md](genres/harem.md) | Heroine differentiation, the lead's likability problem, the ending problem, reverse harem |
-| [genres/ecchi-and-fanservice.md](genres/ecchi-and-fanservice.md) | Fanservice comedy with timing and restraint. **Adults-only rule.** |
+| [genres/ecchi-and-fanservice.md](genres/ecchi-and-fanservice.md) | Fanservice at full strength: gag ecchi to heavy ecchi to explicit adult scenes. **Read §1.** |
 | [genres/fantasy.md](genres/fantasy.md) | Magic academies, guilds, worldbuilding through dialogue |
 | [genres/isekai-and-reincarnation.md](genres/isekai-and-reincarnation.md) | Openings, status windows, OP MCs, slow life, the meta-aware narrator |
 | [genres/villainess-and-otome.md](genres/villainess-and-otome.md) | Doom flags, ballroom politics, the ojou narrator |

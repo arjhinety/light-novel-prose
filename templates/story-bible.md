@@ -40,7 +40,7 @@ Why each section exists:
 - **The lie the POV believes:** (the belief the climax breaks)
 - **The truth they'll arrive at:**
 - **Target length / serialization:** (e.g. 100 chapters x 3,000 words; weekly)
-- **Content rating:** (and any hard limits from the user)
+- **Content rating and heat level:** (teen drama, ecchi, explicit; any hard limits from the user; and the register from [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md) §3)
 
 ### 2.2 POV profile
 
@@ -115,7 +115,7 @@ Rate each 1-5 for this story (see [Tone & Comedy](../core/tone-and-comedy.md)):
 - Comedy:
 - Cynicism of the narration:
 - Melodrama at peaks:
-- Fanservice (adult casts only; see [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md)):
+- Fanservice / heat level (adult characters unrestricted; minors never sexualized; see [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md)):
 - Description density:
 - Dialogue share (target %): (40-55%; 35% only for a chapter the plan marks as introspective)
 
@@ -165,7 +165,7 @@ This is the bible for the story in [Sample Chapter 1](../examples/sample-chapter
 - **The lie:** Everything can be kept even. Rational means safe.
 - **The truth:** Some things aren't debts. Caring about someone doesn't need a better reason.
 - **Target:** ~100 chapters of 3,000-6,000 words. Arc 1 = April-June (Ch. 1-40).
-- **Rating:** Teen drama. Bullying, embarrassment, jealousy. No sexual content.
+- **Rating:** Teen drama. Bullying, embarrassment, jealousy. (The heat-level field above is 0 for this book because the cast is in high school; an adult-cast story would set it wherever the user wants.)
 
 ### 3.2 POV profile
 
@@ -258,7 +258,7 @@ Reika -> Rin  : resentment [known from Ch. 25]
 
 ### 3.10 Tone dials
 
-Comedy 3 · Cynicism 4 · Melodrama at peaks 5 · Fanservice 0 · Description density 2 · Dialogue share ~50%
+Comedy 3 · Cynicism 4 · Melodrama at peaks 5 · Fanservice 0 (high-school cast; the dial runs to 5 for adult casts) · Description density 2 · Dialogue share ~50%
 
 ### 3.11 Style notes
 

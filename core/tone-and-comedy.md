@@ -365,7 +365,7 @@ The tonal contract above is the school-drama default. Other genres move the dial
 - **Fantasy and isekai** often use an OP or modern-knowledge narrator whose deadpan works against the world's grandiosity: a guildmaster's dramatic speech met with "So, is that a yes on the loan?" See [Isekai & Reincarnation](../genres/isekai-and-reincarnation.md).
 - **Mystery and psychological** stories strip out most comfort. The tilde and the smile become threats, and the deadpan becomes clinical observation. See [Mystery, Psychological & Horror](../genres/mystery-psychological-horror.md).
 - **Romance and melodrama** keep the ache high throughout and use comedy as sunlight between rainclouds: small, domestic, fond. See [Romance & Melodrama](../genres/romance-and-melodrama.md).
-- **Ecchi** comedy runs on embarrassment and slapstick timing, never leering narration, with the strict age rules in [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md).
+- **Ecchi** runs on embarrassment and slapstick timing in the gag registers, and on bodies, escalation, and explicit description when the cast is adult. See the register table and the content rule in [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md).
 
 Whatever the genre, the two universal rules hold: the narrator doubts himself as much as others, and the peaks go joke-free.
 

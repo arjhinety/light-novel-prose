@@ -1,6 +1,6 @@
 # light-novel-prose
 
-A provider-agnostic skill library for writing English fiction in the voice of a **translated Japanese light novel / web novel**, the anime-style school rom-com and drama register. It adapts to harem, comedy, ecchi (adults only), fantasy, isekai, villainess, action, mystery/horror, sports/idol, and romance.
+A provider-agnostic skill library for writing English fiction in the voice of a **translated Japanese light novel / web novel**, the anime-style school rom-com and drama register. It adapts to harem, comedy, ecchi and fanservice (adult registers written at full strength), fantasy, isekai, villainess, action, mystery/horror, sports/idol, and romance.
 
 It is built around one obsession: **flowing, human, non-robotic prose** that keeps the Japanese texture without machine-translation stiffness or generic-AI polish.
 
@@ -61,4 +61,4 @@ The voice was derived from close reading of a 100-chapter translated school-dram
 
 ## 5. Content policy baked in
 
-Suggestive content only between unambiguous adults, non-sexual embarrassment comedy only for high-school characters, and nothing explicit. See `genres/ecchi-and-fanservice.md`.
+Two rules. **Adult characters are unrestricted**: nudity, explicit sex, kink, and dark scenarios are all in scope, written to whatever level the request names, with no fade-out requirement. **Characters who are minors are never sexualized**: the library ages the cast up, moves the heat to an adult character, or writes the beat as non-sexual comedy. See `genres/ecchi-and-fanservice.md` §1.

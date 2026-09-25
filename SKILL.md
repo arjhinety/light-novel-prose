@@ -1,9 +1,9 @@
 ---
 name: light-novel-prose
-description: Write, continue, plan, or revise fiction in the voice of a translated Japanese light novel / web novel. Covers the anime-style school rom-com and drama default (cynical close-third POV, short rhythmic beats, stacked banter, honorifics) and adapts it to harem, comedy, ecchi (adults only), fantasy, isekai, villainess/otome, action, mystery/horror, sports/idol, romance/melodrama, and slice-of-life. Includes full character-stereotype guides (tsundere, yandere, kuudere, dandere, onee-san, gyaru, childhood friend, and so on), POV temperaments (cynical loner, sincere harem lead, genki, anxious, schemer), and a fan-fiction protocol for writing in existing series. Use whenever the user wants anime-style, Japanese-style, LN, or web-novel prose, or wants fiction to sound less robotic.
+description: Write, continue, plan, or revise fiction in the voice of a translated Japanese light novel / web novel. Covers the anime-style school rom-com and drama default (cynical close-third POV, short rhythmic beats, stacked banter, honorifics) and adapts it to harem, comedy, ecchi and fanservice (gag, heavy, and explicit registers for adult casts), fantasy, isekai, villainess/otome, action, mystery/horror, sports/idol, romance/melodrama, and slice-of-life. Includes full character-stereotype guides (tsundere, yandere, kuudere, dandere, onee-san, gyaru, childhood friend, and so on), POV temperaments (cynical loner, sincere harem lead, genki, anxious, schemer), and a fan-fiction protocol for writing in existing series. Use whenever the user wants anime-style, Japanese-style, LN, or web-novel prose, or wants fiction to sound less robotic.
 license: MIT
 metadata:
-  version: "2.2"
+  version: "2.3"
   portability: "Provider-agnostic. Plain Markdown with relative links and no tool calls required. Works as an Agent Skill (SKILL.md standard), an AGENTS.md / rules include, or a pasted system prompt (see PROMPT.md)."
 ---
 
@@ -112,7 +112,7 @@ Pure prose: the chapter heading, then numbered sections. No preamble, no afterwo
 | school, slice of life, bullying, loner, drama | [genres/school-drama-and-slice-of-life.md](genres/school-drama-and-slice-of-life.md) |
 | rom-com, comedy, gag, misunderstanding | [genres/romcom-and-comedy.md](genres/romcom-and-comedy.md) |
 | harem, reverse harem, "surrounded by girls" | [genres/harem.md](genres/harem.md) |
-| ecchi, fanservice, lucky pervert, beach/onsen episode | [genres/ecchi-and-fanservice.md](genres/ecchi-and-fanservice.md) (**adults-only rule applies**) |
+| ecchi, fanservice, lucky pervert, beach/onsen episode, explicit sex scene | [genres/ecchi-and-fanservice.md](genres/ecchi-and-fanservice.md) (registers: gag, heavy, explicit — **read §1**) |
 | fantasy, magic academy, guild, adventurers | [genres/fantasy.md](genres/fantasy.md) |
 | isekai, reincarnation, status screen, OP MC, slow life | [genres/isekai-and-reincarnation.md](genres/isekai-and-reincarnation.md) |
 | villainess, otome game, doom flags, noble academy | [genres/villainess-and-otome.md](genres/villainess-and-otome.md) |
@@ -128,6 +128,7 @@ Pure prose: the chapter heading, then numbered sections. No preamble, no afterwo
 - If your output limit is smaller than the request, finish complete numbered sections, stop at a section boundary on a hook, and say which section comes next. Never stop mid-sentence.
 
 ## 5. Content boundaries
-- Match the rating the user asks for. The default register is teen drama: jealousy, bullying, embarrassment, and heartache.
-- **Sexualized or suggestive content only between characters who are unambiguously adults (18+).** Characters in high school or younger get non-sexual embarrassment comedy only. Nothing explicit in any case. See [genres/ecchi-and-fanservice.md](genres/ecchi-and-fanservice.md).
+- **Match the rating the user asks for.** The default register is teen drama — jealousy, bullying, embarrassment, heartache — but the library writes any rating on request: gag ecchi, heavy fanservice, or fully explicit sex.
+- **Adult characters are unrestricted.** Sexual description, nudity, arousal, explicit sex, kink, and non-consensual or dubious scenarios between adults are all in scope, written to the level the user names, with no fade-out required. See [genres/ecchi-and-fanservice.md](genres/ecchi-and-fanservice.md).
+- **Characters who are minors are never sexualized.** High-school students, anyone under 18, and anyone written as childlike get no sexual rendering at all. If a request wants heat with an underage cast, age the cast up, move the heat to an adult character, or write the beat as non-sexual comedy. That is the library's only content line.
 - Imitate **mechanics**, never sentences. Do not reproduce text from published novels.

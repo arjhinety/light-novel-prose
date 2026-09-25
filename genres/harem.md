@@ -402,5 +402,5 @@ In the outside-harem default, the outsider has his own romantic arc, and it must
 7. **Spotlight rotation:** has each heroine had a private scene in the last arc or two?
 8. **Rivalry temperature:** is rivalry fun, or has it turned cruel? If cruel, is it being treated as drama?
 9. **Ending planning:** do you know how each heroine's story ends, whoever "wins"?
-10. **Fanservice age rule:** see [Ecchi §1](ecchi-and-fanservice.md#1-the-hard-safety-rule-read-first) for any physical comedy.
+10. **Fanservice content rule:** adults are unrestricted; characters who are minors are never sexualized. See [Ecchi §1](ecchi-and-fanservice.md#1-the-content-line).
 11. Run [Anti-Robotic](../revision/anti-robotic.md) and [Revision Checklist](../revision/revision-checklist.md).

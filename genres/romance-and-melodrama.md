@@ -208,7 +208,7 @@ Not every LN romance is set in high school. Office romances, university romances
 - **Settings**: the office after overtime, the izakaya after a drinking party, the convenience store at 1 a.m., the apartment balcony next door, the last train home.
 - **Obstacles**: workplace rules, age gaps (between adults), past relationships, careers vs. love, transfers to another branch.
 - **The narrator's cynicism becomes weariness.** He's tired, not bitter. He is overworked and underslept, and the humor is exhausted deadpan.
-- **Romance and intimacy can be more mature, between adults.** Keep the LN's restraint: fade out at the door, and put the emotional intimacy on the page. See [Ecchi & Fanservice](ecchi-and-fanservice.md) for content rules.
+- **Intimacy between adults is written at whatever level the request names**, from a fade at the door to an explicit scene, with the emotional work always on the page. See [Ecchi & Fanservice](ecchi-and-fanservice.md) for the registers and §5.7 for scene structure.
 
 ### 6.2 Workplace sample passage
 

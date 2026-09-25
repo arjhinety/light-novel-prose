@@ -273,7 +273,7 @@ Using "noticed" and "realized" here is correct: the narrator is always a beat be
 
 ## 10. Fanservice and body description
 
-Portraits describe **hair, eyes, bearing, expression, and reputation**. They do not linger on bodies. The source uses at most a phrase ("a well-developed figure") and moves on. Any content that sexualizes characters must follow the hard rule in [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md): suggestive framing is only for unambiguous adults, and never for high-school characters. For school casts, keep physical description to what an anime character sheet would show in a school uniform.
+Portraits for a school cast describe **hair, eyes, bearing, expression, and reputation**. For adults, a portrait may also describe the body — build, the line of a shoulder or a waist, how clothes hang on them — because that is what the genre does, and the POV's reaction is part of the description. Both kinds of portrait end on the crack. Sexual rendering follows the content rule in [Ecchi & Fanservice](../genres/ecchi-and-fanservice.md): adult characters are unrestricted, minors get none.
 
 ## 11. Re-description: keeping portraits alive after the intro
 
@@ -296,6 +296,6 @@ Before you move on from a scene, confirm:
 - [ ] Props that matter are described plainly and interpreted by the POV.
 - [ ] Physical distance tracks social distance (steps back, seating, walking order).
 - [ ] At climaxes, description gets shorter and harder, not more ornate.
-- [ ] No lingering body description, and fanservice rules are observed.
+- [ ] Body description follows the content rule: full strength for adults, none for anyone under 18.
 
 For the whole-chapter audit, see [Revision Checklist](../revision/revision-checklist.md). For finished examples of portraits in context, see [Sample Chapter 01](../examples/sample-chapter-01.md) and [Annotated Passages](../examples/annotated-passages.md).
