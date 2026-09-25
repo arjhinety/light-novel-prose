@@ -1,0 +1,6 @@
+# This repository contains the skill only. Never commit generated prose,
+# chapters, metrics dumps or review artifacts here.
+/output/
+/review/
+/chapters/
+*.jsonl
